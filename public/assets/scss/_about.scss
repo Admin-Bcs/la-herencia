@@ -1,0 +1,119 @@
+/* 4. About */
+.about-us-area {
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.about-us-img {
+    margin-left: -132px;
+}
+.about-us-img img {
+}
+.about-us-text {
+}
+.about-us-text h1 {
+    font-size: 48px;
+    font-weight: 300;
+    line-height: 50px;
+    margin-bottom: 32px;
+}
+.about-us-text span {
+    font-size: 22px;
+    color: #7b8e9d;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+.about-us-text p {
+    margin-bottom: 0;
+    padding-right: 5px;
+}
+.about-us-text a.btn {
+    padding: 22px 52px;
+    margin-top: 31px;
+}
+
+/* style-2 */
+.about-shape {
+    position: relative;
+}
+.about-shape::before {
+    background-image: url("../img/about/shape.png");
+    background-repeat: no-repeat;
+    content: "";
+    height: 260px;
+    position: absolute;
+    transition: all 0.3s ease 0s;
+    width: 239px;
+    right: 291px;
+    bottom: 59px;
+}
+.about-text {
+}
+.about-text span {
+    font-size: 16px;
+    color: #6a6a6a;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    display: inline-block;
+    position: relative;
+    padding-left: 70px;
+}
+.about-text span::before {
+    position: absolute;
+    height: 2px;
+    width: 50px;
+    content: "";
+    background: #f7b422;
+    left: 0;
+    top: 12px;
+}
+.about-text h1 {
+    font-size: 60px;
+    color: #006d4a;
+    line-height: 70px;
+    font-weight: 300;
+    margin-top: 22px;
+    margin-bottom: 36px;
+}
+.about-text p {
+    margin-bottom: 0;
+    padding-right: 33px;
+}
+.about-text a.btn {
+    color: #222;
+    border: 2px solid #f7b422;
+    background: none;
+    padding: 21px 50px;
+    margin-top: 45px;
+    transition: 0.3s;
+}
+.about-text a.btn:hover {
+    color: #fff;
+}
+.about-img {
+    padding-left: 70px;
+}
+.about-img img {
+    width: 100%;
+}
+.about-info {
+    margin-top: 63px;
+}
+.about-info h1 {
+    font-size: 48px;
+    line-height: 50px;
+    font-weight: 300;
+    margin-bottom: 34px;
+}
+.about-info span {
+    font-size: 22px;
+    color: #7b8e9d;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+.about-info p {
+    margin-bottom: 0;
+}

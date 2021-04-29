@@ -1,0 +1,34 @@
+
+/* 21. Video */
+.video-area {
+	background-size: cover;
+	background-position: center center;
+}
+.video-icon a {
+	color: #fab522;
+	font-size: 24px;
+	height: 130px;
+	width: 130px;
+	background: #fff;
+	display: inline-block;
+	text-align: center;
+	line-height: 103px;
+	border-radius: 50%;
+	transition: .3s;
+	border: 15px solid #cdd1c4;
+}
+.video-icon a:hover{transform:scale(1.1);background:#fab522;border-color:#fff;color:#fff;}
+.zomata-area{}
+.zomata-img{}
+.zomata-img img{width:100%;}
+.zomata-wrapper {
+	padding-left: 70px;
+}
+.zomata-text{}
+.zomata-text h1 {
+	font-size: 60px;
+	font-weight: 300;
+	line-height: 70px;
+	margin-bottom: 37px;
+}
+.zomata-text p{}

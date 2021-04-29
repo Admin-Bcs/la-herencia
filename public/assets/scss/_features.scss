@@ -1,0 +1,109 @@
+
+/* 5. Features */
+.features-area {
+	background-size: cover;
+	background-position: center center;
+}
+.features-wrapper {
+	background: #fff;
+	padding: 60px 35px 53px 35px;
+	position:relative;
+	transition:.3s;
+}
+.features-wrapper:hover {
+	box-shadow: 0px 10px 60px 0px rgba(68, 68, 68, 0.17);
+	transform: translateY(-5px);
+}
+.features-wrapper::before {
+	background-image: url("../img/features/11.png");
+	background-repeat: no-repeat;
+	content: "";
+	height: 100%;
+	position: absolute;
+	transition: all 0.3s ease 0s;
+	width: 100%;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	opacity:0;
+}
+.features-wrapper:hover::before {opacity:1;}
+.features-wrapper.active::before {opacity:1;}
+.single-features{box-shadow: 0px 10px 60px 0px rgba(68, 68, 68, 0.17);position:relative;}
+.single-features::before {
+	background-image: url("../img/features/11.png");
+	background-repeat: no-repeat;
+	content: "";
+	height: 100%;
+	position: absolute;
+	transition: all 0.3s ease 0s;
+	width: 100%;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+}
+.features-img {
+	margin-bottom: 34px;
+}
+.features-text {
+	z-index: 1;
+	position: relative;
+}
+.features-text h4 {
+	font-size: 24px;
+	font-weight: 300;
+	margin-bottom: 14px;
+	transition:.3s;
+}
+.features-text h4:hover{
+	color:#408858;
+}
+.features-text p{margin-bottom:0;}
+.features-text a,.services-text > a,.we-do-text > a {
+	font-size: 14px;
+	color: #fff;
+	line-height: 1;
+	font-weight: 500;
+	display: inline-block;
+	transition: .3s;
+	margin-top: 21px;
+	background: #408858;
+	padding: 18px 35px;
+}
+.features-text a:hover,.services-text > a:hover,.we-do-text > a:hover{color:#444;background: #FAB522;}
+.features-text a i,.services-text > a i,.we-do-text > a i {
+	padding-left: 9px;
+	transition: .3s;
+	position: relative;
+	top: 2px;
+}
+.section-title{}
+.section-title h1 {
+	font-size: 60px;
+	font-weight: 500;
+	line-height: 1;
+	margin-bottom: 12px;
+}
+.section-title p {
+	margin-bottom: 0;
+	padding: 0 10px;
+}
+.section-img {
+	margin-bottom: 13px;
+}
+.section-img img{}
+.section-circle::before {
+	background-image: url("../img/shape/2.png");
+	background-repeat: no-repeat;
+	content: "";
+	height: 131px;
+	position: absolute;
+	left: 0;
+	transition: all 0.3s ease 0s;
+	width: 120px;
+	right: 0;
+	margin: auto;
+	top: 51px;
+}

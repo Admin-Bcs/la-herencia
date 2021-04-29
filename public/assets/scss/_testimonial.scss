@@ -1,0 +1,127 @@
+
+
+/* 16. Testimonial */
+.testimonial-area{}
+.testimonial-img {
+	margin-top: 90px;
+}
+.testimonial-img img{}
+.testimonial-wrapper {
+	background: #f8f9fd;
+	padding: 75px 54px 95px 60px;
+	position: relative;
+	margin-top: 30px;
+}
+.testimonial-wrapper::before {
+	background-image: url("../img/testimonial/icon1.png");
+	background-repeat: no-repeat;
+	content: "";
+	height: 65px;
+	position: absolute;
+	transition: all 0.3s ease 0s;
+	width: 74px;
+	left: 60px;
+	top: -27px;
+}
+.testimonial-text{}
+.testimonial-text p {
+	font-size: 24px;
+	line-height: 40px;
+	margin-bottom: 0;
+}
+.testimonial-content {
+	margin-top: 50px;
+}
+.testimonial2-img{float:left;margin-right:20px;}
+.testimonial2-img img {
+	box-shadow: 0px 8px 30px 0px rgba(95, 95, 95, 0.6);
+	border-radius: 50%;
+}
+.testimonial-name {
+	padding-top: 7px;
+}
+.testimonial-name h4 {
+	font-size: 18px;
+	font-weight: 300;
+	margin-bottom: 1px;
+}
+.testimonial-name span {
+	font-size: 13px;
+	font-weight: 400;
+	color: #7b8e9d;
+}
+.testimonial-active .owl-nav div {
+	color: #7b8e9d;
+	font-size: 18px;
+	text-align: center;
+	transition: all 0.3s ease 0s;
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	text-align: center;
+	line-height: 45px;
+	margin-right: 10px;
+	background: #eeeff3;
+	border-radius: 50%;
+}
+.testimonial-active .owl-nav {
+	position: absolute;
+	bottom: -40px;
+	left: 0;
+	right: 0;
+	text-align: center;
+}
+.testimonial-active .owl-nav div:hover{color:#fff;background:#ef491a;;}
+.testimonial-active.owl-carousel .owl-item img {
+	display: block;
+	width: auto;
+}
+.testimonial-bg {
+	padding: 0 80px;
+}
+
+.testimonial2-wrapper {
+	background: #f8f9fd;
+	padding: 75px 64px 95px 64px;
+	position: relative;
+	margin-top: 30px;
+}
+.testimonial2-wrapper::before {
+	background-image: url("../img/testimonial/icon.png");
+	background-repeat: no-repeat;
+	content: "";
+	height: 65px;
+	position: absolute;
+	transition: all 0.3s ease 0s;
+	width: 74px;
+	left: 65px;
+	top: -27px;
+}
+
+.testimonial2-active .owl-nav div {
+	color: #7b8e9d;
+	font-size: 18px;
+	text-align: center;
+	transition: all 0.3s ease 0s;
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	text-align: center;
+	line-height: 45px;
+	margin-right: 10px;
+	background: #eeeff3;
+	border-radius: 50%;
+}
+.testimonial2-active .owl-nav {
+	position: absolute;
+	bottom: -57px;
+	left: 0;
+	right: 0;
+	text-align: center;
+}
+.testimonial2-active .owl-nav div:hover{color:#fff;background:#fab522;}
+.testimonial2-active.owl-carousel .owl-item img {
+	display: block;
+	width: auto;
+}
+

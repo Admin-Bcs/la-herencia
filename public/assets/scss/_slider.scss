@@ -1,0 +1,73 @@
+
+/* 3. Slider */
+.slider-area {
+    position: relative;
+  }
+  .slider-height {
+      min-height: 950px;
+  }
+  .slider-height-2{
+      min-height: 800px;
+  }
+  .single-slider {
+      background-size: cover;
+      background-position: center center;
+  }
+  .slider-content{}
+  .slider-content h1 {
+      font-size: 90px;
+      font-weight: 300;
+      margin-bottom: 23px;
+      line-height: 1.1;
+  }
+  .slider-content p {
+      color: #677b8a;
+      font-size: 18px;
+      margin-bottom: 0;
+      padding-right: 47%;
+  }
+  .slider-button {
+      margin-top: 40px;
+  }
+  .slider-button a.btn.active {
+      background: #fab522;
+      margin-left: 25px;
+  }
+  .slider-content-3 h1 {
+      color: #fff;
+      font-size: 80px;
+  }
+  .slider-content-3 p {
+      padding: 0 150px;
+      color: #fff;
+  }
+  
+  .slider-active button.slick-arrow {
+      position: absolute;
+      top: 50%;
+      left: 100px;
+      transform: translateY(-50%);
+      border: 0;
+      font-size: 16px;
+      padding: 0;
+      color: #fff;
+      z-index: 2;
+      opacity: 0;
+      visibility: hidden;
+      height: 70px;
+      width: 70px;
+      border-radius: 50%;
+      cursor: pointer;
+      background: #408858;
+      transition:.3s;
+  }
+  .slider-active button.slick-next{left: auto;right:78px;}
+  .slider-active:hover button{
+      opacity: 1;
+      visibility: visible;
+  }
+  .slider-active button:hover{
+      background: #fff;
+      color: #112433;
+  }
+  

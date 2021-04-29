@@ -1,0 +1,52 @@
+
+/* 19. Breadcrumb */
+.breadcrumb-area {
+    background-position: center center;
+    background-size: cover;
+  }
+  .breadcrumb-text {
+      position: relative;
+      z-index: 1;
+  }
+  .breadcrumb-text > h1 {
+      font-size: 80px;
+      margin-bottom: 15px;
+      text-transform: capitalize;
+      line-height: 90px;
+      font-weight: 300;
+  }
+  .breadcrumb-menu {}
+  .breadcrumb-menu li {
+      display: inline-block;
+      position: relative;
+      padding: 0 20px;
+  }
+  .breadcrumb-menu li a {
+      color: #408858;
+      font-size: 26px;
+      font-weight: 400;
+      text-transform: capitalize;
+      transition: all 0.3s ease 0s;
+  }
+  .breadcrumb-menu li::before {
+      color: #222;
+      content: "\f054";
+      display: inline-block;
+      font-size: 16px;
+      left: -6px;
+      padding-bottom: 0;
+      position: absolute;
+      top: 8px;
+      font-weight: 600;
+      font-family: "Font Awesome 5 pro";
+  }
+  .breadcrumb-menu li:first-child::before {
+      display: none;
+  }
+  .breadcrumb-menu span {
+      color: #677b8a;
+      font-size: 26px;
+      font-weight: 400;
+      text-transform: capitalize;
+  }
+  

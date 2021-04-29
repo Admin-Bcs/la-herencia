@@ -1,0 +1,97 @@
+
+/* 23. Services Details */
+.services-sidebar {
+	padding: 65px 30px 67px 70px;
+	background-size: cover;
+	background-position: center center;
+}
+.services-title h1 {
+	color: #fff;
+	font-size: 48px;
+	font-weight: 300;
+	margin-bottom: 23px;
+	line-height: 48px;
+}
+.services-link {}
+.services-link li {
+	padding-bottom: 22px;
+}
+.services-link li:last-child{padding-bottom:0;}
+.services-link li a {
+	font-size: 18px;
+	color: #fff;
+	font-weight: 400;
+	transition: .3s;
+}
+.services-link li a:hover{color:#fab522;}
+.services-link li a i {
+	font-size: 14px;
+	margin-right: 6px;
+}
+.servicess-sidebar{border:none;padding:none;}
+.servicess-sidebar {
+	border: none;
+	padding: 0;
+}
+.services-banner img{width:100%;}
+.servicest-t-img {
+	margin-bottom: 34px;
+}
+.services-details-wrapper {
+	padding-left: 20px;
+}
+.services-details-img{}
+.services-details-img img{width:100%;}
+.services-details-text{}
+.services-details-text h1 {
+	font-size: 36px;
+	font-weight: 300;
+	margin-bottom: 20px;
+}
+.services-details-text p{margin-bottom:0;}
+.services-details-info {
+	padding: 37px 44px 40px 44px;
+	position: relative;
+	margin-top: 51px;
+	margin-bottom: 80px;
+}
+.services-details-info::before {
+	background-image: url("../img/service/service-details/icon1.png");
+	background-repeat: no-repeat;
+	content: "";
+	height: 68px;
+	position: absolute;
+	transition: all 0.3s ease 0s;
+	width: 82px;
+	right: 90px;
+	bottom: -31px;
+}
+.services-details-info p {
+	font-size: 24px;
+	color: #fff;
+	margin-bottom: 0;
+	line-height: 36px;
+	font-style: italic;
+}
+.services-details-link{}
+.services-details-icon-img {
+	float: left;
+	margin-right: 25px;
+	margin-top: 8px;
+}
+.services-details-link-text {
+	margin-bottom: 14px;
+	overflow: hidden;
+}
+.services-details-link-text p {
+	margin-bottom: 0;
+}
+.services-details-link-img img {
+	width: 100%;
+}
+.services2-details-text{}
+.services2-details-text p {
+	margin-bottom: 0;
+}
+.services2-img{}
+.services2-img img{width:100%;}

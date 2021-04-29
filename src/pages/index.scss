@@ -1,0 +1,10 @@
+@import './_bootstrap-variables';
+@import '~bootstrap/scss/bootstrap';
+@import "../../node_modules/slick-carousel/slick/slick.css";
+@import "../../public/assets/scss/dripicons.css";
+@import "../../public/assets/scss/flaticon.css";
+@import "../../public/assets/scss/themify-icons.css";
+@import "../../public/assets/scss/main";
+@import '../../node_modules/react-modal-video/scss/modal-video.scss';
+@import "../../node_modules/react-accessible-accordion/dist/fancy-example.css";
+@import '../../node_modules/@fortawesome/fontawesome-pro/css/all.min.css'; //Allows for server-side rendering.

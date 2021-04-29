@@ -1,0 +1,197 @@
+
+/* 24. Pagination */
+.paginations{}
+.paginations ul li {
+	display: inline-block;
+	padding: 0 3px;
+}
+.paginations ul li a {
+	background: #f4f7fc;
+	color: #7b8e9d;
+	display: table-cell;
+	font-size: 14px;
+	font-weight: 400;
+	height: 40px;
+	transition: all 0.3s ease 0s;
+	vertical-align: middle;
+	width: 40px;
+	text-align: center;
+	border-radius: 50%;
+}
+.paginations ul li:hover a, .paginations ul li.active a {
+  background: #408858;
+  color:#fff;
+}
+
+.gallery-layout-area{}
+.gallery-layout-wrapper{}
+.gallery-layout-img{}
+.gallery-layout-img img{width:100%;}
+.gallery-layout-bg {
+	padding: 54px 79px 48px 79px;
+	background-size: cover;
+	background-position: center center;
+	margin-left: 100px;
+	margin-right: 100px;
+	overflow: hidden;
+	margin-top: -83px;
+	z-index: 9;
+	position: relative;
+	box-shadow: 0px 8px 16px 0px rgba(129, 129, 129, 0.19);
+}
+.gallery-layout-info {
+	float: left;
+	margin-right: 127px;
+	margin-bottom: 10px;
+}
+.gallery-layout-info:last-child{margin-right:0;}
+.gallery-layout-info span {
+	font-size: 14px;
+	color: #7b8e9d;
+	font-weight: 300;
+}
+.gallery-layout-info h5 {
+	color: #112433;
+	font-size: 14px;
+	font-weight: 400;
+	margin-top: 6px;
+	margin-bottom: 0;
+}
+.gallery-post-tag {
+	background: #fff3ee;
+	padding: 13px 46px 13px 40px;
+	margin-right: 304px;
+}
+.gallery-post-tag span {
+	font-size: 16px;
+	color: #112433;
+	font-weight: 300;
+}
+.gallery-post-tag > a {
+	color: #7b8e9d;
+	display: inline-block;
+	font-size: 14px;
+	font-weight: 400;
+}
+.gallery-post-tag > a:hover {
+	color: #fab522;
+}
+.gallery-share-icon > span {
+	color: #112433;
+	font-size: 16px;
+	font-weight: 300;
+}
+.gallery-share-icon > a {
+	color: #fff;
+	font-size: 12px;
+	margin: 0 3px;
+	transition: .3s;
+	height: 30px;
+	width: 30px;
+	background: #2b7443;
+	display: inline-block;
+	text-align: center;
+	line-height: 30px;
+	border-radius: 50%;
+}
+.gallery-share-icon> a:hover{color: #fff;background:#fab522;}
+.gallery-share-icon {
+	background: #fff3ee;
+	padding: 13px 40px 13px 40px;
+	margin-left: 83px;
+}
+.gallery-layout-text {
+	margin-top: 67px;
+	margin-bottom: 45px;
+}
+.gallery-layout-text h1 {
+	font-size: 60px;
+	font-weight: 300;
+	margin-bottom: 27px;
+}
+.gallery-layout-text p{margin-bottom:0;}
+.gallery2-layout-bg {
+	padding: 72px 70px 48px 35px;
+	background-size: cover;
+	background-position: center center;
+	margin-left: 30px;
+	overflow: hidden;
+	margin-top: -60px;
+	z-index: 2;
+	position: relative;
+}
+.gallery2-layout-bg .gallery-layout-info {
+	margin-right: 0;
+	margin-bottom: 30px;
+	float: none;
+}
+.gallery2-layout-text {
+	margin-top: 44px;
+	margin-left: 70px;
+}
+.gallery2-layout-text h1 {
+	font-size: 60px;
+	font-weight: 300;
+	margin-bottom: 27px;
+}
+.gallery2-layout-text p{margin-bottom:0;}
+.gallery-video-img{position:relative;}
+.gallery-video-img img{width:100%;}
+.gallerys-video-icon {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	left: 0;
+	right: 0;
+}
+.gallerys-video-icon a {
+	color: #fab522;
+	font-size: 24px;
+	height: 120px;
+	width: 120px;
+	background: #fff3ee;
+	display: inline-block;
+	text-align: center;
+	line-height: 120px;
+	border-radius: 50%;
+	transition: .3s;
+}
+.gallerys-video-icon a:hover{background:#fff;}
+.gallery-peralux-img{}
+.gallery-peralux-img img{width:100%;}
+.gallery-peralux-wrapper .gallery2-layout-bg {
+	padding: 72px 70px 48px 75px;
+	background-size: cover;
+	background-position: center center;
+	margin-left: 10px;
+	overflow: hidden;
+	margin-top: 50px;
+	margin-right: 40px;
+	margin-bottom: 60px;
+}
+.gallery-peralux-wrapper .gallery2-layout-bg .gallery-layout-info {
+	margin-right: 0;
+	margin-bottom: 30px;
+	float: none;
+}
+.gallery-peralux-wrapper .gallery2-layout-text {
+	margin-top: 0;
+	margin-left: 0;
+}
+.gallery-peralux-wrapper .gallery2-layout-text h1 {
+	font-size: 60px;
+	font-weight: 300;
+	margin-bottom: 27px;
+}
+.gallery-peralux-wrapper .gallery2-layout-text p{margin-bottom:0;}
+.gallery-peralux-wrapper .gallery-post-tag {
+	background: none;
+	padding: 0;
+	margin-right: 0;
+	margin-bottom: 36px;
+}
+.gallery-peralux-wrapper .gallery-share-icon {
+	background: none;
+	padding: 0;
+	margin-left: 0;
+}

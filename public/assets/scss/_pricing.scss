@@ -1,0 +1,56 @@
+
+/* 22. Pricing */
+.pricing-area{}
+.pricing-wrapper {
+	background: #f8f9fd;
+	padding-top: 52px;
+	padding-bottom: 60px;
+	position: relative;
+}
+.pricing-wrapper::before {
+	background-image: url("../img/pricing/1.png");
+	background-repeat: no-repeat;
+	content: "";
+	height: 100%;
+	position: absolute;
+	transition: all 0.3s ease 0s;
+	width: 100%;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+	opacity: 0;
+}
+.pricing-wrapper:hover::before{opacity:1;}
+.pricing-wrapper.active::before{opacity:1;}
+.pricing-top-text img {
+	margin-bottom: 35px;
+}
+.pricing-top-text h1 {
+	font-size: 55px;
+	font-weight: 300;
+	color: #408858;
+	margin-bottom: 3px;
+}
+.pricing-text{}
+.pricing-text h2 {
+	font-size: 30px;
+	color: #fab522;
+	margin-bottom: 24px;
+}
+.pricing-text p {
+	font-size: 18px;
+	line-height: 40px;
+	padding: 0 32px;
+	margin-bottom:0;
+}
+.pricing-button {
+	margin-top: 33px;
+}
+.pricing-button a.btn {
+	padding: 17px 42px;
+}
+.pricing-button.active > a.btn{
+	background: #fab522;
+	color: #fff;
+}

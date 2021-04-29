@@ -1,0 +1,83 @@
+
+/* 7. Call To Action */
+.cta-area {
+	background-size: cover;
+	background-position: center center;
+}
+.cta-wrapper{}
+.cta-img{}
+.cta-img img{}
+.cta-text{}
+.cta-text h1 {
+	color: #fff;
+	font-size: 60px;
+	line-height: 1;
+	font-weight: 300;
+	margin-top: 23px;
+	margin-bottom: 32px;
+}
+.cta-text p {
+	color: #fff;
+	margin-bottom: 0;
+}
+.cta-button {
+	margin-top: 76px;
+}
+.cta-button a.btn {
+	background: #fab522;
+	padding: 22px 58px;
+}
+.cta-button a.btn::before {
+	background: #ef491a;
+	bottom: 0;
+	content: "";
+	left: 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+	transform: scaleY(0);
+	transform-origin: 50% 0 0;
+	transition-duration: 0.3s;
+	transition-property: transform;
+	transition-timing-function: ease-out;
+	z-index: -1;
+	border-radius: 0;
+}
+.cta-button a.btn:hover::before {
+	transform: scaley(1);
+}
+.cta2-wrapper {
+	margin-left: 145px;
+	margin-right: 145px;
+	padding: 74px 15px 85px 15px;
+	background-size: cover;
+	background-position: center center;
+}
+.cta2-text{}
+.cta2-text h1 {
+	font-weight: 300;
+	font-size: 60px;
+	line-height: 65px;
+	margin-bottom: 36px;
+}
+.cta2-text a.btn {
+	background: #ef491a;
+	padding: 22px 55px;
+	transition: .3s;
+}
+.cta-bg {
+	background-size: cover;
+	background-position: center center;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+.cta-bg .cta-text p {
+	color: #fff;
+	margin-bottom: 0;
+	padding-right: 10%;
+}
+.cta-bg .cta-button a.btn {
+	background: #fab522;
+	padding: 22px 54px;
+	transition: .3s;
+}

@@ -1,0 +1,94 @@
+
+
+/* 18. FAQ */
+.faq-area{position:relative;}
+.faq-img {
+	background-size: cover;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 50%;
+	background-position: center center;
+}
+.faq-title{}
+.faq-title h1 {
+	font-size: 60px;
+	line-height: 70px;
+	font-weight: 300;
+	margin-bottom: 40px;
+}
+.question-collapse {
+	padding-left: 105px;
+	padding-right: 105px;
+}
+.question-collapse .card {
+	border-radius: 0;
+	margin-bottom: 20px;
+	border-bottom: 0;
+	border: none;
+	background: #fff;
+}
+.question-collapse .card-body {
+	padding: 0 54px 17px 40px;
+}
+.question-collapse .card-header {
+	border-bottom: none;
+}
+.question-collapse .card .card-header {
+	padding: 0;
+	background-color: inherit;
+	position: relative;
+}
+.question-collapse .card .card-header .btn-link {
+	padding: 0;
+}
+.question-collapse .card .card-body > p {
+	line-height: 26px;
+	margin-bottom: 11px;
+	font-size: 14px;
+	margin-bottom: 0;
+}
+.question-collapse .card .card-header h5 .btn-link {
+	font-size: 24px;
+	font-weight: 300;
+	color: #112433;
+	text-decoration: none;
+	line-height: 1.4;
+	background: none;
+	text-transform: none;
+	width: 100%;
+	text-align: left;
+	padding: 15px 40px 17px 40px;
+	border-radius: 0;
+	display: block;
+	cursor: pointer;
+	background: #fff;
+}
+.question-collapse .card .card-header h5 :last-child .btn.btn-link{padding-bottom:0;}
+.question-collapse .card .card-header .btn-link::before {
+	position: absolute;
+	content: "\f068";
+	top: 2px;
+	right: 40px;
+	top: 21px;
+	margin: auto;
+	font-family: "Font Awesome 5 Free";
+	color: #010e2a;
+	font-size: 13px;
+	font-weight: 700;
+}
+.question-collapse .card .card-header .btn-link.collapsed::before {
+	position: absolute;
+	content: "\f067";
+	top: 2px;
+	right:40px;
+	top: 21px;
+	margin: auto;
+	font-family: "Font Awesome 5 Free";
+	color: #010e2a;
+	font-size: 13px;
+	font-weight: 700;
+	}
+.question-collapse  .btn-link.collapsed{border:none;}
+.question-collapse .card .card-header .btn-link::after {display:none;}
