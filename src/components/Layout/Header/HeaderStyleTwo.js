@@ -1,7 +1,7 @@
-import React, {Component, useState, useEffect} from 'react';
+import React, { Component, useState, useEffect } from 'react';
 import Link from 'next/link';
-import {useRouter} from 'next/router'
-import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+import { useRouter } from 'next/router'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Head from 'next/head';
 import TopHeader2 from './TopBar2';
 import BurgerMenus from './BurgerMenus';
@@ -24,7 +24,7 @@ const Header2 = () => {
 	return (
 		<React.Fragment>
 			<header>
-				<TopHeader2/>
+				<TopHeader2 />
 				<div id="sticky-header" className="main-menu-area menu-area-2">
 					<div className="container">
 						<div className="row align-items-center">
@@ -33,11 +33,11 @@ const Header2 = () => {
 									<Link href="/" as="/">
 										<a>
 											<img className="standard-logo"
-											     src={require("../../../../public/assets/img/logo/logo.png")}
-											     alt="logo"/>
+												src={require("../../../../public/assets/img/logo/logo.png")}
+												alt="logo" />
 											<img className="retina-logo"
-											     src={require("../../../../public/assets/img/logo/logo@2x.png")}
-											     alt="logo@2x"/>
+												src={require("../../../../public/assets/img/logo/logo@2x.png")}
+												alt="logo@2x" />
 										</a>
 									</Link>
 								</div>
@@ -59,7 +59,7 @@ const Header2 = () => {
 											<a href="#">
 												<i className="dripicons-cart"></i>
 											</a>
-											<span>2</span>
+											<span>2152 </span>
 										</li>
 										<li className={sidebarOpen ? "info-bar active" : "info-bar"}>
 											<a href="#" onClick={() => setSidebarOpen(!sidebarOpen)}>
@@ -176,7 +176,7 @@ const Header2 = () => {
 									<button className="bars" onClick={() => {
 										setMenuOpen(!menuOpen)
 									}}>
-										<i> <FontAwesomeIcon icon={['far', 'bars']}/></i>
+										<i> <FontAwesomeIcon icon={['far', 'bars']} /></i>
 									</button>
 								</div>
 							</div>
@@ -184,13 +184,13 @@ const Header2 = () => {
 					</div>
 				</div>
 
-				<BurgerMenus menuOpen={menuOpen} setMenuOpen={setMenuOpen}/>
+				<BurgerMenus menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
 
 				<div onClick={() => setMenuOpen(false)} className={menuOpen ? "body-overlay show" : "body-overlay"}></div>
 
-				<Sidebar sidebarOpen={sidebarOpen} setSidebarOpen={setSidebarOpen}/>
+				<Sidebar sidebarOpen={sidebarOpen} setSidebarOpen={setSidebarOpen} />
 
-				<SearchBar searchBarOpen={searchBarOpen} setSearchBarOpen={setSearchBarOpen}/>
+				<SearchBar searchBarOpen={searchBarOpen} setSearchBarOpen={setSearchBarOpen} />
 			</header>
 		</React.Fragment>
 	);
