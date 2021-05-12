@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 import ClientSlider2 from '../Elements/Testimonials/ClientStyleTwo';
 import Faq from '../Faq/Faq';
 import APAbout4Section from './APAbout4Section';
@@ -11,23 +11,23 @@ class AboutMain extends Component {
 		return (
 			<main>
 				{/* About4-area-start */}
-				<APAbout4Section/>
+				<APAbout4Section />
 				{/* About4-area-end */}
 
 				{/* Faq-area-start */}
-				<Faq/>
+				{/* <Faq/> */}
 				{/* Faq-area-end */}
 
 				{/* WhatWeDo2-area-start */}
-				<APWhatWeDo2Section/>
+				<APWhatWeDo2Section />
 				{/* WhatWeDo2-area-end */}
 
 				{/* Team4-area-start */}
-				<APTeam4Section/>
+				{/* <APTeam4Section/> */}
 				{/* Team4-area-end */}
 
 				{/* brand-area-start */}
-				<ClientSlider2/>
+				{/* <ClientSlider2 /> */}
 				{/* brand-area-end */}
 			</main>
 		);
