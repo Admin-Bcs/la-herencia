@@ -31,7 +31,7 @@ const Header = () => {
 								<div className="logo">
 									<Link href="/" as="/">
 										<a>
-											<img className="standard-logo" src={require("../../../../public/assets/img/logo/laherencia/laherencia.png")} alt="logo" />
+											{/* <img className="standard-logo" src={require("../../../../public/assets/img/logo/laherencia/laherencia.png")} alt="logo" /> */}
 											<img className="retina-logo" src={require("../../../../public/assets/img/logo/laherencia/laherencia.png")} alt="logo@2x" />
 										</a>
 									</Link>
