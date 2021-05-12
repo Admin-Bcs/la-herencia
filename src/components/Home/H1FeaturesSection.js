@@ -23,11 +23,11 @@ class H1FeaturesSection extends Component {
 					<div className="row">
 						<div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="features-wrapper text-center mb-30">
-								<div className="features-img">
-									<img src={require("../../../public/assets/img/features/1.png")} alt="features"/>
+								<div className="features-img cat1">
+									<img src={require("../../../public/assets/img/logo/laherencia/Categoryimg/laherencia.png")} alt="features"/>
 								</div>
 								<div className="features-text">
-									<h4>Natarul Food</h4>
+									<h4>La Herencia</h4>
 									<p>
 										Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt
 										ut labore et dolore magna aliqua.
@@ -41,10 +41,10 @@ class H1FeaturesSection extends Component {
 						<div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="features-wrapper text-center mb-30">
 								<div className="features-img">
-									<img src={require("../../../public/assets/img/features/2.png")} alt="features"/>
+									<img src={require("../../../public/assets/img/logo/laherencia/Categoryimg/Bersys.png")} alt="features"/>
 								</div>
 								<div className="features-text">
-									<h4>Biologically Safe</h4>
+									<h4>Bersys Snack</h4>
 									<p>
 										Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt
 										ut labore et dolore magna aliqua.
@@ -58,10 +58,10 @@ class H1FeaturesSection extends Component {
 						<div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="features-wrapper text-center mb-30">
 								<div className="features-img">
-									<img src={require("../../../public/assets/img/features/3.png")} alt="features"/>
+									<img src={require("../../../public/assets/img/logo/laherencia/Categoryimg/Claudio.png")} alt="features"/>
 								</div>
 								<div className="features-text">
-									<h4>Conserve Biodiversity</h4>
+									<h4>Claudio Tea</h4>
 									<p>
 										Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt
 										ut labore et dolore magna aliqua.
