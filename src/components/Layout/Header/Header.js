@@ -40,16 +40,16 @@ const Header = () => {
 							<div className="col-xl-10 col-lg-10 d-none d-xl-block d-lg-block">
 								<div className="header-right f-right">
 									<ul>
-										<li className="search-icon">
+										{/* <li className="search-icon">
 											<a href="#" onClick={() => setSearchBarOpen(!searchBarOpen)}>
 												<i className="dripicons-search"></i>
 											</a>
-										</li>
-										<li className="unser-icon">
+										</li> */}
+										{/* <li className="unser-icon">
 											<a href="#">
 												<i className="dripicons-user"></i>
 											</a>
-										</li>
+										</li> */}
 										<li className="cart-icon">
 											<a href="#">
 												<i className="dripicons-cart"></i>
@@ -73,29 +73,29 @@ const Header = () => {
 											<li className={path === "/about" ? "active" : ""}>
 												<Link href="/about" as="/about" ><a>ABOUT US</a></Link>
 											</li>
-											<li className={path === "/services" ? "active" : ""}>
-												<Link href="/services" as="/services" ><a>OUR PRODUCTS</a></Link>
+											<li className={path === "/" ? "active" : ""}>
+												<Link href="#" as="/" ><a>OUR PRODUCTS</a></Link>
 												<ul className="sub-menu text-left">
-													<li className={path === "/gallery-1" ? "active" : ""}>
-														<Link href="#" as="/gallery-1">
+													<li className={path === "/shop" ? "active" : ""}>
+														<Link href="/shop" as="/shop">
 															<a>La Herencia</a>
 														</Link>
 													</li>
-													<li className={path === "/gallery-1" ? "active" : ""}>
-														<Link href="#" as="/gallery-1">
+													<li className={path === "/shop" ? "active" : ""}>
+														<Link href="/shop" as="/shop">
 															<a>Bersys Snack</a>
 														</Link>
 													</li>
-													<li className={path === "/gallery-1" ? "active" : ""}>
-														<Link href="#" as="/gallery-1">
+													<li className={path === "/shop" ? "active" : ""}>
+														<Link href="/shop" as="/shop">
 															<a>Claudio Tea</a>
 														</Link>
 													</li>
 												</ul>
 											
 											</li>
-											<li className={path === "/shop" ? "active" : ""}>
-												<Link href="/shop" as="/shop" ><a>OUR BRANDS</a></Link>
+											<li className={path === "" ? "active" : ""}>
+												<Link href="" as="" ><a>OUR BRANDS</a></Link>
 											</li>
 											<li className={path === "/blog" ? "active" : ""}>
 												<Link href="/blog" as="/blog" ><a>CLIENTES</a></Link>
