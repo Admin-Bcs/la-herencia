@@ -66,7 +66,7 @@ const SliderDefault = () =>  {
         <div className="slider-area">
             <Slider {...settings}>
                 <div className="single-slider">
-                    <div className="slider-height  d-flex align-items-center" style={{ backgroundImage:`url(${'assets/img/slider/slider1.jpg'})`}}>
+                    <div className="slider-height  d-flex align-items-center" style={{ backgroundImage:`url(${'assets/img/slider/slide1.jpg'})`}}>
                         <div className="container">
                             <div className="row ">
                                 <div className="col-xl-12">
