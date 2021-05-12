@@ -1,4 +1,7 @@
 import React, {Component} from 'react';
+import Link from 'next/link';
+
+
 
 class CPContactInfoSection extends Component {
 	render() {
@@ -45,9 +48,9 @@ class CPContactInfoSection extends Component {
 									</div>
 								</div>
 								<ul className="contact-link">
-									<li >facebook <i className="fab fa-facebook"> </i></li>
-									<li>instagram <i className="fab fa-instagram"> </i></li>
-									<li>youtube <i className="fab fa-youtube"> </i></li>
+									<li><Link href="https://www.facebook.com/ " target='_blank' ><a >facebook <i className="fab fa-facebook" > </i></a></Link> <br /></li>
+									<li><Link href="https://www.facebook.com/ " target='_blank' ><a >instagram <i className="fab fa-instagram" > </i></a></Link><br /></li>
+									<li><Link href="https://www.facebook.com/ " target='_blank' ><a >youtube <i className="fab fa-youtube" > </i></a></Link></li>
 								</ul>
 							</div>
 						</div>
