@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 import SliderDefault from '../Elements/Slider/SliderDefault';
 import H1AboutSection from './H1AboutSection';
 import H1FeaturesSection from "./H1FeaturesSection";
@@ -19,51 +19,51 @@ class HomeMain extends Component {
 		return (
 			<main>
 				{/* slider-start */}
-				<SliderDefault/>
+				<SliderDefault />
 				{/* slider-end */}
 
 				{/* about-area-start */}
-				<H1AboutSection/>
+				<H1AboutSection />
 				{/* about-area-end */}
 
 				{/* features-area-start */}
-				<H1FeaturesSection/>
+				<H1FeaturesSection />
 				{/* features-area-end */}
 
 				{/* product-area-start */}
-				<Product/>
+				<Product />
 				{/* product-area-end */}
 
 				{/* cta-area-start */}
-				<H1CtaSection/>
+				{/* <H1CtaSection/> */}
 				{/* cta-area-end */}
 
 				{/* choose-us-area-start */}
-				<H1ChooseUsSection/>
+				<H1ChooseUsSection />
 				{/* choose-us-area-end */}
 
 				{/* gallery-area-start */}
-				<H1GallerySection/>
+				<H1GallerySection />
 				{/* gallery-area-end */}
 
 				{/* team-area-start */}
-				<H1TeamSection/>
+				{/* <H1TeamSection/> */}
 				{/* team-area-end */}
 
 				{/* counter-area-start */}
-				<CounterDefault/>
+				{/* <CounterDefault/> */}
 				{/* counter-area-end */}
 
 				{/* client-area-start */}
-				<ClientSlider/>
+				{/* <ClientSlider /> */}
 				{/* client-area-end */}
 
 				{/* blog-area-start */}
-				<H1BlogSection/>
+				{/* <H1BlogSection /> */}
 				{/* blog-area-end */}
 
 				{/* brand-area-start */}
-				<Brand/>
+				<Brand />
 				{/* brand-area-end */}
 			</main>
 		);
