@@ -12,11 +12,11 @@ const TopHeader = () => {
                             <div className="header-text">
                                 <span>
                                     <i><FontAwesomeIcon icon={['far', 'map']} /></i>
-                                    504 White St . Dawsonville, GA 30534 , New York
+                                    422 11th St, Union City, NJ 07087
                                 </span>
                                 <span>
                                     <i><FontAwesomeIcon icon={['far', 'envelope']} /></i>
-                                    suport@gmail.com
+                                    services@laherenciaspices.com
                                 </span>
                             </div>
                         </div>
@@ -24,10 +24,10 @@ const TopHeader = () => {
                     <div className="col-xl-5 col-lg-5 col-md-3">
                         <div className="header-icon text-md-right">
                             <a href="#"><i><FontAwesomeIcon icon={['fab', 'facebook-f']} /></i></a>
-                            <a href="#"><i><FontAwesomeIcon icon={['fab', 'twitter']} /></i></a>
-                            <a href="#"><i><FontAwesomeIcon icon={['fab', 'linkedin']} /></i></a>
+                            <a href="#"><i><FontAwesomeIcon icon={['fab', 'instagram']} /></i></a>
+                            {/* <a href="#"><i><FontAwesomeIcon icon={['fab', 'linkedin']} /></i></a>
                             <a href="#"><i><FontAwesomeIcon icon={['fab', 'youtube']} /></i></a>
-                            <a href="#"><i><FontAwesomeIcon icon={['fab', 'behance']} /></i></a>
+                            <a href="#"><i><FontAwesomeIcon icon={['fab', 'behance']} /></i></a> */}
                         </div>
                     </div>
                 </div>
