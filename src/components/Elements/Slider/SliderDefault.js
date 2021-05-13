@@ -70,7 +70,7 @@ const SliderDefault = () => {
                         <div className="container">
                             <div className="row ">
                                 <div className="col-xl-12">
-                                    <div className="slider-content mt-85">
+                                    <div className="slider-content mt-85 title-slider">
                                         <h2 data-animation="fadeInUp" data-delay=".6s">
                                             GROUND GINGER
                                         </h2>
