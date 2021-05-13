@@ -86,8 +86,8 @@ const Header = () => {
 															<a>Bersys Snack</a>
 														</Link>
 													</li>
-													<li className={path === "/shop" ? "active" : ""}>
-														<Link href="/shop" as="/shop">
+													<li className={path === "/ShopClaudio" ? "active" : ""}>
+														<Link href="/ShopClaudio" as="/ShopClaudio">
 															<a>Claudio Tea</a>
 														</Link>
 													</li>
