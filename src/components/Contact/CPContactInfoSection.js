@@ -49,7 +49,7 @@ class CPContactInfoSection extends Component {
 								</div>
 								<ul className="contact-link">
 									<li><Link href="https://www.facebook.com/ " target='_blank' ><a >• facebook <i className="fab fa-facebook" > </i></a></Link> <br /></li>
-									<li><Link href="https://www.instagram.com/ " target='_blank' ><a >• instagram <i className="fab fa-instagram" > </i></a></Link><br /></li>
+									<li><Link href="https://www.instagram.com/laherenciaspices" target='_blank' ><a >• instagram <i className="fab fa-instagram" > </i></a></Link><br /></li>
 									<li><Link href="https://www.youtube.com/ " target='_blank' ><a >• youtube <i className="fab fa-youtube" > </i></a></Link></li>
 								</ul>
 							</div>

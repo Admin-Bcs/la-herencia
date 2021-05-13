@@ -43,7 +43,7 @@ class BlogMain extends Component {
 	                                    <div className="widget-social-icon">
 											<a href="#"><i><FontAwesomeIcon icon={['fab', 'facebook-f']} /></i></a>
 											<a href="#"><i><FontAwesomeIcon icon={['fab', 'twitter']} /></i></a>
-											<a href="#"><i><FontAwesomeIcon icon={['fab', 'instagram']} /></i></a>
+											<a href="https://www.instagram.com/laherenciaspices"><i><FontAwesomeIcon icon={['fab', 'instagram']} /></i></a>
 											<a href="#"><i><FontAwesomeIcon icon={['fab', 'youtube']} /></i></a>
 	                                    </div>
 	                                </div>

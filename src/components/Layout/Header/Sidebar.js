@@ -56,7 +56,7 @@ export default function Sidebar({ sidebarOpen, setSidebarOpen }) {
                 <a href="#">
                     <i><FontAwesomeIcon icon={['fab', 'facebook-f']} /></i>
                 </a>
-                <a href="#">
+                <a href="https://www.instagram.com/laherenciaspices">
                     <i><FontAwesomeIcon icon={['fab', 'instagram']} /></i>
                 </a>
             </div>
