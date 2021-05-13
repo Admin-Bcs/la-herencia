@@ -66,7 +66,7 @@ const SliderDefault = () => {
         <div className="slider-area">
             <Slider {...settings}>
                 <div className="single-slider">
-                    <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/slidertest.png'})` }}>
+                    <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/Ginger.png'})` }}>
                         <div className="container">
                             <div className="row ">
                                 <div className="col-xl-12">
@@ -96,19 +96,47 @@ const SliderDefault = () => {
                     </div>
                 </div>
                 <div className="single-slider">
-                    <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/slider1-2.jpg'})` }}>
+                    <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/Poultry.png'})` }}>
                         <div className="container">
                             <div className="row ">
                                 <div className="col-xl-12">
-                                    <div className="slider-content mt-85">
-                                        <h1 data-animation="fadeInUp" data-delay=".6s">
-                                            Organic Food Is <br /> Good For Health
-                                        </h1>
-                                        <p data-animation="fadeInUp" data-delay=".8s">
-                                            Lorem ipsum dolor sit amet,
-                                            consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                                            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                                            ullamco.
+                                    <div className="slider-content mt-85 title-slider">
+                                        <h2 data-animation="fadeInUp" data-delay=".6s">
+                                            POULTRY SEASONING
+                                        </h2>
+                                        <p className="text-slider" data-animation="fadeInUp" data-delay=".8s">
+                                            Made originally with dried herbs such as sage, rosemary, ground black pepper, and marjoram, among others. It's a perfect condiment to give all your recipes a delicious flavor. </p>
+                                        <div className="slider-button">
+                                            <Link href="/services" as="/services" >
+                                                <a data-animation="fadeInLeft" data-delay=".8s" className="btn">
+                                                    Our Services
+                                                </a>
+                                            </Link>
+                                            <Link href="/contact" as="/contact" >
+                                                <a data-animation="fadeInRight" data-delay="1s" className="btn active">
+                                                    Contact Us
+                                                </a>
+                                            </Link>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="single-slider">
+                    <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/Garlic.png'})` }}>
+                        <div className="container">
+                            <div className="row ">
+                                <div className="col-xl-12">
+                                    <div className="slider-content mt-85 title-slider">
+                                        <h2 data-animation="fadeInUp" data-delay=".6s">
+                                            GARLIC POWDER
+                                        </h2>
+                                        <p className="text-slider" data-animation="fadeInUp" data-delay=".8s">
+                                            This seasoning is made from dried garlic that is ground to a granular consistency.
+                                            Granulated garlic makes it a cinch to add generous garlic seasoning to meats,
+                                            vegetables and homemade breads and rolls.
                                         </p>
                                         <div className="slider-button">
                                             <Link href="/services" as="/services" >

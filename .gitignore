@@ -134,7 +134,7 @@ temp/
 **/*.back.*
 
 node_modules
-
+package-lock.json
 *.sublime*
 
 psd
