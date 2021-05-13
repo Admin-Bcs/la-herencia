@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 
 class H1GallerySection extends Component {
 	render() {
@@ -9,7 +9,7 @@ class H1GallerySection extends Component {
 						<div className="col-xl-6 col-lg-6 offset-lg-3 offset-xl-3">
 							<div className="section-title text-center section-circle mb-70">
 								<div className="section-img">
-									<img src={require("../../../public/assets/img/shape/1.png")} alt=""/>
+									<img src={require("../../../public/assets/img/shape/1.png")} alt="" />
 								</div>
 								<h1>La Herencia Gallery</h1>
 								<p>
@@ -26,11 +26,11 @@ class H1GallerySection extends Component {
 						<div className="col-xl-3 col-lg-3 col-md-6">
 							<div className="gallery-wrapper mb-30">
 								<div className="gallery-img">
-									<a href="#"><img src={require("../../../public/assets/img/gallery/gallery1.jpg")}
-									                 alt=""/></a>
+									<a href="#"><img src={require("../../../public/assets/img/gallery/Garlic.png")}
+										alt="" /></a>
 									<div className="gallery-icon">
 										<a className="popup-image"
-										   href={require("../../../public/assets/img/gallery/gallery1.jpg")}>
+											href={require("../../../public/assets/img/gallery/Garlic.png")}>
 											<i className="ti-plus"></i>
 										</a>
 									</div>
@@ -40,11 +40,11 @@ class H1GallerySection extends Component {
 						<div className="col-xl-3 col-lg-3 col-md-6">
 							<div className="gallery-wrapper mb-30">
 								<div className="gallery-img">
-									<a href="#"><img src={require("../../../public/assets/img/gallery/gallery2.jpg")}
-									                 alt=""/></a>
+									<a href="#"><img src={require("../../../public/assets/img/gallery/Ginger.png")}
+										alt="" /></a>
 									<div className="gallery-icon">
 										<a className="popup-image"
-										   href={require("../../../public/assets/img/gallery/gallery2.jpg")}>
+											href={require("../../../public/assets/img/gallery/Ginger.png")}>
 											<i className="ti-plus"></i>
 										</a>
 									</div>
@@ -54,11 +54,11 @@ class H1GallerySection extends Component {
 						<div className="col-xl-3 col-lg-3 col-md-6">
 							<div className="gallery-wrapper mb-30">
 								<div className="gallery-img">
-									<a href="#"><img src={require("../../../public/assets/img/gallery/gallery3.jpg")}
-									                 alt=""/></a>
+									<a href="#"><img src={require("../../../public/assets/img/gallery/Italian.png")}
+										alt="" /></a>
 									<div className="gallery-icon">
 										<a className="popup-image"
-										   href={require("../../../public/assets/img/gallery/gallery3.jpg")}>
+											href={require("../../../public/assets/img/gallery/Italian.png")}>
 											<i className="ti-plus"></i>
 										</a>
 									</div>
@@ -68,11 +68,11 @@ class H1GallerySection extends Component {
 						<div className="col-xl-3 col-lg-3 col-md-6">
 							<div className="gallery-wrapper mb-30">
 								<div className="gallery-img">
-									<a href="#"><img src={require("../../../public/assets/img/gallery/gallery4.jpg")}
-									                 alt=""/></a>
+									<a href="#"><img src={require("../../../public/assets/img/gallery/Pumpkin.png")}
+										alt="" /></a>
 									<div className="gallery-icon">
 										<a className="popup-image"
-										   href={require("../../../public/assets/img/gallery/gallery4.jpg")}>
+											href={require("../../../public/assets/img/gallery/Pumpkin.png")}>
 											<i className="ti-plus"></i>
 										</a>
 									</div>
@@ -82,11 +82,11 @@ class H1GallerySection extends Component {
 						<div className="col-xl-3 col-lg-3 col-md-6">
 							<div className="gallery-wrapper mb-30">
 								<div className="gallery-img">
-									<a href="#"><img src={require("../../../public/assets/img/gallery/gallery5.jpg")}
-									                 alt=""/></a>
+									<a href="#"><img src={require("../../../public/assets/img/gallery/Garlic2.png")}
+										alt="" /></a>
 									<div className="gallery-icon">
 										<a className="popup-image"
-										   href={require("../../../public/assets/img/gallery/gallery5.jpg")}>
+											href={require("../../../public/assets/img/gallery/Garlic2.png")}>
 											<i className="ti-plus"></i>
 										</a>
 									</div>
@@ -96,11 +96,11 @@ class H1GallerySection extends Component {
 						<div className="col-xl-3 col-lg-3 col-md-6">
 							<div className="gallery-wrapper mb-30">
 								<div className="gallery-img">
-									<a href="#"><img src={require("../../../public/assets/img/gallery/gallery6.jpg")}
-									                 alt=""/></a>
+									<a href="#"><img src={require("../../../public/assets/img/gallery/Ginger2.png")}
+										alt="" /></a>
 									<div className="gallery-icon">
 										<a className="popup-image"
-										   href={require("../../../public/assets/img/gallery/gallery6.jpg")}>
+											href={require("../../../public/assets/img/gallery/Ginger2.png")}>
 											<i className="ti-plus"></i>
 										</a>
 									</div>
@@ -110,11 +110,11 @@ class H1GallerySection extends Component {
 						<div className="col-xl-3 col-lg-3 col-md-6">
 							<div className="gallery-wrapper mb-30">
 								<div className="gallery-img">
-									<a href="#"><img src={require("../../../public/assets/img/gallery/gallery7.jpg")}
-									                 alt=""/></a>
+									<a href="#"><img src={require("../../../public/assets/img/gallery/Italian2.png")}
+										alt="" /></a>
 									<div className="gallery-icon">
 										<a className="popup-image"
-										   href={require("../../../public/assets/img/gallery/gallery7.jpg")}>
+											href={require("../../../public/assets/img/gallery/Italian2.png")}>
 											<i className="ti-plus"></i>
 										</a>
 									</div>
@@ -124,11 +124,11 @@ class H1GallerySection extends Component {
 						<div className="col-xl-3 col-lg-3 col-md-6">
 							<div className="gallery-wrapper mb-30">
 								<div className="gallery-img">
-									<a href="#"><img src={require("../../../public/assets/img/gallery/gallery8.jpg")}
-									                 alt=""/></a>
+									<a href="#"><img src={require("../../../public/assets/img/gallery/Pumpkin2.png")}
+										alt="" /></a>
 									<div className="gallery-icon">
 										<a className="popup-image"
-										   href={require("../../../public/assets/img/gallery/gallery8.jpg")}>
+											href={require("../../../public/assets/img/gallery/Pumpkin2.png")}>
 											<i className="ti-plus"></i>
 										</a>
 									</div>
