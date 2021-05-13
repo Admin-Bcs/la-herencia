@@ -3,7 +3,7 @@ import { connect } from "react-redux";
 import Header from "../components/Layout/Header/Header";
 import BlogMain from "../components/Blog/BlogMain";
 import SiteBreadcrumb from "../components/Common/Breadcumb";
-import Footer from "../components/Layout/Footer/FooterStyleTwo";
+import Footer from "../components/Layout/Footer/Footer";
 
 
 class Blog extends React.Component {
