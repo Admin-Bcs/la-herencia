@@ -30,22 +30,6 @@ const Footer = () => {
 									</div>
 								</div>
 							</div>
-							{/* <div className="col-xl-3 col-lg-3 col-md-6">
-								<div className="footer-wrapper pl-45 mb-30">
-									<div className="footer-title">
-										<h4>Customer Support</h4>
-										<img src={require("../../../../public/assets/img/shape/f.png")} alt="shape" />
-									</div>
-									<ul className="fotter-menu">
-										<li><a href="#">Help and Ordering</a></li>
-										<li><a href="#">Privacy Policy</a></li>
-										<li><a href="#">Return & Cancellation</a></li>
-										<li><a href="#">Delevery Schedule</a></li>
-										<li><a href="#">Get a Call</a></li>
-										<li><a href="#">Online Enquiry</a></li>
-									</ul>
-								</div>
-							</div> */}
 							<div className="col-xl-4 col-lg-4 col-md-6">
 								<div className="footer-wrapper pl-45 mb-30">
 									<div className="footer-title">

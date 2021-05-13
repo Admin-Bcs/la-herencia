@@ -4,7 +4,7 @@ import ModalVideo from 'react-modal-video';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Link from 'next/link';
 
-const SliderDefault = () =>  {
+const SliderDefault = () => {
 
     const [isOpen, setIsOpen] = useState(false);
     const openModal = () => setIsOpen(!isOpen);
@@ -12,14 +12,14 @@ const SliderDefault = () =>  {
     function SampleNextArrow(props) {
         const { className, onClick } = props;
         return (
-            <button type='button' onClick={onClick} className={className}><i><FontAwesomeIcon icon={['fas', 'chevron-right']}/></i></button>
+            <button type='button' onClick={onClick} className={className}><i><FontAwesomeIcon icon={['fas', 'chevron-right']} /></i></button>
         );
     }
 
     function SamplePrevArrow(props) {
         const { className, onClick } = props;
         return (
-            <button type='button' onClick={onClick} className={className}> <i><FontAwesomeIcon icon={['fas', 'chevron-left']}/></i></button>
+            <button type='button' onClick={onClick} className={className}> <i><FontAwesomeIcon icon={['fas', 'chevron-left']} /></i></button>
         );
     }
 
@@ -66,19 +66,16 @@ const SliderDefault = () =>  {
         <div className="slider-area">
             <Slider {...settings}>
                 <div className="single-slider">
-                    <div className="slider-height  d-flex align-items-center" style={{ backgroundImage:`url(${'assets/img/slider/slide1.jpg'})`}}>
+                    <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/slidertest.png'})` }}>
                         <div className="container">
                             <div className="row ">
                                 <div className="col-xl-12">
-                                    <div className="slider-content mt-85">
-                                        <h1 data-animation="fadeInUp" data-delay=".6s">
-                                            Organic Food Is <br /> Good For Health
-                                        </h1>
-                                        <p data-animation="fadeInUp" data-delay=".8s">
-                                            Lorem ipsum dolor sit amet,
-                                            consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                                            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                                            ullamco.
+                                    <div className="slider-content mt-85 title-slider">
+                                        <h2 data-animation="fadeInUp" data-delay=".6s">
+                                            GROUND GINGER
+                                        </h2>
+                                        <p className="text-slider" data-animation="fadeInUp" data-delay=".8s">
+                                            Ground Ginger root provides a powerful punch of pure flavor in its finest form, which is ideal for seasoning sides, baking cookies, and spicing up your favorite dressings and sauces. This refined herb offers that exclusive, biting taste that is essential to innumerable dishes.
                                         </p>
                                         <div className="slider-button">
                                             <Link href="/services" as="/services" >
@@ -99,7 +96,7 @@ const SliderDefault = () =>  {
                     </div>
                 </div>
                 <div className="single-slider">
-                    <div className="slider-height  d-flex align-items-center" style={{ backgroundImage:`url(${'assets/img/slider/slider1-2.jpg'})`}}>
+                    <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/slider1-2.jpg'})` }}>
                         <div className="container">
                             <div className="row ">
                                 <div className="col-xl-12">
