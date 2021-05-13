@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-import Footer from "../components/Layout/Footer/FooterStyleTwo";
+import Footer from "../components/Layout/Footer/Footer";
 import SiteBreadcrumb from "../components/Common/Breadcumb";
 import AboutMain from "../components/About/AboutMain";
 import Header from "../components/Layout/Header/Header";

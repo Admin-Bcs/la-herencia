@@ -98,7 +98,7 @@ const Header = () => {
 												<Link href="" as="" ><a>OUR BRANDS</a></Link>
 											</li>
 											<li className={path === "/blog" ? "active" : ""}>
-												<Link href="/blog" as="/blog" ><a>CLIENTES</a></Link>
+												<Link href="/blog" as="/blog" ><a>CLIENT</a></Link>
 											</li>
 											
 											<li className={path === "/contact" ? "active" : ""}>

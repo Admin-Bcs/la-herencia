@@ -12,7 +12,7 @@ class H1FeaturesSection extends Component {
 								<div className="section-img">
 									<img src={require("../../../public/assets/img/shape/1.png")} alt="shape"/>
 								</div>
-								<h1>Our Features</h1>
+								<h1>Our Brands</h1>
 								<p>
 									Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmotempor incididunt ut
 									labore et dolore magna aliqua enim minim veniam
