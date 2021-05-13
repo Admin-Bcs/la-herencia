@@ -81,8 +81,8 @@ const Header = () => {
 															<a>La Herencia</a>
 														</Link>
 													</li>
-													<li className={path === "/shop" ? "active" : ""}>
-														<Link href="/shop" as="/shop">
+													<li className={path === "/ShopBersys" ? "active" : ""}>
+														<Link href="/ShopBersys" as="/ShopBersys">
 															<a>Bersys Snack</a>
 														</Link>
 													</li>
