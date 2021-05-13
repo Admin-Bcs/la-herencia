@@ -134,7 +134,9 @@ const SliderDefault = () => {
                                             GARLIC POWDER
                                         </h2>
                                         <p className="text-slider" data-animation="fadeInUp" data-delay=".8s">
-                                            This seasoning is made from dried garlic that is ground to a granular consistency. Granulated garlic makes it a cinch to add generous garlic seasoning to meats, vegetables and homemade breads and rolls.
+                                            This seasoning is made from dried garlic that is ground to a granular consistency.
+                                            Granulated garlic makes it a cinch to add generous garlic seasoning to meats,
+                                            vegetables and homemade breads and rolls.
                                         </p>
                                         <div className="slider-button">
                                             <Link href="/services" as="/services" >
