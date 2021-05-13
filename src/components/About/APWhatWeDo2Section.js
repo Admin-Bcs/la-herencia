@@ -12,8 +12,8 @@ class ApWhatWeDo2Section extends Component {
 								<div className="section-img">
 									<img src={require('../../../public/assets/img/shape/1.png')} alt='image' />
 								</div>
-								<h1>What We Do</h1>
-								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmotempor incididunt ut labore et dolore magna aliqua enim minim veniam</p>
+								<h1>Who We Are </h1>
+								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmotempor incididunt ut labore et dolore magna aliqua enim minim veniamddd</p>
 							</div>
 						</div>
 					</div>
@@ -24,7 +24,7 @@ class ApWhatWeDo2Section extends Component {
 									<img src={require("../../../public/assets/img/icon/icon1.png")} alt="icon"/>
 								</div>
 								<div className="we-do-text">
-									<h4><a href="#">Natarul Food</a></h4>
+									<h4><a href="#">VISION</a></h4>
 									<p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt ut labore et dolore magna aliqua.</p>
 									<Link href="/services-details" as="/services-details" >
 										<a>
@@ -40,7 +40,7 @@ class ApWhatWeDo2Section extends Component {
 									<img src={require("../../../public/assets//img/icon/icon2.png")} alt="icon"/>
 								</div>
 								<div className="we-do-text">
-									<h4><a href="#">Biologically Safe</a></h4>
+									<h4><a href="#">MISSION</a></h4>
 									<p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt ut labore et dolore magna aliqua.</p>
 									<Link href="/services-details" as="/services-details" >
 										<a>
@@ -56,7 +56,7 @@ class ApWhatWeDo2Section extends Component {
 									<img src={require("../../../public/assets/img/icon/icon3.png")} alt="icon"/>
 								</div>
 								<div className="we-do-text">
-									<h4><a href="#">Conserve Biodiversity</a></h4>
+									<h4><a href="#">VALUES</a></h4>
 									<p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt ut labore et dolore magna aliqua.</p>
 									<Link href="/services-details" as="/services-details" >
 										<a>

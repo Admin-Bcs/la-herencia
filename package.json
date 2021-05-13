@@ -28,6 +28,7 @@
     "@fortawesome/react-fontawesome": "^0.1.11",
     "bootstrap": "^4.5.0",
     "cross-env": "^7.0.2",
+    "emailjs-com": "^2.6.4",
     "express": "^4.17.1",
     "google-map-react": "^2.0.8",
     "next": "^9.1.7",
@@ -57,6 +58,7 @@
     "sass": "^1.26.9",
     "slick-carousel": "^1.8.1",
     "src": "^1.1.2",
+    "sweetalert": "^2.1.2",
     "typescript": "^3.9.5",
     "yarn": "^1.22.10"
   }
