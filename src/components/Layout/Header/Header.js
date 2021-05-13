@@ -1,7 +1,7 @@
-import React, {Component, useState , useEffect} from 'react';
+import React, { Component, useState, useEffect } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/router'
-import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import BurgerMenus from './BurgerMenus';
 import TopHeader from './TopBar';
 import Sidebar from './Sidebar';
@@ -31,7 +31,7 @@ const Header = () => {
 								<div className="logo">
 									<Link href="/" as="/">
 										<a>
-											<img className="standard-logo" src={require("../../../../public/assets/img/logo/laherencia/laherencia.png")} alt="logo" />
+
 											<img className="retina-logo" src={require("../../../../public/assets/img/logo/laherencia/laherencia.png")} alt="logo@2x" />
 										</a>
 									</Link>
@@ -68,7 +68,7 @@ const Header = () => {
 										<ul>
 											<li>
 												<Link href="/" as="/" ><a>HOME</a></Link>
-												
+
 											</li>
 											<li className={path === "/about" ? "active" : ""}>
 												<Link href="/about" as="/about" ><a>ABOUT US</a></Link>
@@ -92,7 +92,7 @@ const Header = () => {
 														</Link>
 													</li>
 												</ul>
-											
+
 											</li>
 											<li className={path === "" ? "active" : ""}>
 												<Link href="" as="" ><a>OUR BRANDS</a></Link>
@@ -100,7 +100,7 @@ const Header = () => {
 											<li className={path === "/blog" ? "active" : ""}>
 												<Link href="/blog" as="/blog" ><a>CLIENTES</a></Link>
 											</li>
-											
+
 											<li className={path === "/contact" ? "active" : ""}>
 												<Link href="/contact" as="/contact">
 													<a>CONTACT</a>
@@ -114,7 +114,7 @@ const Header = () => {
 								<div className="menu-bar">
 									<button className="bars" onClick={() => {
 										setMenuOpen(!menuOpen)
-										}}>
+									}}>
 										<i> <FontAwesomeIcon icon={['far', 'bars']} /></i>
 									</button>
 								</div>
@@ -127,13 +127,13 @@ const Header = () => {
 
 				<div onClick={() => setMenuOpen(false)} className={menuOpen ? "body-overlay show" : "body-overlay"}></div>
 
-				<Sidebar sidebarOpen={sidebarOpen} setSidebarOpen={setSidebarOpen}/>
+				<Sidebar sidebarOpen={sidebarOpen} setSidebarOpen={setSidebarOpen} />
 
-				<SearchBar searchBarOpen={searchBarOpen} setSearchBarOpen={setSearchBarOpen}/>
+				<SearchBar searchBarOpen={searchBarOpen} setSearchBarOpen={setSearchBarOpen} />
 
 			</header>
 		</React.Fragment>
-);
+	);
 }
 
 export default Header;
