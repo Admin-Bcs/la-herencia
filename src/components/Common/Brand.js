@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 import Slider from "react-slick";
 
 const Brand = () => {
@@ -9,7 +9,7 @@ const Brand = () => {
 		arrows: false,
 		centerMode: false,
 		infinite: true,
-		slidesToShow: 5,
+		slidesToShow: 3,
 		slidesToScroll: 1,
 		responsive: [
 			{
@@ -39,86 +39,27 @@ const Brand = () => {
 	return (
 		<div className="brand-area">
 			<div className="container">
-				<div className="brand-bg pt-80 pb-80" style={{backgroundImage: `url(${'assets/img/bg/bg5.jpg'})`}}>
+				<div className="brand-bg pt-80 pb-80" style={{ backgroundImage: `url(${'assets/img/bg/bg5.jpg'})` }}>
 					<div className="row">
 						<div className="col-xl-12">
 							<div className="brand-active">
 								<Slider {...brandSettings}>
 									<div className="col-xl-12">
-										<div className="brans-img text-center">
-											<img src={require("../../../public/assets/img/brand/1.png")} alt="brand"/>
+										<div className="features-img">
+											<img src={require("../../../public/assets/img/logo/laherencia/Categoryimg/laherencia.png")} alt="brand" />
 										</div>
 									</div>
 									<div className="col-xl-12">
-										<div className="brans-img text-center">
-											<img src={require("../../../public/assets/img/brand/2.png")} alt="brand"/>
+										<div className="features-img">
+											<img src={require("../../../public/assets/img/logo/laherencia/Categoryimg/Bersys.png")} alt="brand" />
 										</div>
 									</div>
 									<div className="col-xl-12">
-										<div className="brans-img text-center">
-											<img src={require("../../../public/assets/img/brand/3.png")} alt="brand"/>
+										<div className="features-img">
+											<img src={require("../../../public/assets/img/logo/laherencia/Categoryimg/Claudio.png")} alt="brand" />
 										</div>
 									</div>
-									<div className="col-xl-12">
-										<div className="brans-img text-center">
-											<img src={require("../../../public/assets/img/brand/4.png")} alt="brand"/>
-										</div>
-									</div>
-									<div className="col-xl-12">
-										<div className="brans-img text-center">
-											<img src={require("../../../public/assets/img/brand/5.png")} alt="brand"/>
-										</div>
-									</div>
-									<div className="col-xl-12">
-										<div className="brans-img text-center">
-											<img src={require("../../../public/assets/img/brand/1.png")} alt="brand"/>
-										</div>
-									</div>
-									<div className="col-xl-12">
-										<div className="brans-img text-center">
-											<img src={require("../../../public/assets/img/brand/2.png")} alt="brand"/>
-										</div>
-									</div>
-									<div className="col-xl-12">
-										<div className="brans-img text-center">
-											<img src={require("../../../public/assets/img/brand/3.png")} alt="brand"/>
-										</div>
-									</div>
-									<div className="col-xl-12">
-										<div className="brans-img text-center">
-											<img src={require("../../../public/assets/img/brand/4.png")} alt="brand"/>
-										</div>
-									</div>
-									<div className="col-xl-12">
-										<div className="brans-img text-center">
-											<img src={require("../../../public/assets/img/brand/5.png")} alt="brand"/>
-										</div>
-									</div>
-									<div className="col-xl-12">
-										<div className="brans-img text-center">
-											<img src={require("../../../public/assets/img/brand/1.png")} alt="brand"/>
-										</div>
-									</div>
-									<div className="col-xl-12">
-										<div className="brans-img text-center">
-											<img src={require("../../../public/assets/img/brand/2.png")} alt="brand"/>
-										</div>
-									</div>
-									<div className="col-xl-12">
-										<div className="brans-img text-center">
-											<img src={require("../../../public/assets/img/brand/3.png")} alt="brand"/>
-										</div>
-									</div>
-									<div className="col-xl-12">
-										<div className="brans-img text-center">
-											<img src={require("../../../public/assets/img/brand/4.png")} alt="brand"/>
-										</div>
-									</div>
-									<div className="col-xl-12">
-										<div className="brans-img text-center">
-											<img src={require("../../../public/assets/img/brand/5.png")} alt="brand"/>
-										</div>
-									</div>
+
 								</Slider>
 							</div>
 						</div>
