@@ -132,14 +132,15 @@ label {
     text-shadow: none;
 }
 ::-moz-selection {
-    background: #444;
-    color: #fff;
+    background: #7c3c21b0;
+    color: #212121;
     text-shadow: none;
 }
 ::selection {
     background: #7c3c21b0;
-    color: #fff;
+    color: #212121;
     text-shadow: none;
+    
 }
 *::-moz-placeholder {
     color: #555555;
