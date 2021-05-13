@@ -12,7 +12,7 @@ class ApWhatWeDo2Section extends Component {
 								<div className="section-img">
 									<img src={require('../../../public/assets/img/shape/1.png')} alt='image' />
 								</div>
-								<h1>What We Do</h1>
+								<h1>Our Brands</h1>
 								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmotempor incididunt ut labore et dolore magna aliqua enim minim veniam</p>
 							</div>
 						</div>
