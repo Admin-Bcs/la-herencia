@@ -14,7 +14,7 @@ class H1AboutSection extends Component {
 						</div>
 						<div className="col-xl-6 col-lg-6 ">
 							<div className="about-us-text mb-30">
-								<h1>Welcome To <br/> Zomata Organic</h1>
+								<h1>Welcome To <br/> La Herencia</h1>
 								<span>with love & dedication</span>
 								<p>
 									Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor

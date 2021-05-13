@@ -11,7 +11,7 @@ class H1GallerySection extends Component {
 								<div className="section-img">
 									<img src={require("../../../public/assets/img/shape/1.png")} alt=""/>
 								</div>
-								<h1>Zomata Gallery</h1>
+								<h1>La Herencia Gallery</h1>
 								<p>
 									Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmotempor incididunt
 									ut

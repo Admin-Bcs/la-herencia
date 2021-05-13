@@ -1,4 +1,7 @@
 import React, {Component} from 'react';
+import Link from 'next/link';
+
+
 
 class CPContactInfoSection extends Component {
 	render() {
@@ -9,45 +12,45 @@ class CPContactInfoSection extends Component {
 						<div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="contact-address-wrapper mb-30">
 								<div className="contact-address-title">
-									<h2>London</h2>
+									<h2>ADDRESS</h2>
 									<div className="contact-address-img">
 										<img src={require('../../../public/assets/img/shape/c.png')} alt="image"/>
 									</div>
 								</div>
 								<ul className="contact-link">
-									<li>82 Bernie Greens Apt. 210, <br/> Hendon Way, London, UK</li>
-									<li>zomata@example.com</li>
-									<li>+53 213 5941 295</li>
+									<li>La Herencia Spices WAREHOUSE </li>
+									<li>422 11th St.</li>
+									<li>Union City, NJ 07087</li>
 								</ul>
 							</div>
 						</div>
 						<div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="contact-address-wrapper mb-30">
 								<div className="contact-address-title">
-									<h2>New York</h2>
+									<h2>New Jersey</h2>
 									<div className="contact-address-img">
 										<img src={require('../../../public/assets/img/shape/c.png')} alt="image"/>
 									</div>
 								</div>
 								<ul className="contact-link">
-									<li>205 Bernie Greens Apt. 210, <br/> Hendon Way, London, UK</li>
-									<li>zomata@example.com</li>
-									<li>+53 213 5941 295</li>
+									<li>Tel: 201-223-6809 </li>
+									<li>services@laherenciaspices.com</li>
+									<li>Fax:</li>
 								</ul>
 							</div>
 						</div>
 						<div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="contact-address-wrapper mb-30">
 								<div className="contact-address-title">
-									<h2>Paris</h2>
+									<h2>Social Media</h2>
 									<div className="contact-address-img">
 										<img src={require('../../../public/assets/img/shape/c.png')} alt="image"/>
 									</div>
 								</div>
 								<ul className="contact-link">
-									<li>82 Bernie Greens Apt. 210, <br/> Hendon Way, London, UK</li>
-									<li>zomata@example.com</li>
-									<li>+53 213 5941 295</li>
+									<li><Link href="https://www.facebook.com/ " target='_blank' ><a >• facebook <i className="fab fa-facebook" > </i></a></Link> <br /></li>
+									<li><Link href="https://www.instagram.com/ " target='_blank' ><a >• instagram <i className="fab fa-instagram" > </i></a></Link><br /></li>
+									<li><Link href="https://www.youtube.com/ " target='_blank' ><a >• youtube <i className="fab fa-youtube" > </i></a></Link></li>
 								</ul>
 							</div>
 						</div>

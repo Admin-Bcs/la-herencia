@@ -8,7 +8,7 @@ class ApAbout4Section extends Component {
 					<div className="row">
 						<div className="col-xl-6 col-lg-6">
 							<div className="about-info mb-30">
-								<h1>Welcome To <br/> Zomata Organic</h1>
+								<h1>Welcome To <br/> La Herencia</h1>
 								<span>with love & dedication</span>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 									incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud
