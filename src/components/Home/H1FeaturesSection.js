@@ -20,7 +20,7 @@ class H1FeaturesSection extends Component {
 						<div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="features-wrapper text-center mb-30">
 								<div className="features-img cat1">
-									<img src={require("../../../public/assets/img/logo/laherencia/Categoryimg/laherencia.png")} alt="features" />
+									<img src={require("../../../public/assets/img/logo/laherencia/laherencia.png")} alt="features" />
 								</div>
 								<div className="features-text ">
 									<h4>La Herencia Spices</h4>

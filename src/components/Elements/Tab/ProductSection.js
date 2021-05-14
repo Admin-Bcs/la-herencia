@@ -10,9 +10,9 @@ class ProductSection extends Component {
 				<div className="shape spahe1 bounce-animate">
 					<img src={require("../../../../public/assets/img/shape/shape1.png")} alt="shape" />
 				</div>
-				<div className="shape spahe2 bounce-animate"><img src={require("../../../../public/assets/img/shape/shape2.png")} alt="shape" /></div>
-				<div className="shape spahe3 bounce-animate"><img src={require("../../../../public/assets/img/shape/shape3.png")} alt="shape" /></div>
-				<div className="shape spahe4 bounce-animate"><img src={require("../../../../public/assets/img/shape/shape4.png")} alt="shape" /></div>
+				<div className="shape spahe2 bounce-animate"><img src={require("../../../../public/assets/img/shape/spices.svg")} alt="shape" /></div>
+				<div className="shape spahe3 bounce-animate"><img src={require("../../../../public/assets/img/shape/tea.svg")} alt="shape" /></div>
+				<div className="shape spahe4 bounce-animate"><img src={require("../../../../public/assets/img/shape/snacks.svg")} alt="shape" /></div>
 				<div className="container">
 					<div className="row">
 						<div className="col-xl-6 col-lg-6 offset-lg-3 offset-xl-3">

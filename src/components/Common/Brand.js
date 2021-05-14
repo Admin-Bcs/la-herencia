@@ -46,7 +46,7 @@ const Brand = () => {
 								<Slider {...brandSettings}>
 									<div className="col-xl-12">
 										<div className="features-img">
-											<img src={require("../../../public/assets/img/logo/laherencia/Categoryimg/laherencia.png")} alt="brand" />
+											<img src={require("../../../public/assets/img/logo/laherencia/laherencia.png")} alt="brand" />
 										</div>
 									</div>
 									<div className="col-xl-12">
