@@ -9,7 +9,7 @@ const TopHeader = () => {
                 <div className="row">
                     <div className="col-xl-7 col-lg-7 col-md-9">
                         <div className="header-wrapper">
-                            <div className="header-text txt-topbar">
+                            <div className="header-text ">
                                 <span>
                                     <i ><FontAwesomeIcon icon={['far', 'map']} /></i>
                                     422 11th St, Union City, NJ 07087
