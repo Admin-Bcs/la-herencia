@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import CPMapSection from "./CPMapSection";
 import CPContactInfoSection from "./CPContactInfoSection";
 import CPContactFormSection from "./CPContactFormSection";
 import MapGoogle from './mapgoogle';
