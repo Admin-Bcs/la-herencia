@@ -13,7 +13,7 @@ const Footer = () => {
 							<div className="col-xl-4 col-lg-4 col-md-6">
 								<div className="footer-wrapper mb-30">
 									<div >
-										<a href="/"><img
+										<a href="index.html"><img
 											className="retina-logo" src={require("../../../../public/assets/img/logo/laherencia/laherencia.png")} alt="" /></a>
 									</div>
 									<div className="footer-text">
@@ -40,7 +40,7 @@ const Footer = () => {
 											<span>
 												422 11th St.
 												Union City, NJ 07087
-											</span>
+</span>
 										</li>
 										<li>
 											<i><FontAwesomeIcon icon={['far', 'envelope-open']} /></i>
