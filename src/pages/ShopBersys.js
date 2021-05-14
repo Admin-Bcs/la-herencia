@@ -10,7 +10,7 @@ class ShopBersys extends Component {
         return (
             <React.Fragment>
                 <Header />
-                <SiteBreadcrumb pageTitle="Product Page" />
+                <SiteBreadcrumb pageTitle="Products" />
                 <ShopBersysMain />
                 <Footer />
             </React.Fragment>

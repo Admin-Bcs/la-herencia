@@ -76,9 +76,9 @@ const Header = () => {
 											<li className={path === "/" ? "active" : ""}>
 												<Link href="#" as="/" ><a>OUR PRODUCTS</a></Link>
 												<ul className="sub-menu text-left">
-													<li className={path === "/ShopHerencia" ? "active" : ""}>
-														<Link href="/ShopHerencia" as="/ShopHerencia">
-															<a>La Herencia Spices</a>
+													<li className={path === "/ShopClaudio" ? "active" : ""}>
+														<Link href="/ShopClaudio" as="/ShopClaudio">
+															<a>Claudio’s Tea Herb</a>
 														</Link>
 													</li>
 													<li className={path === "/ShopBersys" ? "active" : ""}>
@@ -86,9 +86,9 @@ const Header = () => {
 															<a>Bersy’s Snack</a>
 														</Link>
 													</li>
-													<li className={path === "/ShopClaudio" ? "active" : ""}>
-														<Link href="/ShopClaudio" as="/ShopClaudio">
-															<a>Claudio’s Tea Herb</a>
+													<li className={path === "/ShopHerencia" ? "active" : ""}>
+														<Link href="/ShopHerencia" as="/ShopHerencia">
+															<a>La Herencia Spices</a>
 														</Link>
 													</li>
 												</ul>

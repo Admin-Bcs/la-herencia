@@ -10,7 +10,7 @@ class ShopHerencia extends Component {
         return (
             <React.Fragment>
                 <Header />
-                <SiteBreadcrumb pageTitle="Product Page" />
+                <SiteBreadcrumb pageTitle="Products" />
                 <ShopHerenciaMain />
                 <Footer />
             </React.Fragment>
