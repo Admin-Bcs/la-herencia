@@ -20,11 +20,7 @@ class ProductSection extends Component {
 								<div className="section-img">
 									<img src={require("../../../../public/assets/img/shape/1.png")} alt="" />
 								</div>
-								<h1>Our Product</h1>
-								<p>
-									Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmotempor incididunt ut
-									labore et dolore magna aliqua enim minim veniam
-								</p>
+								<h1>Our Products</h1>
 							</div>
 						</div>
 					</div>
@@ -203,7 +199,7 @@ class ProductSection extends Component {
 											<div className="product-text">
 												<h4>
 													<Link href="/shop-details" as="/shop-details" >
-														<a>Blackberries Head</a>
+														<a>Salty Fava Bean</a>
 													</Link>
 												</h4>
 												<div className="pro-rating">
@@ -235,7 +231,7 @@ class ProductSection extends Component {
 											<div className="product-text">
 												<h4>
 													<Link href="/shop-details" as="/shop-details" >
-														<a>Broccoli Head</a>
+														<a>Spicy Fava Bean</a>
 													</Link>
 												</h4>
 												<div className="pro-rating">
@@ -266,7 +262,7 @@ class ProductSection extends Component {
 											<div className="product-text">
 												<h4>
 													<Link href="/shop-details" as="/shop-details" >
-														<a>Avocado Head</a>
+														<a>Crisp Pumpkin</a>
 													</Link>
 												</h4>
 												<div className="pro-rating">
@@ -297,7 +293,7 @@ class ProductSection extends Component {
 											<div className="product-text">
 												<h4>
 													<Link href="/shop-details" as="/shop-details" >
-														<a>Breadfruit Head</a>
+														<a>Prunes</a>
 													</Link>
 												</h4>
 												<div className="pro-rating">

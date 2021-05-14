@@ -1,5 +1,5 @@
-import React, {Component} from "react";
-import HeaderStyleTwo from "../components/Layout/Header/HeaderStyleTwo";
+import React, { Component } from "react";
+import HeaderStyleTwo from "../components/Layout/Header/Header";
 import Footer from "../components/Layout/Footer/Footer";
 import SiteBreadcrumb from "../components/Common/Breadcumb";
 import ServiceDetailsMain from "../components/ServiceDetails/ServiceDetailsMain";
@@ -8,10 +8,10 @@ class ServicesDetails extends Component {
 	render() {
 		return (
 			<React.Fragment>
-				<HeaderStyleTwo/>
-				<SiteBreadcrumb pageTitle="Service Details"/>
-				<ServiceDetailsMain/>
-				<Footer/>
+				<HeaderStyleTwo />
+				<SiteBreadcrumb pageTitle="Service Details" />
+				<ServiceDetailsMain />
+				<Footer />
 			</React.Fragment>
 		);
 	}
