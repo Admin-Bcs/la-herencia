@@ -2,14 +2,19 @@
 /* 3. Slider */
 .slider-area {
     position: relative;
+    
   }
   .slider-height {
       min-height: 950px;
+      background-repeat: no-repeat;
+      position: relative;
+      background-size: 100vw;
   }
   .slider-height-2{
       min-height: 800px;
   }
   .single-slider {
+      
       background-size: cover;
       background-position: center center;
   }
@@ -17,7 +22,7 @@
   .slider-content h1 {
       font-size: 90px;
       font-weight: 300;
-      margin-bottom: 23px;
+      margin-bottom: 3px;
       line-height: 1.1;
   }
   .slider-content p {
@@ -28,11 +33,17 @@
   }
   .slider-button {
       margin-top: 40px;
+      
   }
   .slider-button a.btn.active {
       background: #fab522;
       margin-left: 25px;
+      
   }
+
+ 
+
+
   .slider-content-3 h1 {
       color: #fff;
       font-size: 80px;
@@ -73,8 +84,23 @@
     
     .title-slider h2 {
         font-size: 50px;
+        margin-top: 10px;
+        
     
     }
     .text-slider{
         text-align: justify;
+        
     }
+
+    .cont-h2{
+        display: none;
+    }
+
+   .box-title{
+       margin-top: -100px;
+       
+       p{
+           color: black;
+       }
+   }

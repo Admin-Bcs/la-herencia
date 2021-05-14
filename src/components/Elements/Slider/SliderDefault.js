@@ -67,7 +67,7 @@ const SliderDefault = () => {
             <Slider {...settings}>
                 <div className="single-slider">
                     <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/Ginger.png'})` }}>
-                        <div className="container">
+                        <div className="container box-title">
                             <div className="row ">
                                 <div className="col-xl-12">
                                     <div className="slider-content mt-85 title-slider">
@@ -95,10 +95,10 @@ const SliderDefault = () => {
                         </div>
                     </div>
                 </div>
-                <div className="single-slider">
+                <div className="single-slider cont-h2">
                     <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/Poultry.png'})` }}>
-                        <div className="container">
-                            <div className="row ">
+                        <div className="container box-title">
+                            <div className="row">
                                 <div className="col-xl-12">
                                     <div className="slider-content mt-85 title-slider">
                                         <h2 data-animation="fadeInUp" data-delay=".6s">
@@ -106,9 +106,9 @@ const SliderDefault = () => {
                                         </h2>
                                         <p className="text-slider" data-animation="fadeInUp" data-delay=".8s">
                                             Made originally with dried herbs such as sage, rosemary, ground black pepper, and marjoram, among others. It's a perfect condiment to give all your recipes a delicious flavor. </p>
-                                        <div className="slider-button">
+                                        <div className="slider-button ">
                                             <Link href="/services" as="/services" >
-                                                <a data-animation="fadeInLeft" data-delay=".8s" className="btn">
+                                                <a className="btn">
                                                     Our Services
                                                 </a>
                                             </Link>
@@ -126,7 +126,7 @@ const SliderDefault = () => {
                 </div>
                 <div className="single-slider">
                     <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/Garlic.png'})` }}>
-                        <div className="container">
+                        <div className="container box-title">
                             <div className="row ">
                                 <div className="col-xl-12">
                                     <div className="slider-content mt-85 title-slider">
