@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 import Link from "next/link";
 
 class ApWhatWeDo2Section extends Component {
@@ -13,7 +13,7 @@ class ApWhatWeDo2Section extends Component {
 									<img src={require('../../../public/assets/img/shape/1.png')} alt='image' />
 								</div>
 								<h1>Who We Are </h1>
-								
+
 							</div>
 						</div>
 					</div>
@@ -21,7 +21,7 @@ class ApWhatWeDo2Section extends Component {
 						<div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="we-do-wrapper text-center mb-30">
 								<div className="we-do-img">
-									<img src={require("../../../public/assets/img/icon/icon1.png")} alt="icon"/>
+									<img src={require("../../../public/assets/img/icon/vision.svg")} alt="icon" />
 								</div>
 								<div className="we-do-text">
 									<h4><a href="#">VISION</a></h4>
@@ -31,13 +31,13 @@ class ApWhatWeDo2Section extends Component {
 											Read More <i className="dripicons-arrow-thin-right"></i>
 										</a>
 									</Link> */}
-								</div>
+								</div> 
 							</div>
 						</div>
 						<div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="we-do-wrapper text-center  mb-30">
 								<div className="we-do-img">
-									<img src={require("../../../public/assets//img/icon/icon2.png")} alt="icon"/>
+									<img src={require("../../../public/assets//img/icon/mision.svg")} alt="icon" />
 								</div>
 								<div className="we-do-text">
 									<h4><a href="#">MISSION</a></h4>
@@ -53,7 +53,7 @@ class ApWhatWeDo2Section extends Component {
 						<div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="we-do-wrapper text-center mb-30">
 								<div className="we-do-img">
-									<img src={require("../../../public/assets/img/icon/icon3.png")} alt="icon"/>
+									<img src={require("../../../public/assets/img/icon/values.svg")} alt="icon" />
 								</div>
 								<div className="we-do-text">
 									<h4><a href="#">VALUES</a></h4>

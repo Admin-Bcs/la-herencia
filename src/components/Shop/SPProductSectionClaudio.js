@@ -28,7 +28,8 @@ export default class SPProductSectionClaudio extends Component {
 					</div>
 					<div className="row">
 						<div className="col-xl-3 col-lg-3 col-md-6">
-							<div className="product-wrapper text-center mb-30">
+							{/* <div className="product-wrapper text-center mb-30"> */}
+							<div className="text-center mb-30">
 								<div className="product-img">
 									<Link href="/shop-details" as="/shop-details" >
 										<a><img src={require("../../../public/assets/img/product/cal.png")} alt="product" /></a>
@@ -60,7 +61,8 @@ export default class SPProductSectionClaudio extends Component {
 							</div>
 						</div>
 						<div className="col-xl-3 col-lg-3 col-md-6">
-							<div className="product-wrapper text-center mb-30">
+							{/* <div className="product-wrapper text-center mb-30"> */}
+							<div className="text-center mb-30">
 								<div className="product-img">
 									<Link href="/shop-details" as="/shop-details" >
 										<a><img src={require("../../../public/assets/img/product/cancerina.png")} alt="image" /></a>
@@ -91,7 +93,8 @@ export default class SPProductSectionClaudio extends Component {
 							</div>
 						</div>
 						<div className="col-xl-3 col-lg-3 col-md-6">
-							<div className="product-wrapper text-center mb-30">
+							{/* <div className="product-wrapper text-center mb-30"> */}
+							<div className="text-center mb-30">
 								<div className="product-img">
 									<Link href="/shop-details" as="/shop-details" >
 										<a><img src={require("../../../public/assets/img/product/cola de caballo.png")} alt="image" /></a>
@@ -122,7 +125,8 @@ export default class SPProductSectionClaudio extends Component {
 							</div>
 						</div>
 						<div className="col-xl-3 col-lg-3 col-md-6">
-							<div className="product-wrapper text-center mb-30">
+							{/* <div className="product-wrapper text-center mb-30"> */}
+							<div className="text-center mb-30">
 								<div className="product-img">
 									<Link href="/shop-details" as="/shop-details" >
 										<a><img src={require("../../../public/assets/img/product/product4.png")} alt="image" /></a>
@@ -154,7 +158,8 @@ export default class SPProductSectionClaudio extends Component {
 						</div>
 
 						<div className="col-xl-3 col-lg-3 col-md-6">
-							<div className="product-wrapper text-center mb-30">
+							{/* <div className="product-wrapper text-center mb-30"> */}
+							<div className="text-center mb-30">
 								<div className="product-img">
 									<Link href="/shop-details" as="/shop-details" >
 										<a><img src={require("../../../public/assets/img/product/HierbaMaestra.png")} alt="product" /></a>
@@ -186,7 +191,8 @@ export default class SPProductSectionClaudio extends Component {
 							</div>
 						</div>
 						<div className="col-xl-3 col-lg-3 col-md-6">
-							<div className="product-wrapper text-center mb-30">
+							{/* <div className="product-wrapper text-center mb-30"> */}
+							<div className="text-center mb-30">
 								<div className="product-img">
 									<Link href="/shop-details" as="/shop-details" >
 										<a><img src={require("../../../public/assets/img/product/06.png")} alt="image" /></a>
@@ -217,7 +223,8 @@ export default class SPProductSectionClaudio extends Component {
 							</div>
 						</div>
 						<div className="col-xl-3 col-lg-3 col-md-6">
-							<div className="product-wrapper text-center mb-30">
+							{/* <div className="product-wrapper text-center mb-30"> */}
+							<div className="text-center mb-30">
 								<div className="product-img">
 									<Link href="/shop-details" as="/shop-details" >
 										<a><img src={require("../../../public/assets/img/product/hoja de mango.png")} alt="image" /></a>
@@ -248,7 +255,8 @@ export default class SPProductSectionClaudio extends Component {
 							</div>
 						</div>
 						<div className="col-xl-3 col-lg-3 col-md-6">
-							<div className="product-wrapper text-center mb-30">
+							{/* <div className="product-wrapper text-center mb-30"> */}
+							<div className="text-center mb-30">
 								<div className="product-img">
 									<Link href="/shop-details" as="/shop-details" >
 										<a><img src={require("../../../public/assets/img/product/hojanaranjo.png")} alt="image" /></a>
@@ -280,7 +288,8 @@ export default class SPProductSectionClaudio extends Component {
 						</div>
 
 						<div className="col-xl-3 col-lg-3 col-md-6">
-							<div className="product-wrapper text-center mb-30">
+							{/* <div className="product-wrapper text-center mb-30"> */}
+							<div className="text-center mb-30">
 								<div className="product-img">
 									<Link href="/shop-details" as="/shop-details" >
 										<a><img src={require("../../../public/assets/img/product/09.png")} alt="product" /></a>
@@ -312,7 +321,8 @@ export default class SPProductSectionClaudio extends Component {
 							</div>
 						</div>
 						<div className="col-xl-3 col-lg-3 col-md-6">
-							<div className="product-wrapper text-center mb-30">
+							{/* <div className="product-wrapper text-center mb-30"> */}
+							<div className="text-center mb-30">
 								<div className="product-img">
 									<Link href="/shop-details" as="/shop-details" >
 										<a><img src={require("../../../public/assets/img/product/rinonina-2.png")} alt="image" /></a>
@@ -343,7 +353,8 @@ export default class SPProductSectionClaudio extends Component {
 							</div>
 						</div>
 						<div className="col-xl-3 col-lg-3 col-md-6">
-							<div className="product-wrapper text-center mb-30">
+							{/* <div className="product-wrapper text-center mb-30"> */}
+							<div className="text-center mb-30">
 								<div className="product-img">
 									<Link href="/shop-details" as="/shop-details" >
 										<a><img src={require("../../../public/assets/img/product/Sage.png")} alt="image" /></a>
@@ -374,7 +385,8 @@ export default class SPProductSectionClaudio extends Component {
 							</div>
 						</div>
 						<div className="col-xl-3 col-lg-3 col-md-6">
-							<div className="product-wrapper text-center mb-30">
+							{/* <div className="product-wrapper text-center mb-30"> */}
+							<div className="text-center mb-30">
 								<div className="product-img">
 									<Link href="/shop-details" as="/shop-details" >
 										<a><img src={require("../../../public/assets/img/product/12.png")} alt="image" /></a>
