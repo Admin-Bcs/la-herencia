@@ -78,17 +78,17 @@ const Header = () => {
 												<ul className="sub-menu text-left">
 													<li className={path === "/ShopHerencia" ? "active" : ""}>
 														<Link href="/ShopHerencia" as="/ShopHerencia">
-															<a>La Herencia</a>
+															<a>La Herencia Spices</a>
 														</Link>
 													</li>
 													<li className={path === "/ShopBersys" ? "active" : ""}>
 														<Link href="/ShopBersys" as="/ShopBersys">
-															<a>Bersys Snack</a>
+															<a>Bersy’s Snack</a>
 														</Link>
 													</li>
 													<li className={path === "/ShopClaudio" ? "active" : ""}>
 														<Link href="/ShopClaudio" as="/ShopClaudio">
-															<a>Claudio Tea</a>
+															<a>Claudio’s Tea Herb</a>
 														</Link>
 													</li>
 												</ul>

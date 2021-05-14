@@ -13,27 +13,25 @@ const Footer = () => {
 							<div className="col-xl-4 col-lg-4 col-md-6">
 								<div className="footer-wrapper mb-30">
 									<div >
-										<a href="/"><img
+										<a href="index.html"><img
 											className="retina-logo" src={require("../../../../public/assets/img/logo/laherencia/laherencia.png")} alt="" /></a>
 									</div>
 									<div className="footer-text">
-										<p>Lorem ipsum dolor amet cons adipisicing elit sed do eiusmod tempor incididunt
-										ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud
-											exercitation ullamco laboris nisi ut aliquip.</p>
+										
 									</div>
 									<div className="footer-icon">
 										<a href="#"><i><FontAwesomeIcon icon={['fab', 'facebook-f']} /></i></a>
 										<a href="https://www.instagram.com/laherenciaspices"><i><FontAwesomeIcon icon={['fab', 'instagram']} /></i></a>
-										{/* 	<a href="#"><i><FontAwesomeIcon icon={['fab', 'linkedin']} /></i></a> */}
-										<a href="#"><i><FontAwesomeIcon icon={['fab', 'youtube']} /></i></a>
-										{/* 	<a href="#"><i><FontAwesomeIcon icon={['fab', 'behance']} /></i></a> */}
+									{/* 	<a href="#"><i><FontAwesomeIcon icon={['fab', 'linkedin']} /></i></a> */}
+										<a href="https://www.pinterest.com/Laherenciaspices/"><i><FontAwesomeIcon icon={['fab', 'pinterest']} /></i></a>
+									{/* 	<a href="#"><i><FontAwesomeIcon icon={['fab', 'behance']} /></i></a> */}
 									</div>
 								</div>
 							</div>
 							<div className="col-xl-4 col-lg-4 col-md-6">
 								<div className="footer-wrapper pl-45 mb-30">
 									<div className="footer-title">
-										<h4>Contact Info</h4>
+										<h4>La Herencia Spices <br /> WAREHOUSE</h4>
 										<img src={require("../../../../public/assets/img/shape/f.png")} alt="shape" />
 									</div>
 									<ul className="fotter-link">
@@ -42,7 +40,7 @@ const Footer = () => {
 											<span>
 												422 11th St.
 												Union City, NJ 07087
-											</span>
+</span>
 										</li>
 										<li>
 											<i><FontAwesomeIcon icon={['far', 'envelope-open']} /></i>
@@ -58,8 +56,7 @@ const Footer = () => {
 							<div className="col-xl-4 col-lg-4 col-md-6">
 								<div className="footer-wrapper pl-40 mb-30">
 									<div className="footer-title">
-										<h4> La Herencia Spices
-												WAREHOUSE </h4>
+										<h4> Newsletter </h4>
 										<img src={require("../../../../public/assets/img/shape/f.png")} alt="shape" />
 									</div>
 									<div className="footer-content">

@@ -32,7 +32,7 @@ export default function Sidebar({ sidebarOpen, setSidebarOpen }) {
                     <p>services@laherenciaspices.com</p>
                 </div>
             </div>
-            <div className="instagram">
+            {/* <div className="instagram">
                 <a href="#">
                     <img src={require("../../../../public/assets/img/gallery/gallery1.jpg")} alt="gallery" />
                 </a>
@@ -51,13 +51,16 @@ export default function Sidebar({ sidebarOpen, setSidebarOpen }) {
                 <a href="#">
                     <img src={require("../../../../public/assets/img/gallery/gallery6.jpg")} alt="gallery" />
                 </a>
-            </div>
+            </div> */}
             <div className="social-icon-right mt-20">
                 <a href="#">
                     <i><FontAwesomeIcon icon={['fab', 'facebook-f']} /></i>
                 </a>
                 <a href="https://www.instagram.com/laherenciaspices">
                     <i><FontAwesomeIcon icon={['fab', 'instagram']} /></i>
+                </a>
+                <a href="https://www.pinterest.com/Laherenciaspices/">
+                    <i><FontAwesomeIcon icon={['fab', 'pinterest']} /></i>
                 </a>
             </div>
         </div>
