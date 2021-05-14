@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import CPMapSection from "./CPMapSection";
 import CPContactInfoSection from "./CPContactInfoSection";
 import CPContactFormSection from "./CPContactFormSection";
+import MapGoogle from './mapgoogle';
 
 class ContactsMain extends Component {
 	render() {
@@ -16,7 +17,8 @@ class ContactsMain extends Component {
 				{/* cta-end */}
 
 				{/* cta-start */}
-				<CPMapSection/>
+				{/* <CPMapSection/> */}
+				<MapGoogle />
 				{/* cta-end */}
 			</main>
 		);

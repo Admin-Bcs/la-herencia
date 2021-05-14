@@ -16,7 +16,7 @@ class CaseThree extends Component {
                 <Header />
                 <main>
                     {/* breadcrumb-area-start */}
-                    <SiteBreadcrumb pageTitle="Contacts" />
+                    <SiteBreadcrumb pageTitle="Contact" />
                     {/* breadcrumb-area-start */}
                     {/* Faq */}
                     <ContactsMain />

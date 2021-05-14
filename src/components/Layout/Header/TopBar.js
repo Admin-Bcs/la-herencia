@@ -25,6 +25,9 @@ const TopHeader = () => {
                         <div className="header-icon text-md-right">
                             <a href="#"><i><FontAwesomeIcon icon={['fab', 'facebook-f']} /></i></a>
                             <a href="https://www.instagram.com/laherenciaspices"><i><FontAwesomeIcon icon={['fab', 'instagram']} /></i></a>
+                            <a href="https://www.pinterest.com/Laherenciaspices/"><i><FontAwesomeIcon icon={['fab', 'pinterest']} /></i></a>
+
+                            
                             {/* <a href="#"><i><FontAwesomeIcon icon={['fab', 'linkedin']} /></i></a>
                             <a href="#"><i><FontAwesomeIcon icon={['fab', 'youtube']} /></i></a>
                             <a href="#"><i><FontAwesomeIcon icon={['fab', 'behance']} /></i></a> */}
