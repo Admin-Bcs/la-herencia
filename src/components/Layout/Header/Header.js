@@ -21,7 +21,7 @@ const Header = () => {
 
 	return (
 		<React.Fragment>
-			<header className="header-transparent" id="header-wrap">
+			<header className="header" id="header-wrap">
 				<TopHeader />
 
 				<div id="sticky-header" className="main-menu-area">
