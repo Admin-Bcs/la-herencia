@@ -10,7 +10,7 @@ class Shop extends Component {
         return (
             <React.Fragment>
                 <Header />
-                <SiteBreadcrumb pageTitle="Product Page" />
+                <SiteBreadcrumb pageTitle="Products" />
                 <ShopMain />
                 <Footer />
             </React.Fragment>

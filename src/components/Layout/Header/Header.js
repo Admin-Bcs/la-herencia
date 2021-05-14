@@ -1,7 +1,7 @@
-import React, {Component, useState , useEffect} from 'react';
+import React, { Component, useState, useEffect } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/router'
-import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import BurgerMenus from './BurgerMenus';
 import TopHeader from './TopBar';
 import Sidebar from './Sidebar';
@@ -68,39 +68,40 @@ const Header = () => {
 										<ul>
 											<li>
 												<Link href="/" as="/" ><a>HOME</a></Link>
-												
+
 											</li>
 											<li className={path === "/about" ? "active" : ""}>
 												<Link href="/about" as="/about" ><a>ABOUT US</a></Link>
 											</li>
 											<li className={path === "/" ? "active" : ""}>
 												<Link href="#" as="/" ><a>OUR PRODUCTS</a></Link>
+
+
+											</li>
+											<li className={path === "" ? "active" : ""}>
+												<Link href="" as="" ><a>OUR BRANDS</a></Link>
 												<ul className="sub-menu text-left">
-													<li className={path === "/ShopHerencia" ? "active" : ""}>
-														<Link href="/ShopHerencia" as="/ShopHerencia">
-															<a>La Herencia</a>
+													<li className={path === "/ShopClaudio" ? "active" : ""}>
+														<Link href="/ShopClaudio" as="/ShopClaudio">
+															<a>Claudio’s Tea Herb</a>
 														</Link>
 													</li>
 													<li className={path === "/ShopBersys" ? "active" : ""}>
 														<Link href="/ShopBersys" as="/ShopBersys">
-															<a>Bersys Snack</a>
+															<a>Bersy’s Snack</a>
 														</Link>
 													</li>
-													<li className={path === "/ShopClaudio" ? "active" : ""}>
-														<Link href="/ShopClaudio" as="/ShopClaudio">
-															<a>Claudio Tea</a>
+													<li className={path === "/ShopHerencia" ? "active" : ""}>
+														<Link href="/ShopHerencia" as="/ShopHerencia">
+															<a>La Herencia Spices</a>
 														</Link>
 													</li>
 												</ul>
-											
-											</li>
-											<li className={path === "" ? "active" : ""}>
-												<Link href="" as="" ><a>OUR BRANDS</a></Link>
 											</li>
 											<li className={path === "/blog" ? "active" : ""}>
 												<Link href="/blog" as="/blog" ><a>CLIENT</a></Link>
 											</li>
-											
+
 											<li className={path === "/contact" ? "active" : ""}>
 												<Link href="/contact" as="/contact">
 													<a>CONTACT</a>
@@ -114,7 +115,7 @@ const Header = () => {
 								<div className="menu-bar">
 									<button className="bars" onClick={() => {
 										setMenuOpen(!menuOpen)
-										}}>
+									}}>
 										<i> <FontAwesomeIcon icon={['far', 'bars']} /></i>
 									</button>
 								</div>
@@ -127,13 +128,13 @@ const Header = () => {
 
 				<div onClick={() => setMenuOpen(false)} className={menuOpen ? "body-overlay show" : "body-overlay"}></div>
 
-				<Sidebar sidebarOpen={sidebarOpen} setSidebarOpen={setSidebarOpen}/>
+				<Sidebar sidebarOpen={sidebarOpen} setSidebarOpen={setSidebarOpen} />
 
-				<SearchBar searchBarOpen={searchBarOpen} setSearchBarOpen={setSearchBarOpen}/>
+				<SearchBar searchBarOpen={searchBarOpen} setSearchBarOpen={setSearchBarOpen} />
 
 			</header>
 		</React.Fragment>
-);
+	);
 }
 
 export default Header;

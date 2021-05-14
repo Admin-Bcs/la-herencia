@@ -15,7 +15,7 @@ class ApAbout4Section extends Component {
 						</div>
 						<div className="col-xl-6 col-lg-6">
 							<div className="about-img mb-30">
-								<img src={require('../../../public/assets/img/about/2.jpg')} alt='image'/>
+								<img src={require('../../../public/assets/img/about/family.png')} alt='image'/>
 							</div>
 						</div>
 					</div>

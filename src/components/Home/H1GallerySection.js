@@ -12,11 +12,6 @@ class H1GallerySection extends Component {
 									<img src={require("../../../public/assets/img/shape/1.png")} alt="" />
 								</div>
 								<h1>La Herencia Gallery</h1>
-								<p>
-									Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmotempor incididunt
-									ut
-									labore et dolore magna aliqua enim minim veniam
-								</p>
 							</div>
 						</div>
 					</div>
@@ -24,115 +19,61 @@ class H1GallerySection extends Component {
 				<div className="container-fluid">
 					<div className="row">
 						<div className="col-xl-3 col-lg-3 col-md-6">
-							<div className="gallery-wrapper mb-30">
-								<div className="gallery-img">
-									<a href="#"><img src={require("../../../public/assets/img/gallery/Garlic.png")}
-										alt="" /></a>
-									<div className="gallery-icon">
-										<a className="popup-image"
-											href={require("../../../public/assets/img/gallery/Garlic.png")}>
-											<i className="ti-plus"></i>
-										</a>
-									</div>
-								</div>
+							<div className="gallery-img">
+								<a><img src={require("../../../public/assets/img/gallery/Garlic.png")}
+								/></a>
 							</div>
 						</div>
 						<div className="col-xl-3 col-lg-3 col-md-6">
-							<div className="gallery-wrapper mb-30">
-								<div className="gallery-img">
-									<a href="#"><img src={require("../../../public/assets/img/gallery/Ginger.png")}
-										alt="" /></a>
-									<div className="gallery-icon">
-										<a className="popup-image"
-											href={require("../../../public/assets/img/gallery/Ginger.png")}>
-											<i className="ti-plus"></i>
-										</a>
-									</div>
-								</div>
+
+							<div className="gallery-img">
+								<a ><img src={require("../../../public/assets/img/gallery/Garlic2.png")}
+								/></a>
+							</div>
+
+						</div>
+						<div className="col-xl-3 col-lg-3 col-md-6">
+							<div className="gallery-img">
+								<a ><img src={require("../../../public/assets/img/gallery/Ginger.png")}
+								/></a>
+							</div>
+
+						</div>
+						<div className="col-xl-3 col-lg-3 col-md-6">
+
+							<div className="gallery-img">
+								<a><img src={require("../../../public/assets/img/gallery/Ginger2.png")}
+								/></a>
+
 							</div>
 						</div>
 						<div className="col-xl-3 col-lg-3 col-md-6">
-							<div className="gallery-wrapper mb-30">
-								<div className="gallery-img">
-									<a href="#"><img src={require("../../../public/assets/img/gallery/Italian.png")}
-										alt="" /></a>
-									<div className="gallery-icon">
-										<a className="popup-image"
-											href={require("../../../public/assets/img/gallery/Italian.png")}>
-											<i className="ti-plus"></i>
-										</a>
-									</div>
-								</div>
+
+							<div className="gallery-img">
+								<a><img src={require("../../../public/assets/img/gallery/Italian.png")}
+								/></a>
+
 							</div>
 						</div>
 						<div className="col-xl-3 col-lg-3 col-md-6">
-							<div className="gallery-wrapper mb-30">
-								<div className="gallery-img">
-									<a href="#"><img src={require("../../../public/assets/img/gallery/Pumpkin.png")}
-										alt="" /></a>
-									<div className="gallery-icon">
-										<a className="popup-image"
-											href={require("../../../public/assets/img/gallery/Pumpkin.png")}>
-											<i className="ti-plus"></i>
-										</a>
-									</div>
-								</div>
+
+							<div className="gallery-img">
+								<a><img src={require("../../../public/assets/img/gallery/Italian2.png")}
+								/></a>
+
 							</div>
 						</div>
 						<div className="col-xl-3 col-lg-3 col-md-6">
-							<div className="gallery-wrapper mb-30">
-								<div className="gallery-img">
-									<a href="#"><img src={require("../../../public/assets/img/gallery/Garlic2.png")}
-										alt="" /></a>
-									<div className="gallery-icon">
-										<a className="popup-image"
-											href={require("../../../public/assets/img/gallery/Garlic2.png")}>
-											<i className="ti-plus"></i>
-										</a>
-									</div>
-								</div>
+							<div className="gallery-img">
+								<a><img src={require("../../../public/assets/img/gallery/Pumpkin.png")}
+								/></a>
+
 							</div>
 						</div>
 						<div className="col-xl-3 col-lg-3 col-md-6">
-							<div className="gallery-wrapper mb-30">
-								<div className="gallery-img">
-									<a href="#"><img src={require("../../../public/assets/img/gallery/Ginger2.png")}
-										alt="" /></a>
-									<div className="gallery-icon">
-										<a className="popup-image"
-											href={require("../../../public/assets/img/gallery/Ginger2.png")}>
-											<i className="ti-plus"></i>
-										</a>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div className="col-xl-3 col-lg-3 col-md-6">
-							<div className="gallery-wrapper mb-30">
-								<div className="gallery-img">
-									<a href="#"><img src={require("../../../public/assets/img/gallery/Italian2.png")}
-										alt="" /></a>
-									<div className="gallery-icon">
-										<a className="popup-image"
-											href={require("../../../public/assets/img/gallery/Italian2.png")}>
-											<i className="ti-plus"></i>
-										</a>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div className="col-xl-3 col-lg-3 col-md-6">
-							<div className="gallery-wrapper mb-30">
-								<div className="gallery-img">
-									<a href="#"><img src={require("../../../public/assets/img/gallery/Pumpkin2.png")}
-										alt="" /></a>
-									<div className="gallery-icon">
-										<a className="popup-image"
-											href={require("../../../public/assets/img/gallery/Pumpkin2.png")}>
-											<i className="ti-plus"></i>
-										</a>
-									</div>
-								</div>
+							<div className="gallery-img">
+								<a ><img src={require("../../../public/assets/img/gallery/Pumpkin2.png")}
+								/></a>
 							</div>
 						</div>
 					</div>

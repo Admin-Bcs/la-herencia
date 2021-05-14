@@ -78,19 +78,18 @@ class SPShopDetailsSection extends Component {
 									using 'Content here, content here', making it look like readable English.</p>
 								<div className="product-social mb-30">
 									<a href="#"><FontAwesomeIcon icon={['fab', 'facebook-f']}/></a>
-									<a href="#"><FontAwesomeIcon icon={['fab', 'twitter']}/></a>
-									<a href="#"><FontAwesomeIcon icon={['fab', 'behance']}/></a>
-									<a href="#"><FontAwesomeIcon icon={['fab', 'linkedin-in']}/></a>
-									<a href="#"><FontAwesomeIcon icon={['fab', 'youtube']}/></a>
+									<a href="https://www.instagram.com/laherenciaspices"><FontAwesomeIcon icon={['fab', 'instagram']}/></a>
+									<a href="https://www.pinterest.com/Laherenciaspices/"><FontAwesomeIcon icon={['fab', 'pinterest']}/></a>
+									
 								</div>
-								<div className="product-details-action">
+								{/* <div className="product-details-action">
 									<form action="#">
 										<div className="plus-minus">
 											<div className="cart-plus-minus"><input type="text" defaultValue="1"/></div>
 										</div>
 										<button className="btn btn-black" type="submit">add to cart</button>
 									</form>
-								</div>
+								</div> */}
 							</div>
 						</div>
 					</div>

@@ -10,7 +10,7 @@ class ShopClaudio extends Component {
         return (
             <React.Fragment>
                 <Header />
-                <SiteBreadcrumb pageTitle="Product Page" />
+                <SiteBreadcrumb pageTitle="Products" />
                 <ShopClauidioMain/>
                 <Footer />
             </React.Fragment>

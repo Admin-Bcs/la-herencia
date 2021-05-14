@@ -18,9 +18,9 @@ class CPContactInfoSection extends Component {
 									</div>
 								</div>
 								<ul className="contact-link">
-									<li>La Herencia Spices WAREHOUSE </li>
-									<li>422 11th St.</li>
-									<li>Union City, NJ 07087</li>
+									<li>La Herencia Spices </li>
+									<li>WAREHOUSE </li>
+									<li> 422 11th St. Union City, NJ 07087</li>
 								</ul>
 							</div>
 						</div>
@@ -34,8 +34,8 @@ class CPContactInfoSection extends Component {
 								</div>
 								<ul className="contact-link">
 									<li>Tel: 201-223-6809 </li>
-									<li>services@laherenciaspices.com</li>
 									<li>Fax:</li>
+									<li>services@laherenciaspices.com</li>
 								</ul>
 							</div>
 						</div>
@@ -50,7 +50,7 @@ class CPContactInfoSection extends Component {
 								<ul className="contact-link">
 									<li><Link href="https://www.facebook.com/ " target='_blank' ><a >• facebook <i className="fab fa-facebook" > </i></a></Link> <br /></li>
 									<li><Link href="https://www.instagram.com/laherenciaspices" target='_blank' ><a >• instagram <i className="fab fa-instagram" > </i></a></Link><br /></li>
-									<li><Link href="https://www.youtube.com/ " target='_blank' ><a >• youtube <i className="fab fa-youtube" > </i></a></Link></li>
+									<li><Link href="https://www.pinterest.com/Laherenciaspices/" target='_blank' ><a >• Pinterest <i className="fab fa-pinterest" > </i></a></Link></li>
 								</ul>
 							</div>
 						</div>

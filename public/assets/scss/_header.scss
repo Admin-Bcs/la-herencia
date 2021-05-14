@@ -5,6 +5,7 @@
 	width: 250px !important;
 }
 .header-transparent {
+	border-bottom: 1px solid #ffd799;
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -47,9 +48,12 @@
 }
 .header-3{}
 .header-area {
+	background-color: #408858;
 	border-bottom: 1px solid #ffd799;
 	padding-top: 11px;
 	padding-bottom: 14px;
+
+	
 }
 .header-2 {
 	border-color: #e9eef2;
@@ -70,7 +74,7 @@
 }
 .header-wrapper{}
 .header-text span {
-	color: #575f65;
+	color: #fefefe;
 	font-size: 13px;
 	margin-right: 23px;
 }
@@ -347,3 +351,7 @@
     overflow: visible;
     vertical-align: -0.125em;
 }
+.color-ico a{
+	color: white;
+}
+

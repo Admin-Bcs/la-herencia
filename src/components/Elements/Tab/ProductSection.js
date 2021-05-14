@@ -2,6 +2,11 @@ import React, { Component } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import Link from "next/link";
+import	ico1 from '../../../../public/assets/img/icon/ico-home/teaherbs.svg'
+import	ico2 from '../../../../public/assets/img/icon/ico-home/snacks.svg'
+import	ico3 from '../../../../public/assets/img/icon/ico-home/spices.svg'
+
+
 
 class ProductSection extends Component {
 	render() {
@@ -10,9 +15,9 @@ class ProductSection extends Component {
 				<div className="shape spahe1 bounce-animate">
 					<img src={require("../../../../public/assets/img/shape/shape1.png")} alt="shape" />
 				</div>
-				<div className="shape spahe2 bounce-animate"><img src={require("../../../../public/assets/img/shape/shape2.png")} alt="shape" /></div>
-				<div className="shape spahe3 bounce-animate"><img src={require("../../../../public/assets/img/shape/shape3.png")} alt="shape" /></div>
-				<div className="shape spahe4 bounce-animate"><img src={require("../../../../public/assets/img/shape/shape4.png")} alt="shape" /></div>
+				<div className="shape spahe2 bounce-animate"><img src={require("../../../../public/assets/img/shape/spices.svg")} alt="shape" /></div>
+				<div className="shape spahe3 bounce-animate"><img src={require("../../../../public/assets/img/shape/tea.svg")} alt="shape" /></div>
+				<div className="shape spahe4 bounce-animate"><img src={require("../../../../public/assets/img/shape/snacks.svg")} alt="shape" /></div>
 				<div className="container">
 					<div className="row">
 						<div className="col-xl-6 col-lg-6 offset-lg-3 offset-xl-3">
@@ -20,39 +25,39 @@ class ProductSection extends Component {
 								<div className="section-img">
 									<img src={require("../../../../public/assets/img/shape/1.png")} alt="" />
 								</div>
-								<h1>Our Product</h1>
-								<p>
-									Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmotempor incididunt ut
-									labore et dolore magna aliqua enim minim veniam
-								</p>
+								<h1>Our Products</h1>
 							</div>
 						</div>
 					</div>
 					<Tabs className="row" selectedTabClassName="active">
 						<div className="col-xl-12">
 							<TabList className="nav product-tab justify-content-center mb-75">
+								
 								<Tab className="nav-item">
 									<div className="product-tab-content text-center">
 										<div className="product-tab-img">
-											<i className="flaticon-tomato"></i>
+											{/* <i className="flaticon-pumpkin"></i> */}
+											<img src={ico1} alt="ico1" />
 										</div>
-										<h4> TEA HERBS</h4>
+										<h6> TEA HERBS</h6>
 									</div>
 								</Tab>
 								<Tab className="nav-item">
 									<div className="product-tab-content text-center">
 										<div className="product-tab-img">
-											<i className="flaticon-pumpkin"></i>
+											{/* <i className="flaticon-pumpkin"></i> */}
+											<img src={ico2} alt="ico2" />
 										</div>
-										<h4> SNACKS</h4>
+										<h6> SNACKS</h6>
 									</div>
 								</Tab>
 								<Tab className="nav-item">
 									<div className="product-tab-content text-center">
 										<div className="product-tab-img">
-											<i className="flaticon-vegetarian"></i>
+											{/* <i className="flaticon-vegetarian"></i> */}
+											<img src={ico3} alt="ico3" />
 										</div>
-										<h4>SPICES</h4>
+										<h6>SPICES</h6>
 									</div>
 								</Tab>
 							</TabList>
@@ -203,7 +208,7 @@ class ProductSection extends Component {
 											<div className="product-text">
 												<h4>
 													<Link href="/shop-details" as="/shop-details" >
-														<a>Blackberries Head</a>
+														<a>Salty Fava Bean</a>
 													</Link>
 												</h4>
 												<div className="pro-rating">
@@ -235,7 +240,7 @@ class ProductSection extends Component {
 											<div className="product-text">
 												<h4>
 													<Link href="/shop-details" as="/shop-details" >
-														<a>Broccoli Head</a>
+														<a>Spicy Fava Bean</a>
 													</Link>
 												</h4>
 												<div className="pro-rating">
@@ -266,7 +271,7 @@ class ProductSection extends Component {
 											<div className="product-text">
 												<h4>
 													<Link href="/shop-details" as="/shop-details" >
-														<a>Avocado Head</a>
+														<a>Crisp Pumpkin</a>
 													</Link>
 												</h4>
 												<div className="pro-rating">
@@ -297,7 +302,7 @@ class ProductSection extends Component {
 											<div className="product-text">
 												<h4>
 													<Link href="/shop-details" as="/shop-details" >
-														<a>Breadfruit Head</a>
+														<a>Prunes</a>
 													</Link>
 												</h4>
 												<div className="pro-rating">

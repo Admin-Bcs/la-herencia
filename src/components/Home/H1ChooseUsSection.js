@@ -10,7 +10,7 @@ class H1ChooseUsSection extends Component {
 				<div className="container">
 					<div className="row">
 						<div className="col-xl-7 col-lg-12">
-							<div className="choose-img mb-30">
+							<div className="choose-img mb-20">
 								<img src={require("../../../public/assets/img/choose/Choose.png")} alt="" />
 							</div>
 						</div>
@@ -19,46 +19,14 @@ class H1ChooseUsSection extends Component {
 								<div className="choose-section">
 									<h1>Why Choose Us</h1>
 									<p>
-										Lorem ipsum dolor sit amet, consectetur adipisicing eliseei ustempor incididunt ut
-										labore et dolore magna aliqua. Ut enim minim veniam quis nostrud exercitation.
+										We guarantee customer satisfaction, the company keeps up to date with service as
+										they have their section clean, organized, and full of product. La Herencia knows
+										spices from how to grow them, to best storage options, and how to showcase the flavor
+										to connect with many different customers and expand their line of Spices, Teas, and Snacks!
+
 									</p>
 								</div>
-								<div className="choose-content mb-40">
-									<div className="choose-us-img">
-										<img src={require("../../../public/assets/img/icon/1.png")} alt="" />
-									</div>
-									<div className="choose-text">
-										<h4>Natural Process</h4>
-										<p>
-											Sorem ipsum dolor sit amet consecta dipisicing elit sed do eiusmod tempor
-											incidide.
-										</p>
-									</div>
-								</div>
-								<div className="choose-content mb-40">
-									<div className="choose-us-img">
-										<img src={require("../../../public/assets/img/icon/2.png")} alt="" />
-									</div>
-									<div className="choose-text">
-										<h4>100% Organic Products</h4>
-										<p>
-											Sorem ipsum dolor sit amet consecta dipisicing elit sed do eiusmod tempor
-											incidide.
-										</p>
-									</div>
-								</div>
-								<div className="choose-content">
-									<div className="choose-us-img">
-										<img src={require("../../../public/assets/img/icon/3.png")} alt="" />
-									</div>
-									<div className="choose-text">
-										<h4>Homegrown Goodness</h4>
-										<p>
-											Sorem ipsum dolor sit amet consecta dipisicing elit sed do eiusmod tempor
-											incidide.
-										</p>
-									</div>
-								</div>
+
 							</div>
 						</div>
 					</div>
