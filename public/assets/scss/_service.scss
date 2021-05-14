@@ -3,10 +3,13 @@
 .we-do-wrapper {}
 .we-do-img {
 	margin-bottom: 44px;
+	max-width: 50%;
+	margin-left: 90px;
 }
 .we-do-text {
 	z-index: 999;
 	position: relative;
+	
 }
 .we-do-text h4 {
 	font-size: 24px;
@@ -25,6 +28,7 @@
 .we-do-text p {
 	margin-bottom: 0;
 	padding: 0 33px;
+	text-align: justify;
 }
 
 .we-do-text > a i {

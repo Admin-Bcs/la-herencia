@@ -23,10 +23,12 @@ class H1FeaturesSection extends Component {
 									<img src={require("../../../public/assets/img/logo/laherencia/laherencia.png")} alt="features" />
 								</div>
 								<div className="features-text ">
+									<br />
 									<h4>La Herencia Spices</h4>
 									<p className="text-slider">
 										Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt
 										ut labore et dolore magna aliqua.
+
 									</p>
 									<Link href="/ShopHerencia" as="/ShopHerencia" >
 										<a>View Products <i className="dripicons-arrow-thin-right"></i></a>
@@ -70,7 +72,7 @@ class H1FeaturesSection extends Component {
 						</div>
 					</div>
 				</div>
-			</div>
+			</div >
 		);
 	}
 }
