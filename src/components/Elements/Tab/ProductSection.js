@@ -20,11 +20,7 @@ class ProductSection extends Component {
 								<div className="section-img">
 									<img src={require("../../../../public/assets/img/shape/1.png")} alt="" />
 								</div>
-								<h1>Our Product</h1>
-								<p>
-									Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmotempor incididunt ut
-									labore et dolore magna aliqua enim minim veniam
-								</p>
+								<h1>Our Products</h1>
 							</div>
 						</div>
 					</div>

@@ -78,14 +78,9 @@ const SliderDefault = () => {
                                             Ground Ginger root provides a powerful punch of pure flavor in its finest form, which is ideal for seasoning sides, baking cookies, and spicing up your favorite dressings and sauces. This refined herb offers that exclusive, biting taste that is essential to innumerable dishes.
                                         </p>
                                         <div className="slider-button">
-                                            <Link href="/services" as="/services" >
+                                            <Link href="/ShopHerencia" as="/ShopHerencia" >
                                                 <a data-animation="fadeInLeft" data-delay=".8s" className="btn">
-                                                    Our Services
-                                                </a>
-                                            </Link>
-                                            <Link href="/contact" as="/contact" >
-                                                <a data-animation="fadeInRight" data-delay="1s" className="btn active">
-                                                    Contact Us
+                                                    La Herencia Spices
                                                 </a>
                                             </Link>
                                         </div>
@@ -107,14 +102,9 @@ const SliderDefault = () => {
                                         <p className="text-slider" data-animation="fadeInUp" data-delay=".8s">
                                             Made originally with dried herbs such as sage, rosemary, ground black pepper, and marjoram, among others. It's a perfect condiment to give all your recipes a delicious flavor. </p>
                                         <div className="slider-button ">
-                                            <Link href="/services" as="/services" >
-                                                <a className="btn">
-                                                    Our Services
-                                                </a>
-                                            </Link>
-                                            <Link href="/contact" as="/contact" >
-                                                <a data-animation="fadeInRight" data-delay="1s" className="btn active">
-                                                    Contact Us
+                                            <Link href="/ShopHerencia" as="/ShopHerencia" >
+                                                <a data-animation="fadeInLeft" data-delay=".8s" className="btn">
+                                                    La Herencia Spices
                                                 </a>
                                             </Link>
                                         </div>
@@ -139,16 +129,12 @@ const SliderDefault = () => {
                                             vegetables and homemade breads and rolls.
                                         </p>
                                         <div className="slider-button">
-                                            <Link href="/services" as="/services" >
+                                            <Link href="/ShopHerencia" as="/ShopHerencia" >
                                                 <a data-animation="fadeInLeft" data-delay=".8s" className="btn">
-                                                    Our Services
+                                                    La Herencia Spices
                                                 </a>
                                             </Link>
-                                            <Link href="/contact" as="/contact" >
-                                                <a data-animation="fadeInRight" data-delay="1s" className="btn active">
-                                                    Contact Us
-                                                </a>
-                                            </Link>
+
                                         </div>
                                     </div>
                                 </div>

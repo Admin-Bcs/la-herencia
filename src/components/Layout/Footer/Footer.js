@@ -13,7 +13,7 @@ const Footer = () => {
 							<div className="col-xl-4 col-lg-4 col-md-6">
 								<div className="footer-wrapper mb-30">
 									<div >
-										<a href="index.html"><img
+										<a href="/"><img
 											className="retina-logo" src={require("../../../../public/assets/img/logo/laherencia/laherencia.png")} alt="" /></a>
 									</div>
 									<div className="footer-text">
@@ -24,9 +24,9 @@ const Footer = () => {
 									<div className="footer-icon">
 										<a href="#"><i><FontAwesomeIcon icon={['fab', 'facebook-f']} /></i></a>
 										<a href="https://www.instagram.com/laherenciaspices"><i><FontAwesomeIcon icon={['fab', 'instagram']} /></i></a>
-									{/* 	<a href="#"><i><FontAwesomeIcon icon={['fab', 'linkedin']} /></i></a> */}
+										{/* 	<a href="#"><i><FontAwesomeIcon icon={['fab', 'linkedin']} /></i></a> */}
 										<a href="#"><i><FontAwesomeIcon icon={['fab', 'youtube']} /></i></a>
-									{/* 	<a href="#"><i><FontAwesomeIcon icon={['fab', 'behance']} /></i></a> */}
+										{/* 	<a href="#"><i><FontAwesomeIcon icon={['fab', 'behance']} /></i></a> */}
 									</div>
 								</div>
 							</div>
@@ -42,7 +42,7 @@ const Footer = () => {
 											<span>
 												422 11th St.
 												Union City, NJ 07087
-</span>
+											</span>
 										</li>
 										<li>
 											<i><FontAwesomeIcon icon={['far', 'envelope-open']} /></i>
