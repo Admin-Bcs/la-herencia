@@ -55,7 +55,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-59423006478</span>
 									</div>
 								</div>
 							</div>
@@ -87,7 +87,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-59423006102</span>
 									</div>
 								</div>
 							</div>
@@ -119,7 +119,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-59423006195</span>
 									</div>
 								</div>
 							</div>
@@ -151,7 +151,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-59423006188</span>
 									</div>
 								</div>
 							</div>
@@ -185,7 +185,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-59423006171</span>
 									</div>
 								</div>
 							</div>
@@ -217,7 +217,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-59423006164</span>
 									</div>
 								</div>
 							</div>
@@ -249,7 +249,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-59423006157</span>
 									</div>
 								</div>
 							</div>
@@ -281,7 +281,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-59423006140</span>
 									</div>
 								</div>
 							</div>
@@ -315,7 +315,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-59423006089</span>
 									</div>
 								</div>
 							</div>
@@ -347,7 +347,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-59423006065</span>
 									</div>
 								</div>
 							</div>
@@ -379,7 +379,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-59423006072</span>
 									</div>
 								</div>
 							</div>
@@ -411,7 +411,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$49.99</span>
+										<span>8-59423006126</span>
 									</div>
 								</div>
 							</div>

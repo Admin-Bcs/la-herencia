@@ -55,7 +55,7 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$14.40</span>
+										<span>8-53135006917</span>
 									</div>
 								</div>
 							</div>
@@ -87,7 +87,7 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$14.40</span>
+										<span>8-53135006924</span>
 									</div>
 								</div>
 							</div>
@@ -119,7 +119,7 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-51101006008</span>
 									</div>
 								</div>
 							</div>
@@ -151,7 +151,7 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-51101006015</span>
 									</div>
 								</div>
 							</div>
@@ -185,7 +185,7 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-51101006022</span>
 									</div>
 								</div>
 							</div>
@@ -217,7 +217,7 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-51101006039</span>
 									</div>
 								</div>
 							</div>
@@ -249,7 +249,7 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-51101006046</span>
 									</div>
 								</div>
 							</div>
@@ -281,7 +281,7 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-51101006053</span>
 									</div>
 								</div>
 							</div>
@@ -315,7 +315,7 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-51101006060</span>
 									</div>
 								</div>
 							</div>
@@ -347,7 +347,7 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-51101006077</span>
 									</div>
 								</div>
 							</div>
@@ -379,7 +379,7 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-51101006084</span>
 									</div>
 								</div>
 							</div>
@@ -411,7 +411,7 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-51101006091</span>
 									</div>
 								</div>
 							</div>
