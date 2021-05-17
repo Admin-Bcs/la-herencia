@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import Link from "next/link";
+import ico1 from '../../../../public/assets/img/icon/teaherbs.svg'
 
 
 
@@ -34,8 +35,8 @@ class ProductSection extends Component {
 								<Tab className="nav-item">
 									<div className="product-tab-content text-center">
 										<div className="product-tab-img">
-											<i className="flaticon-pumpkin"></i>
-											{/* <img src={ico1} alt="ico1" /> */}
+											{/* <i className="flaticon-pumpkin"></i> */}
+											<img src={ico1} alt="ico1" />
 										</div>
 										<h6> TEA HERBS</h6>
 									</div>
