@@ -55,7 +55,7 @@ export default class SPProductSectionHerencia extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$36.84</span>
+										<span>8-59423006478</span>
 									</div>
 								</div>
 							</div>
@@ -87,7 +87,7 @@ export default class SPProductSectionHerencia extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$31.50</span>
+										<span>8-53135006900</span>
 									</div>
 								</div>
 							</div>
@@ -119,7 +119,7 @@ export default class SPProductSectionHerencia extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-53135006443</span>
 									</div>
 								</div>
 							</div>
@@ -151,7 +151,7 @@ export default class SPProductSectionHerencia extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-53135006450</span>
 									</div>
 								</div>
 							</div>
@@ -185,7 +185,7 @@ export default class SPProductSectionHerencia extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$20.90</span>
+										<span>8-53135006467</span>
 									</div>
 								</div>
 							</div>
@@ -217,7 +217,7 @@ export default class SPProductSectionHerencia extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$20.90</span>
+										<span>8-53135006474</span>
 									</div>
 								</div>
 							</div>
@@ -249,7 +249,7 @@ export default class SPProductSectionHerencia extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$20.90</span>
+										<span>8-53135006481</span>
 									</div>
 								</div>
 							</div>
@@ -281,7 +281,7 @@ export default class SPProductSectionHerencia extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$20.90</span>
+										<span>8-53135006498</span>
 									</div>
 								</div>
 							</div>
@@ -313,7 +313,7 @@ export default class SPProductSectionHerencia extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$33.50</span>
+										<span>8-53135006511</span>
 									</div>
 								</div>
 							</div>
@@ -347,7 +347,7 @@ export default class SPProductSectionHerencia extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$41.90</span>
+										<span>8-53135006528</span>
 									</div>
 								</div>
 							</div>
@@ -379,7 +379,7 @@ export default class SPProductSectionHerencia extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$33.50</span>
+										<span>8-53135006535</span>
 									</div>
 								</div>
 							</div>
@@ -412,7 +412,7 @@ export default class SPProductSectionHerencia extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-53135006542</span>
 									</div>
 								</div>
 							</div>
