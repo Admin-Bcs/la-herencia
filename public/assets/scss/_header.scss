@@ -80,17 +80,35 @@
 }
 .header-text span:last-child{margin-right:0;}
 .header-text span i {
+	color:#7c3c21;
+	font-size: 16px;
+	height: 36px;
+	width: 36px;
+	display: inline-block;	
+	line-height: 36px;
+	text-align: center;
+	border-radius: 50%;
+	transition: .3s;
 	margin-right: 5px;
+	background:#ffef13;
 }
-.header-icon{
+.header-icon a:hover{
+	background:#ffef13;
 }
 .header-icon a {
-	color: #575f65;
-	font-size: 13px;
-	margin-right: 15px;
+	color: #7c3c21;
+	font-size: 18px;
+	height: 36px;
+	width: 36px;
+	display: inline-block;
+	background: #2b7443;
+	border-radius: 50%;
+	line-height: 36px;
+	text-align: center;
 	transition: .3s;
+	margin-right: 5px;
 }
-.header-icon a:hover{color:#408858;}
+.header-icon a:hover{color: #7c3c21;}
 .header-icon a:last-child{margin-right:0;}
 .cart-search {
   margin-right: 30px;
@@ -272,7 +290,7 @@
 
 /* extra info */
 .extra-info {
-	background: #152136;
+	background: #408858;
 	height: 100%;
 	padding: 30px;
 	position: fixed;
@@ -296,7 +314,7 @@
 .close-icon > button {
 	background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
 	border: 0 none;
-	color: #ff4a57;
+	color: #ffef13;
 	cursor: pointer;
 	font-size: 28px;
 	padding: 0;
@@ -310,13 +328,21 @@
   width: 100%;
 }
 .social-icon-right > a {
-	color: #fff;
+	
+	color: #7c3c21;
+	font-size: 16px;
+	height: 36px;
+	width: 36px;
 	display: inline-block;
-	margin-right: 20px;
+	background: #ffef13;
+	border-radius: 50%;
+	line-height: 36px;
 	text-align: center;
+	transition: .3s;
+	margin-right: 5px;
 }
 .social-icon-right > a:hover {
-	color: #fab522;
+	color: #408858;
 }
 .instagram {
   overflow: hidden;
@@ -329,7 +355,7 @@
 	margin-bottom: 7px;
 }
 .side-info {
-	border-top: 1px solid #344159;
+	border-top: 1px solid #ffef13;
 	padding-top: 25px;
 }
 .contact-list h4 {
@@ -338,8 +364,8 @@
 	font-weight: 400;
 }
 .contact-list p {
-	color: #fff;
-	opacity: .7;
+	color: #ffef13;
+	font-size: 18px;
 	margin: 0;
 	margin-bottom: 2px;
 }

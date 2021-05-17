@@ -12,7 +12,7 @@ const TopHeader = () => {
                             <div className="header-text ">
                                 <span>
                                     <i ><FontAwesomeIcon icon={['far', 'map']} /></i>
-                                    422 11th St, Union City, NJ 07087
+                                    422 11th Street, Union City, New Jersey 07087
                                 </span>
                                 <span>
                                     <i><FontAwesomeIcon icon={['far', 'envelope']} /></i>
@@ -27,7 +27,7 @@ const TopHeader = () => {
                             <a href="https://www.instagram.com/laherenciaspices"><i><FontAwesomeIcon icon={['fab', 'instagram']} /></i></a>
                             <a href="https://www.pinterest.com/Laherenciaspices/"><i><FontAwesomeIcon icon={['fab', 'pinterest']} /></i></a>
 
-                            
+
                             {/* <a href="#"><i><FontAwesomeIcon icon={['fab', 'linkedin']} /></i></a>
                             <a href="#"><i><FontAwesomeIcon icon={['fab', 'youtube']} /></i></a>
                             <a href="#"><i><FontAwesomeIcon icon={['fab', 'behance']} /></i></a> */}

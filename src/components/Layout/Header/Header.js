@@ -21,7 +21,7 @@ const Header = () => {
 
 	return (
 		<React.Fragment>
-			<header className="header-transparent" id="header-wrap">
+			<header className="header" id="header-wrap">
 				<TopHeader />
 
 				<div id="sticky-header" className="main-menu-area">
@@ -75,27 +75,44 @@ const Header = () => {
 											</li>
 											<li className={path === "/" ? "active" : ""}>
 												<Link href="#" as="/" ><a>OUR PRODUCTS</a></Link>
-
+												<ul className="sub-menu text-left">
+													<li className={path === "/ShopHerencia" ? "active" : ""}>
+														<Link href="/ShopHerencia" as="/ShopHerencia">
+															<a>Spices</a>
+														</Link>
+													</li>
+													<li className={path === "/ShopBersys" ? "active" : ""}>
+														<Link href="/ShopBersys" as="/ShopBersys">
+															<a>Snack</a>
+														</Link>
+													</li>
+													<li className={path === "/ShopClaudio" ? "active" : ""}>
+														<Link href="/ShopClaudio" as="/ShopClaudio">
+															<a>Tea Herb</a>
+														</Link>
+													</li>
+												</ul>
 
 											</li>
 											<li className={path === "" ? "active" : ""}>
 												<Link href="" as="" ><a>OUR BRANDS</a></Link>
 												<ul className="sub-menu text-left">
-													<li className={path === "/ShopClaudio" ? "active" : ""}>
-														<Link href="/ShopClaudio" as="/ShopClaudio">
-															<a>Claudio’s Tea Herb</a>
-														</Link>
-													</li>
-													<li className={path === "/ShopBersys" ? "active" : ""}>
-														<Link href="/ShopBersys" as="/ShopBersys">
-															<a>Bersy’s Snack</a>
-														</Link>
-													</li>
-													<li className={path === "/ShopHerencia" ? "active" : ""}>
-														<Link href="/ShopHerencia" as="/ShopHerencia">
+													<li className={path === "#" ? "active" : ""}>
+														<Link href="#" as="#">
 															<a>La Herencia Spices</a>
 														</Link>
 													</li>
+													<li className={path === "#" ? "active" : ""}>
+														<Link href="#" as="#">
+															<a>Bersy’s Snack</a>
+														</Link>
+													</li>
+													<li className={path === "#" ? "active" : ""}>
+														<Link href="#" as="#">
+															<a>Claudio’s Tea Herb</a>
+														</Link>
+													</li>
+
 												</ul>
 											</li>
 											<li className={path === "/blog" ? "active" : ""}>

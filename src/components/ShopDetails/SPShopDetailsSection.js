@@ -13,7 +13,7 @@ class SPShopDetailsSection extends Component {
 								<div className="product-details-img mb-20">
 									<TabPanel>
 										<div className="product-large-img">
-											<img src={require('../../../public/assets/img/product/lg1.jpg')}
+											<img src={require('../../../public/assets/img/product/lg1.png')}
 											     alt="image"/>
 										</div>
 									</TabPanel>
@@ -30,7 +30,7 @@ class SPShopDetailsSection extends Component {
 										</div>
 									</TabPanel>
 								</div>
-								<TabList className="shop-thumb-tab mb-30">
+								{/* <TabList className="shop-thumb-tab mb-30">
 									<Tab>
 										<a className="nav-link">
 											<img src={require('../../../public/assets/img/product/lg1.jpg')}
@@ -49,7 +49,7 @@ class SPShopDetailsSection extends Component {
 											     alt="image"/>
 										</a>
 									</Tab>
-								</TabList>
+								</TabList> */}
 							</Tabs>
 						</div>
 						<div className="col-xl-6 col-lg-6">

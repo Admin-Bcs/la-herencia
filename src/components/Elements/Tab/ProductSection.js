@@ -5,6 +5,7 @@ import Link from "next/link";
 import ico1 from '../../../../public/assets/img/icon/teaherbs.svg'
 import ico2 from '../../../../public/assets/img/icon/snacks.svg'
 import ico3 from '../../../../public/assets/img/icon/spices.svg'
+/* TEXT */
 
 
 

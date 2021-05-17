@@ -65,7 +65,7 @@ export default class SPProductSectionBersys extends Component {
 							<div className="text-center mb-30">
 								<div className="product-img">
 									<Link href="/shop-details" as="/shop-details" >
-										<a><img src={require("../../../public/assets/img/product/product2.png")} alt="image" /></a>
+										<a><img src={require("../../../public/assets/img/product/chicharrontest.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
 										<a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
