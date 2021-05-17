@@ -31,7 +31,7 @@ export default class SPProductSectionHerencia extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/01.png")} alt="product" /></a>
 									</Link>
 
@@ -43,7 +43,7 @@ export default class SPProductSectionHerencia extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Flor de Jamaica</a>
 										</Link>
 									</h4>
@@ -64,7 +64,7 @@ export default class SPProductSectionHerencia extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/04.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
@@ -75,7 +75,7 @@ export default class SPProductSectionHerencia extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Hibiscus Flower</a>
 										</Link>
 									</h4>
@@ -96,7 +96,7 @@ export default class SPProductSectionHerencia extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/01.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
@@ -107,7 +107,7 @@ export default class SPProductSectionHerencia extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Guajillo Chili Pods</a>
 										</Link>
 									</h4>
@@ -128,7 +128,7 @@ export default class SPProductSectionHerencia extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/product4.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
@@ -139,7 +139,7 @@ export default class SPProductSectionHerencia extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Arbol Chili Pods</a>
 										</Link>
 									</h4>
@@ -161,7 +161,7 @@ export default class SPProductSectionHerencia extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/05.png")} alt="product" /></a>
 									</Link>
 
@@ -173,7 +173,7 @@ export default class SPProductSectionHerencia extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Ancho Chili Pods</a>
 										</Link>
 									</h4>
@@ -194,7 +194,7 @@ export default class SPProductSectionHerencia extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/06.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
@@ -205,7 +205,7 @@ export default class SPProductSectionHerencia extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Pasill Chili Pods</a>
 										</Link>
 									</h4>
@@ -226,7 +226,7 @@ export default class SPProductSectionHerencia extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/07.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
@@ -237,7 +237,7 @@ export default class SPProductSectionHerencia extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Puya Chili Pods</a>
 										</Link>
 									</h4>
@@ -258,7 +258,7 @@ export default class SPProductSectionHerencia extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/11.png")} alt="image" /></a>
 									</Link>
 									{/* <div className="product-action">
@@ -269,7 +269,7 @@ export default class SPProductSectionHerencia extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Mulato Chili Pods</a>
 										</Link>
 									</h4>
@@ -290,7 +290,7 @@ export default class SPProductSectionHerencia extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/08.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
@@ -301,7 +301,7 @@ export default class SPProductSectionHerencia extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Arbol Chili</a>
 										</Link>
 									</h4>
@@ -323,7 +323,7 @@ export default class SPProductSectionHerencia extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/01.png")} alt="product" /></a>
 									</Link>
 
@@ -335,7 +335,7 @@ export default class SPProductSectionHerencia extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Ancho Chili</a>
 										</Link>
 									</h4>
@@ -356,7 +356,7 @@ export default class SPProductSectionHerencia extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/10.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
@@ -367,7 +367,7 @@ export default class SPProductSectionHerencia extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Guajillo Chili Pods</a>
 										</Link>
 									</h4>
@@ -389,7 +389,7 @@ export default class SPProductSectionHerencia extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/12.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
@@ -400,7 +400,7 @@ export default class SPProductSectionHerencia extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Pequin Chili</a>
 										</Link>
 									</h4>

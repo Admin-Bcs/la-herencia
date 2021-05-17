@@ -6,6 +6,7 @@ import { useRouter } from 'next/router'
 export default function BurgerMenus({ setMenuOpen, menuOpen }) {
 
 	const [home, setHome] = useState(false)
+	const [brands, setBrands] = useState(false)
 	const [service, setService] = useState(false)
 	const [blog, setBlog] = useState(false)
 	const [pages, setPages] = useState(false)
@@ -23,24 +24,35 @@ export default function BurgerMenus({ setMenuOpen, menuOpen }) {
 			setService(false)
 			setBlog(false)
 			setPages(false)
+			setBrands(false)
+		}
+		else if (menu == 'brands') {
+			setHome(false)
+			setBrands(!service)
+			setService(false)
+			setBlog(false)
+			setPages(false)
 		}
 		else if (menu == 'service') {
 			setHome(false)
 			setService(!service)
 			setBlog(false)
 			setPages(false)
+			setBrands(false)
 		}
 		else if (menu == 'blog') {
 			setHome(false)
 			setService(false)
 			setBlog(!blog)
 			setPages(false)
+			setBrands(false)
 		}
 		else if (menu == 'pages') {
 			setHome(false)
 			setService(false)
 			setBlog(false)
 			setPages(!pages)
+			setBrands(false)
 		}
 	};
 
@@ -87,24 +99,26 @@ export default function BurgerMenus({ setMenuOpen, menuOpen }) {
 
 						</li>
 						<li className={path === "" ? "active" : ""}>
-							<Link href="" as="" ><a>OUR BRANDS</a></Link>
-							<ul className={home ? "sub-menu active" : "sub-menu"}>
-								<li className={path === "#" ? "active" : ""}>
-									<Link href="#" as="#">
-										<a>La Herencia Spices</a>
-									</Link>
-								</li>
-								<li className={path === "#" ? "active" : ""}>
-									<Link href="#" as="#">
-										<a>Bersy’s Snack</a>
-									</Link>
-								</li>
-								<li className={path === "#" ? "active" : ""}>
-									<Link href="#" as="#">
-										<a>Claudio’s Tea Herb</a>
-									</Link>
-								</li>
-							</ul>
+							<li className={brands ? "has-droupdown active" : "has-droupdown"}>
+								<a onClick={() => { toggleMenu('brands') }}>OUR BRANDS</a>
+								<ul className={brands ? "sub-menu active" : "sub-menu"}>
+									<li className={path === "#" ? "active" : ""}>
+										<Link href="#" as="#">
+											<a>La Herencia Spices</a>
+										</Link>
+									</li>
+									<li className={path === "#" ? "active" : ""}>
+										<Link href="#" as="#">
+											<a>Bersy’s Snack</a>
+										</Link>
+									</li>
+									<li className={path === "#" ? "active" : ""}>
+										<Link href="#" as="#">
+											<a>Claudio’s Tea Herb</a>
+										</Link>
+									</li>
+								</ul>
+							</li>
 						</li>
 						<li className={path === "/blog" ? "active" : ""}>
 							<Link href="/blog" as="/blog" ><a>CLIENT</a></Link>
