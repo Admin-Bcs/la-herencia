@@ -14,7 +14,7 @@ class H1AboutSection extends Component {
 						</div>
 						<div className="col-xl-6 col-lg-6 ">
 							<div className="about-us-text mb-30 text-slider">
-								<h1>Welcome To <br /> La Herencia</h1>
+								<h1>Welcome to <br /> La Herencia</h1>
 								<p>
 									La Herencia Spices has thrived on customer service and satisfaction,
 									developing their product according to its needs. Located in Union City, New Jersey,
