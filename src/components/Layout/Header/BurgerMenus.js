@@ -69,17 +69,17 @@ export default function BurgerMenus({ setMenuOpen, menuOpen }) {
 								<ul className={home ? "sub-menu active" : "sub-menu"}>
 									<li className={path === "/ShopHerencia" ? "active" : ""}>
 										<Link href="/ShopHerencia" as="/ShopHerencia">
-											<a>La Herencia</a>
+											<a>Spices</a>
 										</Link>
 									</li>
 									<li className={path === "/ShopBersys" ? "active" : ""}>
 										<Link href="/ShopBersys" as="/ShopBersys">
-											<a>Bersys Snack</a>
+											<a>Snack</a>
 										</Link>
 									</li>
 									<li className={path === "/ShopClaudio" ? "active" : ""}>
 										<Link href="/ShopClaudio" as="/ShopClaudio">
-											<a>Claudio Tea</a>
+											<a>Tea Herbs</a>
 										</Link>
 									</li>
 								</ul>
@@ -88,6 +88,23 @@ export default function BurgerMenus({ setMenuOpen, menuOpen }) {
 						</li>
 						<li className={path === "" ? "active" : ""}>
 							<Link href="" as="" ><a>OUR BRANDS</a></Link>
+							<ul className={home ? "sub-menu active" : "sub-menu"}>
+								<li className={path === "#" ? "active" : ""}>
+									<Link href="#" as="#">
+										<a>La Herencia Spices</a>
+									</Link>
+								</li>
+								<li className={path === "#" ? "active" : ""}>
+									<Link href="#" as="#">
+										<a>Bersy’s Snack</a>
+									</Link>
+								</li>
+								<li className={path === "#" ? "active" : ""}>
+									<Link href="#" as="#">
+										<a>Claudio’s Tea Herb</a>
+									</Link>
+								</li>
+							</ul>
 						</li>
 						<li className={path === "/blog" ? "active" : ""}>
 							<Link href="/blog" as="/blog" ><a>CLIENT</a></Link>

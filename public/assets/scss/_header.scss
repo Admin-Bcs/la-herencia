@@ -80,17 +80,35 @@
 }
 .header-text span:last-child{margin-right:0;}
 .header-text span i {
+	color:#7c3c21;
+	font-size: 16px;
+	height: 36px;
+	width: 36px;
+	display: inline-block;	
+	line-height: 36px;
+	text-align: center;
+	border-radius: 50%;
+	transition: .3s;
 	margin-right: 5px;
+	background:#ffef13;
 }
-.header-icon{
+.header-icon a:hover{
+	background:#ffef13;
 }
 .header-icon a {
-	color: #575f65;
-	font-size: 13px;
-	margin-right: 15px;
+	color: #7c3c21;
+	font-size: 20px;
+	height: 36px;
+	width: 36px;
+	display: inline-block;
+	background: #2b7443;
+	border-radius: 50%;
+	line-height: 36px;
+	text-align: center;
 	transition: .3s;
+	margin-right: 5px;
 }
-.header-icon a:hover{color:#408858;}
+.header-icon a:hover{color: #7c3c21;}
 .header-icon a:last-child{margin-right:0;}
 .cart-search {
   margin-right: 30px;
