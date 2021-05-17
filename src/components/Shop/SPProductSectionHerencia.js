@@ -7,7 +7,7 @@ export default class SPProductSectionHerencia extends Component {
 		return (
 			<div className="product-area pos-relative pt-110 pb-120 fix">
 				<div className="container">
-					<div className="row">
+					{/* <div className="row">
 						<div className="col-xl-6 col-lg-5 col-md-6 col-sm-7">
 							<div className="product-showing">
 								<p>Showing 1–22 of 32 results</p>
@@ -25,7 +25,7 @@ export default class SPProductSectionHerencia extends Component {
 								</form>
 							</div>
 						</div>
-					</div>
+					</div> */}
 					<div className="row">
 						<div className="col-xl-3 col-lg-3 col-md-6">
 							{/* <div className="product-wrapper text-center mb-30"> */}
