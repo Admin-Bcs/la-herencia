@@ -19,7 +19,7 @@ export default function Sidebar({ sidebarOpen, setSidebarOpen }) {
                 <div className="contact-list mb-30">
                     <h4>Address</h4>
                     <p>
-                        422 11th St.
+                        422 11th Street <br />
                         Union City, NJ 07087
                     </p>
                 </div>
