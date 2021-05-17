@@ -18,7 +18,7 @@
 }
 .footer-icon a {
 	color: #fff;
-	font-size: 22px;
+	font-size: 18px;
 	height: 36px;
 	width: 36px;
 	display: inline-block;
@@ -29,7 +29,17 @@
 	transition: .3s;
 	margin-right: 5px;
 }
-.footer-icon a:hover{background:#fab522;}
+.footer-icon a:hover{
+	color: #7c3c21;
+	background:#ffef13;
+ }
+.footer-icon li{
+	color: #fff;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 28px;
+	margin-bottom: 12px;
+}
 .footer-title {
 	margin-bottom: 25px;
 }

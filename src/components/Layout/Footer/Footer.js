@@ -17,14 +17,24 @@ const Footer = () => {
 											className="retina-logo" src={require("../../../../public/assets/img/logo/laherencia/laherencia.png")} alt="" /></a>
 									</div>
 									<div className="footer-text">
-										
+
 									</div>
-									<div className="footer-icon">
-										<a href="#"><i><FontAwesomeIcon icon={['fab', 'facebook-f']} /></i></a>
-										<a href="https://www.instagram.com/laherenciaspices"><i><FontAwesomeIcon icon={['fab', 'instagram']} /></i></a>
-									{/* 	<a href="#"><i><FontAwesomeIcon icon={['fab', 'linkedin']} /></i></a> */}
-										<a href="https://www.pinterest.com/Laherenciaspices/"><i><FontAwesomeIcon icon={['fab', 'pinterest']} /></i></a>
-									{/* 	<a href="#"><i><FontAwesomeIcon icon={['fab', 'behance']} /></i></a> */}
+									<div className="footer-icon color-ico">
+										<li>
+											<a href="#"><i><FontAwesomeIcon icon={['fab', 'facebook-f']} /></i></a>
+											<span> / </span>
+										</li>
+										<li>
+											<a href="https://www.instagram.com/laherenciaspices"><i><FontAwesomeIcon icon={['fab', 'instagram']} /></i></a>
+											{/* 	<a href="#"><i><FontAwesomeIcon icon={['fab', 'linkedin']} /></i></a> */}
+											<span> /laherenciaspices </span>
+										</li>
+										<li>
+											<a href="https://www.pinterest.com/Laherenciaspices/"><i><FontAwesomeIcon icon={['fab', 'pinterest']} /></i></a>
+											{/* 	<a href="#"><i><FontAwesomeIcon icon={['fab', 'behance']} /></i></a> */}
+											<span> /Laherenciaspices </span>
+										</li>
+
 									</div>
 								</div>
 							</div>
@@ -38,7 +48,7 @@ const Footer = () => {
 										<li>
 											<i><FontAwesomeIcon icon={['far', 'paper-plane']} /></i>
 											<span>
-												422 11th St.
+												422 11th Street
 												Union City, NJ 07087
 </span>
 										</li>
@@ -56,11 +66,11 @@ const Footer = () => {
 							<div className="col-xl-4 col-lg-4 col-md-6">
 								<div className="footer-wrapper pl-40 mb-30">
 									<div className="footer-title">
-										<h4> Newsletter </h4>
+										<h4> JOIN US </h4>
 										<img src={require("../../../../public/assets/img/shape/f.png")} alt="shape" />
 									</div>
 									<div className="footer-content">
-										<p>Enter your email and we’ll send you latest information plans.</p>
+										<p>We would love for you to be part of our mailing list to keep you up to date with our products.</p>
 									</div>
 									<CustomSubscribeForm />
 								</div>
