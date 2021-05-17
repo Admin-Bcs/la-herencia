@@ -27,7 +27,7 @@ class CPContactInfoSection extends Component {
 						<div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="contact-address-wrapper mb-30">
 								<div className="contact-address-title">
-									<h2>New Jersey</h2>
+									<h2>NEW JERSEY</h2>
 									<div className="contact-address-img">
 										<img src={require('../../../public/assets/img/shape/c.png')} alt="image"/>
 									</div>
@@ -42,7 +42,7 @@ class CPContactInfoSection extends Component {
 						<div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="contact-address-wrapper mb-30">
 								<div className="contact-address-title">
-									<h2>Social Media</h2>
+									<h2>SOCIAL MEDIA</h2>
 									<div className="contact-address-img">
 										<img src={require('../../../public/assets/img/shape/c.png')} alt="image"/>
 									</div>
