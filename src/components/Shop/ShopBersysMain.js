@@ -440,7 +440,10 @@ class ShopBersysMain extends Component {
                                                 <a> 02</a>
                                             </Link>
                                         </li>
-
+                                        <li><Link href="/ShopBersys2" as="/ShopBersys2">
+                                            <a><i className="fas fa-angle-double-right"></i></a>
+                                        </Link>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
