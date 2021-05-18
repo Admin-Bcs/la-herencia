@@ -4,14 +4,11 @@ import Link from "next/link";
 
 import Brand from "../Common/Brand";
 
-
-class ShopClaudioMain extends Component {
-
+class ShopClaudioMain3 extends Component {
     render() {
         return (
             <main>
-
-                <div id="home1" className="product-area pos-relative pt-110 pb-120 fix">
+                <div className="product-area pos-relative pt-110 pb-120 fix">
                     <div className="container">
                         {/* <div className="row">
 						<div className="col-xl-6 col-lg-5 col-md-6 col-sm-7">
@@ -50,7 +47,7 @@ class ShopClaudioMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Cal Mexicana</a>
+                                                <a>PERO TU YA TIENES OTRO UN TIPO FRIO Y ABURRIDO</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -423,6 +420,8 @@ class ShopClaudioMain extends Component {
                                 </div>
                             </div>
                         </div>
+
+
                     </div>
                 </div>
                 <div className="row">
@@ -452,11 +451,14 @@ class ShopClaudioMain extends Component {
                         </div>
                     </div>
                 </div>
+                {/* brand-start */}
                 <Brand />
+                {/* brand-end */}
 
             </main>
         );
     }
 }
 
-export default ShopClaudioMain;
+
+export default ShopClaudioMain3;
