@@ -70,7 +70,7 @@ export default class SPProductSectionBersys extends Component {
 							<div className="text-center mb-30">
 								<div className="product-img">
 									<Link href="#" as="#" >
-										<a><img src={require("../../../public/assets/img/product/chicharrontest.png")} alt="image" /></a>
+										<a><img src={require("../../../public/assets/img/product/chicharron_dHarina.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
 										<a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -200,7 +200,7 @@ export default class SPProductSectionBersys extends Component {
 							<div className="text-center mb-30">
 								<div className="product-img">
 									<Link href="#" as="#" >
-										<a><img src={require("../../../public/assets/img/product/06.png")} alt="image" /></a>
+										<a><img src={require("../../../public/assets/img/product/bombones.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
 										<a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -232,7 +232,7 @@ export default class SPProductSectionBersys extends Component {
 							<div className="text-center mb-30">
 								<div className="product-img">
 									<Link href="#" as="#" >
-										<a><img src={require("../../../public/assets/img/product/04.png")} alt="image" /></a>
+										<a><img src={require("../../../public/assets/img/product/botana-mix.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
 										<a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -330,7 +330,7 @@ export default class SPProductSectionBersys extends Component {
 							<div className="text-center mb-30">
 								<div className="product-img">
 									<Link href="#" as="#" >
-										<a><img src={require("../../../public/assets/img/product/12.png")} alt="image" /></a>
+										<a><img src={require("../../../public/assets/img/product/pistachos.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
 										<a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -362,7 +362,7 @@ export default class SPProductSectionBersys extends Component {
 							<div className="text-center mb-30">
 								<div className="product-img">
 									<Link href="#" as="#" >
-										<a><img src={require("../../../public/assets/img/product/10.png")} alt="image" /></a>
+										<a><img src={require("../../../public/assets/img/product/roasted-peannuts.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
 										<a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -394,7 +394,7 @@ export default class SPProductSectionBersys extends Component {
 							<div className="text-center mb-30">
 								<div className="product-img">
 									<Link href="#" as="#" >
-										<a><img src={require("../../../public/assets/img/product/12.png")} alt="image" /></a>
+										<a><img src={require("../../../public/assets/img/product/cacahuateconchile.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
 										<a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
