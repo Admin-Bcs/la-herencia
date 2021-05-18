@@ -18,7 +18,7 @@ export default class SPAboutSection extends Component {
                             <div className="zomata-wrapper mb-30">
                                 <div className="zomata-text">
                                     <h1>
-                                        Zomata Organic <br /> Going Green
+                                        La Herencia <br /> Spices
                                     </h1>
                                     <p>
                                         Lorem ipsum dolor sit amet, consectetur

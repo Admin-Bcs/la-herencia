@@ -4,7 +4,7 @@ import Footer from "../components/Layout/Footer/Footer";
 import SiteBreadcrumb from "../components/Common/Breadcumb";
 import ServiceOneMain from "../components/ServiceOne/ServiceOneMain";
 
-class Client extends Component {
+class Brand extends Component {
     render() {
         return (
             <React.Fragment>
@@ -17,4 +17,4 @@ class Client extends Component {
     }
 }
 
-export default Client;
+export default Brand;
