@@ -1,20 +1,23 @@
 import React, { Component } from "react";
-import Header from "../components/Layout/Header/Header"
+
 import Footer from "../components/Layout/Footer/Footer";
 import SiteBreadcrumb from "../components/Common/Breadcumb";
-import ServiceOneMain from "../components/ServiceOne/ServiceOneMain";
+import ShopClauidioMain from "../components/Shop/ShopClauidioMain2";
 
-class Brand extends Component {
+import Header from "../components/Layout/Header/Header";
+
+class ShopClaudio extends Component {
     render() {
         return (
             <React.Fragment>
                 <Header />
-                <SiteBreadcrumb pageTitle="Brand Page"/>
-                <ServiceOneMain />
+                <SiteBreadcrumb pageTitle="Products" />
+                <ShopClauidioMain />
+
                 <Footer />
             </React.Fragment>
         );
     }
 }
 
-export default Brand;
+export default ShopClaudio;
