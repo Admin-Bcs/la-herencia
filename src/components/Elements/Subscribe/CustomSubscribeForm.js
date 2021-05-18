@@ -19,7 +19,7 @@ const CustomForm = ({status, message, onValidated}) => {
 			{status === "error" && (<div style={{color: "red"}} dangerouslySetInnerHTML={{__html: message}}/>)}
 			{status === "success" && (<div style={{color: "green"}} dangerouslySetInnerHTML={{__html: message}}/>)}
 			<input ref={node => (email = node)} type="email" placeholder="Enter your emaill"/>
-			<button className="btn" onClick={submit}>Subscribe</button>
+			<button className="btn" onClick={submit}>SUBMIT</button>
 		</div>
 	);
 };

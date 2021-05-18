@@ -238,6 +238,55 @@ const SliderDefault = () => {
                         </div>
                     </div>
                 </div>
+                <div className="single-slider">
+                    <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/slider_6.png'})` }}>
+                        <div className="container box-title">
+                            <div className="row">
+                                <div className="col-xl-12">
+                                    <div className="slider-content mt-85 title-slider">
+                                        <h2 data-animation="fadeInUp" data-delay=".6s">
+                                        GARLIC POWDER
+                                        </h2>
+                                        <p className="text-slider" data-animation="fadeInUp" data-delay=".8s">
+                                        This seasoning is made from dried garlic that is ground to a granular consistency. Granulated garlic makes it a cinch to add generous garlic seasoning to meats, vegetables and homemade breads and rolls.
+</p>
+                                        <div className="slider-button ">
+                                            <Link href="/ShopHerencia" as="/ShopHerencia" >
+                                                <a data-animation="fadeInLeft" data-delay=".8s" className="btn">
+                                                    La Herencia Spices
+                                                </a>
+                                            </Link>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="single-slider">
+                    <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/slider_7.png'})` }}>
+                        <div className="container box-title">
+                            <div className="row">
+                                <div className="col-xl-12">
+                                    <div className="slider-content mt-85 title-slider">
+                                        <h2 data-animation="fadeInUp" data-delay=".6s">
+                                        GROUND GINGER
+                                        </h2>
+                                        <p className="text-slider" data-animation="fadeInUp" data-delay=".8s">
+                                        Ground Ginger root provides a powerful punch of pure flavor in its finest form, which is ideal for seasoning sides, baking cookies, and spicing up your favorite dressings and sauces. This refined herb offers that exclusive, biting taste that is essential to innumerable dishes.</p>
+                                        <div className="slider-button ">
+                                            <Link href="/ShopHerencia" as="/ShopHerencia" >
+                                                <a data-animation="fadeInLeft" data-delay=".8s" className="btn">
+                                                    La Herencia Spices
+                                                </a>
+                                            </Link>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </Slider>
         </div>
     );
