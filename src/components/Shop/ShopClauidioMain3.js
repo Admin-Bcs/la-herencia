@@ -325,32 +325,35 @@ class ShopClaudioMain3 extends Component {
                             </div>
                         </div>
                     </div>
-                </div>
-                <div className="row">
-                    <div className="col-12">
-                        <div className="basic-pagination basic-pagination-2 text-center mt-20">
+                    <div className="row">
+                        <div className="col-12">
+                            <div className="basic-pagination basic-pagination-2 text-center mt-20">
 
-                            <ul>
-
-                                <li >
-                                    <Link href="/ShopClaudio" as="/ShopClaudio">
-                                        <a> 01</a>
-                                    </Link>
-                                </li>
-                                <li >
-                                    <Link href="/ShopClaudio2" as="/ShopClaudio2">
-                                        <a> 02</a>
-                                    </Link>
-                                </li>
-                                <li >
-                                    <Link href="/ShopClaudio3" as="/ShopClaudio3">
-                                        <a> 03</a>
-                                    </Link>
-                                </li>
-                            </ul>
+                                <ul>
+                                    <li><Link href="/ShopClaudio2" as="/ShopClaudio2">
+                                        <a ><i className="fas fa-angle-double-left"></i></a>
+                                    </Link></li>
+                                    <li >
+                                        <Link href="/ShopClaudio" as="/ShopClaudio">
+                                            <a> 01</a>
+                                        </Link>
+                                    </li>
+                                    <li >
+                                        <Link href="/ShopClaudio2" as="/ShopClaudio2">
+                                            <a> 02</a>
+                                        </Link>
+                                    </li>
+                                    <li >
+                                        <Link href="/ShopClaudio3" as="/ShopClaudio3">
+                                            <a> 03</a>
+                                        </Link>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
                 </div>
+
                 {/* brand-start */}
                 <Brand />
                 {/* brand-end */}

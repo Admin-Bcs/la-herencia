@@ -1,20 +1,21 @@
 import React, { Component } from "react";
-import Header from "../components/Layout/Header/Header"
+
 import Footer from "../components/Layout/Footer/Footer";
 import SiteBreadcrumb from "../components/Common/Breadcumb";
-import ServiceOneMain from "../components/ServiceOne/ServiceOneMain";
+import ShopHerenciaMain from "../components/Shop/ShopHerenciaMain3";
+import Header from "../components/Layout/Header/Header";
 
-class Brand extends Component {
+class ShopHerencia extends Component {
     render() {
         return (
             <React.Fragment>
                 <Header />
-                <SiteBreadcrumb pageTitle="Brand Page Example"/>
-                <ServiceOneMain />
+                <SiteBreadcrumb pageTitle="Products" />
+                <ShopHerenciaMain />
                 <Footer />
             </React.Fragment>
         );
     }
 }
 
-export default Brand;
+export default ShopHerencia;

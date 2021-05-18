@@ -45,7 +45,7 @@ class ShopHerenciaMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Flor de Jamaica</a>
+                                                <a>Whole Cumin / Comino Entero</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -56,7 +56,7 @@ class ShopHerenciaMain extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-59423006478</span>
+                                            <span>8-59423006256</span>
                                         </div>
                                     </div>
                                 </div>
@@ -77,7 +77,7 @@ class ShopHerenciaMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Hibiscus Flower</a>
+                                                <a>Ground Cumin / Comino Molido</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -88,7 +88,7 @@ class ShopHerenciaMain extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-53135006900</span>
+                                            <span>8-59423006263</span>
                                         </div>
                                     </div>
                                 </div>
@@ -109,7 +109,7 @@ class ShopHerenciaMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Guajillo Chili Pods</a>
+                                                <a>Whole Oregano Mexicano</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -120,7 +120,7 @@ class ShopHerenciaMain extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-53135006443</span>
+                                            <span>8-59423006287</span>
                                         </div>
                                     </div>
                                 </div>
@@ -141,7 +141,7 @@ class ShopHerenciaMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Arbol Chili Pods</a>
+                                                <a>Molido</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -152,7 +152,7 @@ class ShopHerenciaMain extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-53135006450</span>
+                                            <span>8-59423006294</span>
                                         </div>
                                     </div>
                                 </div>
@@ -175,7 +175,7 @@ class ShopHerenciaMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Ancho Chili Pods</a>
+                                                <a>Dulce</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -186,7 +186,7 @@ class ShopHerenciaMain extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-53135006467</span>
+                                            <span>8-59423006300</span>
                                         </div>
                                     </div>
                                 </div>
@@ -207,7 +207,7 @@ class ShopHerenciaMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Pasill Chili Pods</a>
+                                                <a>Start Anise / Anis Estrellado</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -218,7 +218,7 @@ class ShopHerenciaMain extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-53135006474</span>
+                                            <span>8-59423006317</span>
                                         </div>
                                     </div>
                                 </div>
@@ -239,7 +239,7 @@ class ShopHerenciaMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Puya Chili Pods</a>
+                                                <a>Anise Seeds / Semilla de Anis</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -250,7 +250,7 @@ class ShopHerenciaMain extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-53135006481</span>
+                                            <span>8-59423006324</span>
                                         </div>
                                     </div>
                                 </div>
@@ -271,7 +271,7 @@ class ShopHerenciaMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Mulato Chili Pods</a>
+                                                <a>Carbonato / Bakin Soda</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -282,7 +282,7 @@ class ShopHerenciaMain extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-53135006498</span>
+                                            <span>8-59423006461</span>
                                         </div>
                                     </div>
                                 </div>
@@ -303,7 +303,7 @@ class ShopHerenciaMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Arbol Chili</a>
+                                                <a>Wholr Clove</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -314,7 +314,7 @@ class ShopHerenciaMain extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-53135006511</span>
+                                            <span>8-59423006485</span>
                                         </div>
                                     </div>
                                 </div>
@@ -337,7 +337,7 @@ class ShopHerenciaMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Ancho Chili</a>
+                                                <a>Whole Nutmeg</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -348,7 +348,7 @@ class ShopHerenciaMain extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-53135006528</span>
+                                            <span>8-59423006492</span>
                                         </div>
                                     </div>
                                 </div>
@@ -369,7 +369,7 @@ class ShopHerenciaMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Guajillo Chili Pods</a>
+                                                <a>Whole Black Pepper</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -380,7 +380,7 @@ class ShopHerenciaMain extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-53135006535</span>
+                                            <span>8-59423006560</span>
                                         </div>
                                     </div>
                                 </div>
@@ -402,7 +402,7 @@ class ShopHerenciaMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Pequin Chili</a>
+                                                <a>Ground Black Pepper</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -413,7 +413,7 @@ class ShopHerenciaMain extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-53135006542</span>
+                                            <span>8-59423006577</span>
                                         </div>
                                     </div>
                                 </div>
