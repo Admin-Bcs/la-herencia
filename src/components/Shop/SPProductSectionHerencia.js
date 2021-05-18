@@ -32,7 +32,7 @@ export default class SPProductSectionHerencia extends Component {
 							<div className="text-center mb-30">
 								<div className="product-img">
 									<Link href="#" as="#" >
-										<a><img src={require("../../../public/assets/img/product/01.png")} alt="product" /></a>
+										<a><img src={require("../../../public/assets/img/product/rosa-jamaica.png")} alt="product" /></a>
 									</Link>
 
 									<div className="product-action">
@@ -129,7 +129,7 @@ export default class SPProductSectionHerencia extends Component {
 							<div className="text-center mb-30">
 								<div className="product-img">
 									<Link href="#" as="#" >
-										<a><img src={require("../../../public/assets/img/product/product4.png")} alt="image" /></a>
+										<a><img src={require("../../../public/assets/img/product/chile-de-arbol.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
 										<a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>

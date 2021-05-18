@@ -89,7 +89,7 @@ const SliderDefault = () => {
                             </div>
                         </div>
                     </div>
-                </div> */}
+                </div> 
                 <div className="single-slider cont-h2">
                     <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/slide_2.png'})` }}>
                         <div className="container box-title">
