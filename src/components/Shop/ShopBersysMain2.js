@@ -50,7 +50,7 @@ class ShopBersysMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Chicharron de Harina Picante </a>
+                                                <a>Tarugos Enchilados</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -61,7 +61,7 @@ class ShopBersysMain extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-53135006917</span>
+                                            <span>8-51101006107</span>
                                         </div>
                                     </div>
                                 </div>
@@ -82,7 +82,7 @@ class ShopBersysMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>QUE ES UN REPRIMIDO, NO TE VA</a>
+                                                <a>Gummies</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -93,7 +93,7 @@ class ShopBersysMain extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-53135006924</span>
+                                            <span>8-51101006121</span>
                                         </div>
                                     </div>
                                 </div>
@@ -114,7 +114,7 @@ class ShopBersysMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Cacahuates con Chile & Ajo</a>
+                                                <a>Havas con Sal</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -125,7 +125,7 @@ class ShopBersysMain extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-51101006008</span>
+                                            <span>8-51101006138</span>
                                         </div>
                                     </div>
                                 </div>
@@ -146,7 +146,7 @@ class ShopBersysMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Garbanzos Enchilados</a>
+                                                <a>Havas Enchiladas</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -157,7 +157,7 @@ class ShopBersysMain extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-51101006015</span>
+                                            <span>8-51101006145</span>
                                         </div>
                                     </div>
                                 </div>
@@ -180,7 +180,7 @@ class ShopBersysMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Chickpeas Salty</a>
+                                                <a>Mango Enchamoyado</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -191,7 +191,7 @@ class ShopBersysMain extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-51101006022</span>
+                                            <span>8-51101006152</span>
                                         </div>
                                     </div>
                                 </div>
@@ -212,7 +212,7 @@ class ShopBersysMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Bombones</a>
+                                                <a>Crispy Pumkin Seed</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -223,7 +223,7 @@ class ShopBersysMain extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-51101006039</span>
+                                            <span>8-51101006825</span>
                                         </div>
                                     </div>
                                 </div>
@@ -244,7 +244,7 @@ class ShopBersysMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Botana Mix</a>
+                                                <a>Crispy Pumkin Seed W/Chili</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -255,7 +255,7 @@ class ShopBersysMain extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-51101006046</span>
+                                            <span>8-51101006832</span>
                                         </div>
                                     </div>
                                 </div>
@@ -276,7 +276,7 @@ class ShopBersysMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Churritos Mexicanos</a>
+                                                <a>Almonds / Almendras</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -287,7 +287,7 @@ class ShopBersysMain extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-51101006053</span>
+                                            <span>8-51101006522</span>
                                         </div>
                                     </div>
                                 </div>
@@ -310,7 +310,7 @@ class ShopBersysMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Churritos Mexicanos</a>
+                                                <a>Prunes / Ciruelas</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -321,7 +321,7 @@ class ShopBersysMain extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-51101006060</span>
+                                            <span>8-51101006539</span>
                                         </div>
                                     </div>
                                 </div>
@@ -342,7 +342,7 @@ class ShopBersysMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Natural Pistachos</a>
+                                                <a>Pecans / Nueces</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -353,7 +353,7 @@ class ShopBersysMain extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-51101006077</span>
+                                            <span>8-51101006546</span>
                                         </div>
                                     </div>
                                 </div>
@@ -374,7 +374,7 @@ class ShopBersysMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Roasted Peanuts</a>
+                                                <a>Raisins / Pasas</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -385,39 +385,7 @@ class ShopBersysMain extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-51101006084</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="col-xl-3 col-lg-3 col-md-6">
-                                {/* <div className="product-wrapper text-center mb-30"> */}
-                                <div className="text-center mb-30">
-                                    <div className="product-img">
-                                        <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/Cacahuateconchile.png")} alt="image" /></a>
-                                        </Link>
-                                        <div className="product-action">
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'heart']} /></i></a>
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'search']} /></i></a>
-                                        </div>
-                                    </div>
-                                    <div className="product-text">
-                                        <h4>
-                                            <Link href="#" as="#" >
-                                                <a>Cacahuates con Chile</a>
-                                            </Link>
-                                        </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
-                                        <div className="pro-price">
-                                            <span>8-51101006091</span>
+                                            <span>8-51101006553</span>
                                         </div>
                                     </div>
                                 </div>
@@ -430,7 +398,7 @@ class ShopBersysMain extends Component {
                             <div className="col-12">
                                 <div className="basic-pagination basic-pagination-2 text-center mt-20">
                                     <ul>
-                                        
+
                                         <li >
                                             <Link href="/ShopBersys" as="/ShopBersys">
                                                 <a> 01</a>
@@ -441,7 +409,7 @@ class ShopBersysMain extends Component {
                                                 <a> 02</a>
                                             </Link>
                                         </li>
-                                    
+
                                     </ul>
                                 </div>
                             </div>

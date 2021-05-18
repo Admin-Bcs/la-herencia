@@ -47,7 +47,7 @@ class ShopClaudioMain3 extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>PERO TU YA TIENES OTRO UN TIPO FRIO Y ABURRIDO</a>
+                                                <a>Gordolobo</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -58,7 +58,7 @@ class ShopClaudioMain3 extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-59423006478</span>
+                                            <span>8-59423006386</span>
                                         </div>
                                     </div>
                                 </div>
@@ -79,7 +79,7 @@ class ShopClaudioMain3 extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Cancerina</a>
+                                                <a>Tea para el Stress</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -90,7 +90,7 @@ class ShopClaudioMain3 extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-59423006102</span>
+                                            <span>8-59423006393</span>
                                         </div>
                                     </div>
                                 </div>
@@ -111,7 +111,7 @@ class ShopClaudioMain3 extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Cola de Caballo</a>
+                                                <a>Hoja de Tilo</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -122,7 +122,7 @@ class ShopClaudioMain3 extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-59423006195</span>
+                                            <span>8-59423006409</span>
                                         </div>
                                     </div>
                                 </div>
@@ -143,7 +143,7 @@ class ShopClaudioMain3 extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Deabetis</a>
+                                                <a>Boldo Tea</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -154,7 +154,7 @@ class ShopClaudioMain3 extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-59423006188</span>
+                                            <span>8-59423006416</span>
                                         </div>
                                     </div>
                                 </div>
@@ -177,7 +177,7 @@ class ShopClaudioMain3 extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Hierba Maestra</a>
+                                                <a>Seven Blosoms / Azahares</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -188,7 +188,7 @@ class ShopClaudioMain3 extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-59423006171</span>
+                                            <span>8-59423006423</span>
                                         </div>
                                     </div>
                                 </div>
@@ -209,7 +209,7 @@ class ShopClaudioMain3 extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Hoja de Guayabo</a>
+                                                <a>Tomillo</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -220,7 +220,7 @@ class ShopClaudioMain3 extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-59423006164</span>
+                                            <span>8-594230</span>
                                         </div>
                                     </div>
                                 </div>
@@ -241,7 +241,7 @@ class ShopClaudioMain3 extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Hoja de Mango</a>
+                                                <a>Te de Indio</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -252,7 +252,7 @@ class ShopClaudioMain3 extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-59423006157</span>
+                                            <span>8-59423006447</span>
                                         </div>
                                     </div>
                                 </div>
@@ -273,7 +273,7 @@ class ShopClaudioMain3 extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Hoja de Naranjo</a>
+                                                <a>Te de Arnica</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -284,7 +284,7 @@ class ShopClaudioMain3 extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-59423006140</span>
+                                            <span>8-59423006454</span>
                                         </div>
                                     </div>
                                 </div>
@@ -307,7 +307,7 @@ class ShopClaudioMain3 extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Ortiga</a>
+                                                <a>Spearmint / Hierbabuena</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -318,110 +318,12 @@ class ShopClaudioMain3 extends Component {
                                             <i><FontAwesomeIcon icon={['far', 'star']} /></i>
                                         </div>
                                         <div className="pro-price">
-                                            <span>8-59423006089</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="col-xl-3 col-lg-3 col-md-6">
-                                {/* <div className="product-wrapper text-center mb-30"> */}
-                                <div className="text-center mb-30">
-                                    <div className="product-img">
-                                        <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/rinonina-2.png")} alt="image" /></a>
-                                        </Link>
-                                        <div className="product-action">
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'heart']} /></i></a>
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'search']} /></i></a>
-                                        </div>
-                                    </div>
-                                    <div className="product-text">
-                                        <h4>
-                                            <Link href="#" as="#" >
-                                                <a>Rinonina</a>
-                                            </Link>
-                                        </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
-                                        <div className="pro-price">
-                                            <span>8-59423006065</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="col-xl-3 col-lg-3 col-md-6">
-                                {/* <div className="product-wrapper text-center mb-30"> */}
-                                <div className="text-center mb-30">
-                                    <div className="product-img">
-                                        <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/Sage.png")} alt="image" /></a>
-                                        </Link>
-                                        <div className="product-action">
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'heart']} /></i></a>
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'search']} /></i></a>
-                                        </div>
-                                    </div>
-                                    <div className="product-text">
-                                        <h4>
-                                            <Link href="#" as="#" >
-                                                <a>Salvia / Sage</a>
-                                            </Link>
-                                        </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
-                                        <div className="pro-price">
-                                            <span>8-59423006072</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="col-xl-3 col-lg-3 col-md-6">
-                                {/* <div className="product-wrapper text-center mb-30"> */}
-                                <div className="text-center mb-30">
-                                    <div className="product-img">
-                                        <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/12.png")} alt="image" /></a>
-                                        </Link>
-                                        <div className="product-action">
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'heart']} /></i></a>
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'search']} /></i></a>
-                                        </div>
-                                    </div>
-                                    <div className="product-text">
-                                        <h4>
-                                            <Link href="#" as="#" >
-                                                <a>Tea Para la Tos</a>
-                                            </Link>
-                                        </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
-                                        <div className="pro-price">
-                                            <span>8-59423006126</span>
+                                            <span>8-59423006096</span>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-
-
                     </div>
                 </div>
                 <div className="row">
@@ -429,7 +331,7 @@ class ShopClaudioMain3 extends Component {
                         <div className="basic-pagination basic-pagination-2 text-center mt-20">
 
                             <ul>
-                                
+
                                 <li >
                                     <Link href="/ShopClaudio" as="/ShopClaudio">
                                         <a> 01</a>
