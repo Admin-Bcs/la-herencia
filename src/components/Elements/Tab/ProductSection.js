@@ -94,9 +94,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$49.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
@@ -125,9 +125,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$29.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
@@ -135,7 +135,7 @@ class ProductSection extends Component {
 										<div className="product-wrapper text-center mb-30">
 											<div className="product-img">
 												<Link href="/shop-details" as="/shop-details" >
-													<a><img src={require("../../../../public/assets/img/product/hoja de tilo.png")} alt="image" /></a>
+													<a><img src={require("../../../../public/assets/img/product/tilo.png")} alt="image" /></a>
 												</Link>
 												<div className="product-action">
 													<a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -156,9 +156,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$25.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
@@ -166,7 +166,7 @@ class ProductSection extends Component {
 										<div className="product-wrapper text-center mb-30">
 											<div className="product-img">
 												<Link href="/shop-details" as="/shop-details" >
-													<a><img src={require("../../../../public/assets/img/product/stress tea.png")} alt="image" /></a>
+													<a><img src={require("../../../../public/assets/img/product/teestres.png")} alt="image" /></a>
 												</Link>
 												<div className="product-action">
 													<a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -187,9 +187,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$49.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
@@ -201,7 +201,7 @@ class ProductSection extends Component {
 										<div className="product-wrapper text-center mb-30">
 											<div className="product-img">
 												<Link href="/shop-details" as="/shop-details" >
-													<a><img src={require("../../../../public/assets/img/product/bersys 2.png")} alt="image" /></a>
+													<a><img src={require("../../../../public/assets/img/product/saltyfava1.png")} alt="image" /></a>
 												</Link>
 												<div className="product-action">
 													<a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -222,9 +222,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$49.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
@@ -232,7 +232,7 @@ class ProductSection extends Component {
 										<div className="product-wrapper text-center mb-30">
 											<div className="product-img">
 												<Link href="/shop-details" as="/shop-details" >
-													<a><img src={require("../../../../public/assets/img/product/bersys 3.png")} alt="product" /></a>
+													<a><img src={require("../../../../public/assets/img/product/saltyfava.png")} alt="product" /></a>
 												</Link>
 
 												<div className="product-action">
@@ -254,9 +254,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$49.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
@@ -264,7 +264,7 @@ class ProductSection extends Component {
 										<div className="product-wrapper text-center mb-30">
 											<div className="product-img">
 												<Link href="/shop-details" as="/shop-details" >
-													<a><img src={require("../../../../public/assets/img/product/bersys 4.png")} alt="image" /></a>
+													<a><img src={require("../../../../public/assets/img/product/crisppumpkin.png")} alt="image" /></a>
 												</Link>
 												<div className="product-action">
 													<a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -285,9 +285,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$29.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
@@ -295,7 +295,7 @@ class ProductSection extends Component {
 										<div className="product-wrapper text-center mb-30">
 											<div className="product-img">
 												<Link href="/shop-details" as="/shop-details" >
-													<a><img src={require("../../../../public/assets/img/product/punes.png")} alt="image" /></a>
+													<a><img src={require("../../../../public/assets/img/product/prunes.png")} alt="image" /></a>
 												</Link>
 												<div className="product-action">
 													<a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -316,9 +316,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$25.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
@@ -351,9 +351,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$25.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
@@ -382,9 +382,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$49.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
@@ -414,9 +414,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$49.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
@@ -445,9 +445,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$29.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
