@@ -16,7 +16,7 @@ export default class SPStyleOne extends Component {
                         </div>
                         <div className="col-xl-6 col-lg-7 col-md-7">
                             <div className="our-service-text mb-30">
-                                <h1>La Herencia</h1>
+                                <h1>La Herencia Brand</h1>
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur
                                     adipisicing elit, sed do eiusmod tempor
