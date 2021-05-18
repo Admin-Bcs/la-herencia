@@ -89,7 +89,7 @@ const SliderDefault = () => {
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
                 <div className="single-slider cont-h2">
                     <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/slide_2.png'})` }}>
                         <div className="container box-title">
@@ -114,7 +114,7 @@ const SliderDefault = () => {
                         </div>
                     </div>
                 </div>
-                <div className="single-slider">
+                {/* <div className="single-slider">
                     <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/Garlic.png'})` }}>
                         <div className="container box-title">
                             <div className="row ">
@@ -137,6 +137,102 @@ const SliderDefault = () => {
 
                                         </div>
                                     </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> */}
+                <div className="single-slider">
+                    <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/slider_2.png'})` }}>
+                        <div className="container box-title">
+                            <div className="row">
+                                <div className="col-xl-12">
+                                    {/* <div className="slider-content mt-85 title-slider">
+                                        <h2 data-animation="fadeInUp" data-delay=".6s">
+                                            POULTRY SEASONING
+                                        </h2>
+                                        <p className="text-slider" data-animation="fadeInUp" data-delay=".8s">
+                                            Made originally with dried herbs such as sage, rosemary, ground black pepper, and marjoram, among others. It's a perfect condiment to give all your recipes a delicious flavor. </p>
+                                        <div className="slider-button ">
+                                            <Link href="/ShopHerencia" as="/ShopHerencia" >
+                                                <a data-animation="fadeInLeft" data-delay=".8s" className="btn">
+                                                    La Herencia Spices
+                                                </a>
+                                            </Link>
+                                        </div>
+                                    </div> */}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="single-slider">
+                    <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/slider_3.png'})` }}>
+                        <div className="container box-title">
+                            <div className="row">
+                                <div className="col-xl-12">
+                                    {/* <div className="slider-content mt-85 title-slider">
+                                        <h2 data-animation="fadeInUp" data-delay=".6s">
+                                            POULTRY SEASONING
+                                        </h2>
+                                        <p className="text-slider" data-animation="fadeInUp" data-delay=".8s">
+                                            Made originally with dried herbs such as sage, rosemary, ground black pepper, and marjoram, among others. It's a perfect condiment to give all your recipes a delicious flavor. </p>
+                                        <div className="slider-button ">
+                                            <Link href="/ShopHerencia" as="/ShopHerencia" >
+                                                <a data-animation="fadeInLeft" data-delay=".8s" className="btn">
+                                                    La Herencia Spices
+                                                </a>
+                                            </Link>
+                                        </div>
+                                    </div> */}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="single-slider">
+                    <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/slider_4.png'})` }}>
+                        <div className="container box-title">
+                            <div className="row">
+                                <div className="col-xl-12">
+                                    {/* <div className="slider-content mt-85 title-slider">
+                                        <h2 data-animation="fadeInUp" data-delay=".6s">
+                                            POULTRY SEASONING
+                                        </h2>
+                                        <p className="text-slider" data-animation="fadeInUp" data-delay=".8s">
+                                            Made originally with dried herbs such as sage, rosemary, ground black pepper, and marjoram, among others. It's a perfect condiment to give all your recipes a delicious flavor. </p>
+                                        <div className="slider-button ">
+                                            <Link href="/ShopHerencia" as="/ShopHerencia" >
+                                                <a data-animation="fadeInLeft" data-delay=".8s" className="btn">
+                                                    La Herencia Spices
+                                                </a>
+                                            </Link>
+                                        </div>
+                                    </div> */}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="single-slider">
+                    <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/slider_5.png'})` }}>
+                        <div className="container box-title">
+                            <div className="row">
+                                <div className="col-xl-12">
+                                    {/* <div className="slider-content mt-85 title-slider">
+                                        <h2 data-animation="fadeInUp" data-delay=".6s">
+                                            POULTRY SEASONING
+                                        </h2>
+                                        <p className="text-slider" data-animation="fadeInUp" data-delay=".8s">
+                                            Made originally with dried herbs such as sage, rosemary, ground black pepper, and marjoram, among others. It's a perfect condiment to give all your recipes a delicious flavor. </p>
+                                        <div className="slider-button ">
+                                            <Link href="/ShopHerencia" as="/ShopHerencia" >
+                                                <a data-animation="fadeInLeft" data-delay=".8s" className="btn">
+                                                    La Herencia Spices
+                                                </a>
+                                            </Link>
+                                        </div>
+                                    </div> */}
                                 </div>
                             </div>
                         </div>
