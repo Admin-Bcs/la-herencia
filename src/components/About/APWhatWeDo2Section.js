@@ -37,7 +37,7 @@ class ApWhatWeDo2Section extends Component {
 						<div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="we-do-wrapper text-center  mb-30">
 								<div className="we-do-img">
-									<img src={require("../../../public/assets//img/icon/mision.svg")} alt="icon" />
+									<img src={require("../../../public/assets/img/icon/mision.svg")} alt="icon" />
 								</div>
 								<div className="we-do-text">
 									<h4><a href="#">MISSION</a></h4>

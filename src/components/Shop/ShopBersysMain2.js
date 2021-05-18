@@ -398,7 +398,9 @@ class ShopBersysMain extends Component {
                             <div className="col-12">
                                 <div className="basic-pagination basic-pagination-2 text-center mt-20">
                                     <ul>
-
+                                        <li><Link href="/ShopBersys" as="/ShopBersys">
+                                            <a ><i className="fas fa-angle-double-left"></i></a>
+                                        </Link></li>
                                         <li >
                                             <Link href="/ShopBersys" as="/ShopBersys">
                                                 <a> 01</a>
