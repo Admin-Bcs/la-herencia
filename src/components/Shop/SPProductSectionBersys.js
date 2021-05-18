@@ -1,19 +1,23 @@
 import React, { Component } from 'react'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import Link from "next/link";
+import Link from 'next/link';
+
+
 
 export default class SPProductSectionBersys extends Component {
+
+
 	render() {
 		return (
 			<div className="product-area pos-relative pt-110 pb-120 fix">
 				<div className="container">
 					<div className="row">
-						<div className="col-xl-6 col-lg-5 col-md-6 col-sm-7">
+						{/* <div className="col-xl-6 col-lg-5 col-md-6 col-sm-7">
 							<div className="product-showing">
 								<p>Showing 1–22 of 32 results</p>
 							</div>
-						</div>
-						<div className="col-xl-6 col-md-6 col-sm-5">
+						</div> */}
+						{/* <div className="col-xl-6 col-md-6 col-sm-5">
 							<div className="pro-filter mb-40 f-right">
 								<form action="#">
 									<select name="pro-filter" id="pro-filter">
@@ -24,16 +28,17 @@ export default class SPProductSectionBersys extends Component {
 									</select>
 								</form>
 							</div>
-						</div>
+						</div> */}
 					</div>
+
 					<div className="row">
 						<div className="col-xl-3 col-lg-3 col-md-6">
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									 <Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/product1.png")} alt="product" /></a>
-									</Link>
+									</Link> 
 
 									<div className="product-action">
 										<a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -43,7 +48,7 @@ export default class SPProductSectionBersys extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Chicharron de Harina Picante </a>
 										</Link>
 									</h4>
@@ -55,7 +60,7 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$14.40</span>
+										<span>8-53135006917</span>
 									</div>
 								</div>
 							</div>
@@ -64,8 +69,8 @@ export default class SPProductSectionBersys extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
-										<a><img src={require("../../../public/assets/img/product/chicharrontest.png")} alt="image" /></a>
+									<Link href="#" as="#" >
+										<a><img src={require("../../../public/assets/img/product/chicharron_dHarina.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
 										<a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -75,7 +80,7 @@ export default class SPProductSectionBersys extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Chicharron de Harina</a>
 										</Link>
 									</h4>
@@ -87,7 +92,7 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$14.40</span>
+										<span>8-53135006924</span>
 									</div>
 								</div>
 							</div>
@@ -96,7 +101,7 @@ export default class SPProductSectionBersys extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/04.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
@@ -107,7 +112,7 @@ export default class SPProductSectionBersys extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Cacahuates con Chile & Ajo</a>
 										</Link>
 									</h4>
@@ -119,7 +124,7 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-51101006008</span>
 									</div>
 								</div>
 							</div>
@@ -128,7 +133,7 @@ export default class SPProductSectionBersys extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/product4.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
@@ -139,7 +144,7 @@ export default class SPProductSectionBersys extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Garbanzos Enchilados</a>
 										</Link>
 									</h4>
@@ -151,7 +156,7 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-51101006015</span>
 									</div>
 								</div>
 							</div>
@@ -161,7 +166,7 @@ export default class SPProductSectionBersys extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/05.png")} alt="product" /></a>
 									</Link>
 
@@ -173,7 +178,7 @@ export default class SPProductSectionBersys extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Chickpeas Salty</a>
 										</Link>
 									</h4>
@@ -185,7 +190,7 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-51101006022</span>
 									</div>
 								</div>
 							</div>
@@ -194,8 +199,8 @@ export default class SPProductSectionBersys extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
-										<a><img src={require("../../../public/assets/img/product/06.png")} alt="image" /></a>
+									<Link href="#" as="#" >
+										<a><img src={require("../../../public/assets/img/product/bombones.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
 										<a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -205,7 +210,7 @@ export default class SPProductSectionBersys extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Bombones</a>
 										</Link>
 									</h4>
@@ -217,7 +222,7 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-51101006039</span>
 									</div>
 								</div>
 							</div>
@@ -226,8 +231,8 @@ export default class SPProductSectionBersys extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
-										<a><img src={require("../../../public/assets/img/product/04.png")} alt="image" /></a>
+									<Link href="#" as="#" >
+										<a><img src={require("../../../public/assets/img/product/botana-mix.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
 										<a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -237,7 +242,7 @@ export default class SPProductSectionBersys extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Botana Mix</a>
 										</Link>
 									</h4>
@@ -249,7 +254,7 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-51101006046</span>
 									</div>
 								</div>
 							</div>
@@ -258,7 +263,7 @@ export default class SPProductSectionBersys extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/10.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
@@ -269,7 +274,7 @@ export default class SPProductSectionBersys extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Churritos Mexicanos</a>
 										</Link>
 									</h4>
@@ -281,7 +286,7 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-51101006053</span>
 									</div>
 								</div>
 							</div>
@@ -291,7 +296,7 @@ export default class SPProductSectionBersys extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/10.png")} alt="product" /></a>
 									</Link>
 
@@ -303,7 +308,7 @@ export default class SPProductSectionBersys extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Churritos Mexicanos</a>
 										</Link>
 									</h4>
@@ -315,7 +320,7 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-51101006060</span>
 									</div>
 								</div>
 							</div>
@@ -324,8 +329,8 @@ export default class SPProductSectionBersys extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
-										<a><img src={require("../../../public/assets/img/product/12.png")} alt="image" /></a>
+									<Link href="#" as="#" >
+										<a><img src={require("../../../public/assets/img/product/pistachos.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
 										<a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -335,7 +340,7 @@ export default class SPProductSectionBersys extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Natural Pistachos</a>
 										</Link>
 									</h4>
@@ -347,7 +352,7 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-51101006077</span>
 									</div>
 								</div>
 							</div>
@@ -356,8 +361,8 @@ export default class SPProductSectionBersys extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
-										<a><img src={require("../../../public/assets/img/product/10.png")} alt="image" /></a>
+									<Link href="#" as="#" >
+										<a><img src={require("../../../public/assets/img/product/roasted-peannuts.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
 										<a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -367,7 +372,7 @@ export default class SPProductSectionBersys extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Roasted Peanuts</a>
 										</Link>
 									</h4>
@@ -379,7 +384,7 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-51101006084</span>
 									</div>
 								</div>
 							</div>
@@ -388,8 +393,8 @@ export default class SPProductSectionBersys extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
-										<a><img src={require("../../../public/assets/img/product/12.png")} alt="image" /></a>
+									<Link href="#" as="#" >
+										<a><img src={require("../../../public/assets/img/product/cacahuateconchile.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
 										<a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -399,7 +404,7 @@ export default class SPProductSectionBersys extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Cacahuates con Chile</a>
 										</Link>
 									</h4>
@@ -411,12 +416,15 @@ export default class SPProductSectionBersys extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-51101006091</span>
 									</div>
 								</div>
 							</div>
 						</div>
 					</div>
+
+
+					{/* aca va los espacions para asignar paginacion*/}
 					<div className="row">
 						<div className="col-12">
 							<div className="basic-pagination basic-pagination-2 text-center mt-20">

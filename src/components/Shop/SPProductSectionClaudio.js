@@ -7,7 +7,7 @@ export default class SPProductSectionClaudio extends Component {
 		return (
 			<div className="product-area pos-relative pt-110 pb-120 fix">
 				<div className="container">
-					<div className="row">
+					{/* <div className="row">
 						<div className="col-xl-6 col-lg-5 col-md-6 col-sm-7">
 							<div className="product-showing">
 								<p>Showing 1–22 of 32 results</p>
@@ -25,13 +25,13 @@ export default class SPProductSectionClaudio extends Component {
 								</form>
 							</div>
 						</div>
-					</div>
+					</div> */}
 					<div className="row">
 						<div className="col-xl-3 col-lg-3 col-md-6">
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/cal.png")} alt="product" /></a>
 									</Link>
 
@@ -43,7 +43,7 @@ export default class SPProductSectionClaudio extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Cal Mexicana</a>
 										</Link>
 									</h4>
@@ -55,7 +55,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-59423006478</span>
 									</div>
 								</div>
 							</div>
@@ -64,7 +64,7 @@ export default class SPProductSectionClaudio extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/cancerina.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
@@ -75,7 +75,7 @@ export default class SPProductSectionClaudio extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Cancerina</a>
 										</Link>
 									</h4>
@@ -87,7 +87,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-59423006102</span>
 									</div>
 								</div>
 							</div>
@@ -96,7 +96,7 @@ export default class SPProductSectionClaudio extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/cola de caballo.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
@@ -107,7 +107,7 @@ export default class SPProductSectionClaudio extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Cola de Caballo</a>
 										</Link>
 									</h4>
@@ -119,7 +119,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-59423006195</span>
 									</div>
 								</div>
 							</div>
@@ -128,7 +128,7 @@ export default class SPProductSectionClaudio extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/product4.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
@@ -139,7 +139,7 @@ export default class SPProductSectionClaudio extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Deabetis</a>
 										</Link>
 									</h4>
@@ -151,7 +151,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-59423006188</span>
 									</div>
 								</div>
 							</div>
@@ -161,7 +161,7 @@ export default class SPProductSectionClaudio extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/HierbaMaestra.png")} alt="product" /></a>
 									</Link>
 
@@ -173,7 +173,7 @@ export default class SPProductSectionClaudio extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Hierba Maestra</a>
 										</Link>
 									</h4>
@@ -185,7 +185,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-59423006171</span>
 									</div>
 								</div>
 							</div>
@@ -194,7 +194,7 @@ export default class SPProductSectionClaudio extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/06.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
@@ -205,7 +205,7 @@ export default class SPProductSectionClaudio extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Hoja de Guayabo</a>
 										</Link>
 									</h4>
@@ -217,7 +217,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-59423006164</span>
 									</div>
 								</div>
 							</div>
@@ -226,7 +226,7 @@ export default class SPProductSectionClaudio extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/hoja de mango.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
@@ -237,7 +237,7 @@ export default class SPProductSectionClaudio extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Hoja de Mango</a>
 										</Link>
 									</h4>
@@ -249,7 +249,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-59423006157</span>
 									</div>
 								</div>
 							</div>
@@ -258,7 +258,7 @@ export default class SPProductSectionClaudio extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/hojanaranjo.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
@@ -269,7 +269,7 @@ export default class SPProductSectionClaudio extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Hoja de Naranjo</a>
 										</Link>
 									</h4>
@@ -281,7 +281,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-59423006140</span>
 									</div>
 								</div>
 							</div>
@@ -291,7 +291,7 @@ export default class SPProductSectionClaudio extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/09.png")} alt="product" /></a>
 									</Link>
 
@@ -303,7 +303,7 @@ export default class SPProductSectionClaudio extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Ortiga</a>
 										</Link>
 									</h4>
@@ -315,7 +315,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-59423006089</span>
 									</div>
 								</div>
 							</div>
@@ -324,7 +324,7 @@ export default class SPProductSectionClaudio extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/rinonina-2.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
@@ -335,7 +335,7 @@ export default class SPProductSectionClaudio extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Rinonina</a>
 										</Link>
 									</h4>
@@ -347,7 +347,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-59423006065</span>
 									</div>
 								</div>
 							</div>
@@ -356,7 +356,7 @@ export default class SPProductSectionClaudio extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/Sage.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
@@ -367,7 +367,7 @@ export default class SPProductSectionClaudio extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Salvia / Sage</a>
 										</Link>
 									</h4>
@@ -379,7 +379,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$16.70</span>
+										<span>8-59423006072</span>
 									</div>
 								</div>
 							</div>
@@ -388,7 +388,7 @@ export default class SPProductSectionClaudio extends Component {
 							{/* <div className="product-wrapper text-center mb-30"> */}
 							<div className="text-center mb-30">
 								<div className="product-img">
-									<Link href="/shop-details" as="/shop-details" >
+									<Link href="#" as="#" >
 										<a><img src={require("../../../public/assets/img/product/12.png")} alt="image" /></a>
 									</Link>
 									<div className="product-action">
@@ -399,7 +399,7 @@ export default class SPProductSectionClaudio extends Component {
 								</div>
 								<div className="product-text">
 									<h4>
-										<Link href="/shop-details" as="/shop-details" >
+										<Link href="#" as="#" >
 											<a>Tea Para la Tos</a>
 										</Link>
 									</h4>
@@ -411,7 +411,7 @@ export default class SPProductSectionClaudio extends Component {
 										<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 									</div>
 									<div className="pro-price">
-										<span>$49.99</span>
+										<span>8-59423006126</span>
 									</div>
 								</div>
 							</div>

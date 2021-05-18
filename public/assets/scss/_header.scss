@@ -290,6 +290,9 @@
 
 /* extra info */
 .extra-info {
+	box-shadow: -7px 7px 31px 0px rgba(32,67,43,1);
+-webkit-box-shadow: -7px 7px 31px 0px rgba(32,67,43,1);
+-moz-box-shadow: -7px 7px 31px 0px rgba(32,67,43,1);
 	background: #408858;
 	height: 100%;
 	padding: 30px;
