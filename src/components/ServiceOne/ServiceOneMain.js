@@ -16,7 +16,7 @@ class ServiceOneMain extends Component {
                 {/* sp-style-one-end */}
 
                 {/* sp-style-two-start */}
-                <SPStyleTwo />
+                {/* <SPStyleTwo / */}>
                 {/* sp-style-two-end */}
 
                 {/* sp-video-start */}
@@ -28,7 +28,7 @@ class ServiceOneMain extends Component {
                 {/* sp-about-end */}
 
                 {/* sp-pricing-start */}
-                <SPPricing />
+                {/* <SPPricing /> */}
                 {/* sp-pricing-end */}
 
                 {/* brand-start */}
