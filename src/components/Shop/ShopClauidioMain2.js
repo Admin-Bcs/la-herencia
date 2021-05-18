@@ -429,7 +429,7 @@ class ShopClaudioMain2 extends Component {
                         <div className="basic-pagination basic-pagination-2 text-center mt-20">
 
                             <ul>
-                                <li><a href="#"><i className="fas fa-angle-double-left"></i></a></li>
+                                
                                 <li >
                                     <Link href="/ShopClaudio" as="/ShopClaudio">
                                         <a> 01</a>
@@ -445,8 +445,7 @@ class ShopClaudioMain2 extends Component {
                                         <a> 03</a>
                                     </Link>
                                 </li>
-                                <li><a href="#"><i className="fas fa-ellipsis-h"></i></a></li>
-                                <li><a href="#"><i className="fas fa-angle-double-right"></i></a></li>
+                                
                             </ul>
                         </div>
                     </div>
