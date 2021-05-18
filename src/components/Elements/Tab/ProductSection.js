@@ -94,9 +94,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$49.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
@@ -125,9 +125,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$29.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
@@ -156,9 +156,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$25.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
@@ -187,9 +187,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$49.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
@@ -222,9 +222,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$49.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
@@ -254,9 +254,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$49.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
@@ -285,9 +285,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$29.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
@@ -316,9 +316,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$25.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
@@ -351,9 +351,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$25.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
@@ -382,9 +382,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$49.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
@@ -414,9 +414,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$49.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
@@ -445,9 +445,9 @@ class ProductSection extends Component {
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 													<i><FontAwesomeIcon icon={['far', 'star']} /></i>
 												</div>
-												<div className="pro-price">
+												{/* <div className="pro-price">
 													<span>$29.99</span>
-												</div>
+												</div> */}
 											</div>
 										</div>
 									</div>
