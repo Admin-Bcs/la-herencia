@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Link from "next/link";
 import Brand from "../Common/Brand";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import "aos/dist/aos.css"
+
 class ShopHerenciaMain extends Component {
     render() {
         return (

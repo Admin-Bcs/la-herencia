@@ -2,11 +2,8 @@ import React, { Component } from "react";
 
 import SPStyleOne from "./SPStyleClaudios";
 
-import SPVideoSection from "./SPVideoSection";
-import SPAboutSection from "./SPAboutSection";
 
-
-class ServiceMainClaudios extends Component {
+class ServiceOneMain extends Component {
     render() {
         return (
             <main>
@@ -18,4 +15,4 @@ class ServiceMainClaudios extends Component {
     }
 }
 
-export default ServiceMainClaudios;
+export default ServiceOneMain;

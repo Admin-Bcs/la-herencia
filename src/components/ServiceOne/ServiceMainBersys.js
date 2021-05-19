@@ -6,7 +6,7 @@ import SPVideoSection from "./SPVideoSection";
 import SPAboutSection from "./SPAboutSection";
 
 
-class ServiceOneMain extends Component {
+class ServiceMainBersys extends Component {
     render() {
         return (
             <main>
@@ -18,4 +18,4 @@ class ServiceOneMain extends Component {
     }
 }
 
-export default ServiceOneMain;
+export default ServiceMainBersys;
