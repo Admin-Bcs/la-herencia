@@ -2,13 +2,13 @@ import React, { Component } from "react";
 import Link from "next/link";
 import Brand from "../Common/Brand";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import "aos/dist/aos"
+import "aos/dist/aos.css"
 class ShopHerenciaMain extends Component {
     render() {
         return (
             <main>
-                <div className="product-area pos-relative pt-110 pb-120 fix " >
-                    <div className="container" data-aos="fade-up">
+                <div className="product-area pos-relative pt-110 pb-120 fix "  >
+                    <div className="container" >
                         {/* <div className="row">
 						<div className="col-xl-6 col-lg-5 col-md-6 col-sm-7">
 							<div className="product-showing">
@@ -43,7 +43,7 @@ class ShopHerenciaMain extends Component {
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'search']} /></i></a>
                                         </div>
                                     </div>
-                                    <div className="product-text">
+                                    <div className="product-text" >
                                         <h4>
                                             <Link href="#" as="#" >
                                                 <a>Flor de Jamaica</a>
