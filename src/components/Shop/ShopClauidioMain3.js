@@ -345,7 +345,7 @@ class ShopClaudioMain3 extends Component {
                                     </li>
                                     <li >
                                         <Link href="/ShopClaudio3" as="/ShopClaudio3">
-                                            <a> 03</a>
+                                            <a className="indice"> 03</a>
                                         </Link>
                                     </li>
                                 </ul>

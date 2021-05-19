@@ -439,7 +439,7 @@ class ShopClaudioMain2 extends Component {
                                     </li>
                                     <li >
                                         <Link href="/ShopClaudio2" as="/ShopClaudio2">
-                                            <a> 02</a>
+                                            <a className="indice"> 02</a>
                                         </Link>
                                     </li>
                                     <li >
@@ -448,7 +448,7 @@ class ShopClaudioMain2 extends Component {
                                         </Link>
                                     </li>
                                     <li><Link href="/ShopClaudio3" as="/ShopClaudio3">
-                                        <a><i className="fas fa-angle-double-right"></i></a>
+                                        <a ><i className="fas fa-angle-double-right"></i></a>
                                     </Link>
                                     </li>
                                 </ul>
@@ -456,7 +456,7 @@ class ShopClaudioMain2 extends Component {
                         </div>
                     </div>
                 </div>
-                
+
                 {/* brand-start */}
                 <Brand />
                 {/* brand-end */}
