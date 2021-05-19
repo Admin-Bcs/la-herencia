@@ -423,17 +423,11 @@ class ShopHerenciaMain extends Component {
                             <div className="col-12">
                                 <div className="basic-pagination basic-pagination-2 text-center mt-20">
                                     <ul>
+                                        <li><Link href="/ShopHerencia4" as="/ShopHerencia4">
+                                            <a ><i className="fas fa-angle-double-left"></i></a>
+                                        </Link></li>
 
-                                        <li >
-                                            <Link href="/Shoph" as="/ShopHerencia">
-                                                <a> 01</a>
-                                            </Link>
-                                        </li>
-                                        <li >
-                                            <Link href="/ShopHerencia2" as="/ShopHerencia2">
-                                                <a> 02</a>
-                                            </Link>
-                                        </li>
+
                                         <li >
                                             <Link href="/ShopHerencia3" as="/ShopHerencia3">
                                                 <a> 03</a>
@@ -446,8 +440,22 @@ class ShopHerenciaMain extends Component {
                                         </li>
                                         <li >
                                             <Link href="/ShopHerencia5" as="/ShopHerencia5">
-                                                <a> 05</a>
+                                                <a className="indice"> 05</a>
                                             </Link>
+                                        </li>
+                                        <li >
+                                            <Link href="/ShopHerencia6" as="/ShopHerencia6">
+                                                <a> 06</a>
+                                            </Link>
+                                        </li>
+                                        <li >
+                                            <Link href="/ShopHerencia7" as="/ShopHerencia7">
+                                                <a> 07</a>
+                                            </Link>
+                                        </li>
+                                        <li><Link href="/ShopHerencia6" as="/ShopHerencia6">
+                                            <a><i className="fas fa-angle-double-right"></i></a>
+                                        </Link>
                                         </li>
                                     </ul>
                                 </div>

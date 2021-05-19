@@ -423,7 +423,9 @@ class ShopHerenciaMain2 extends Component {
                             <div className="col-12">
                                 <div className="basic-pagination basic-pagination-2 text-center mt-20">
                                     <ul>
-
+                                        <li><Link href="/ShopHerencia" as="/ShopHerencia">
+                                            <a ><i className="fas fa-angle-double-left"></i></a>
+                                        </Link></li>
                                         <li >
                                             <Link href="/Shoph" as="/ShopHerencia">
                                                 <a> 01</a>
@@ -431,7 +433,7 @@ class ShopHerenciaMain2 extends Component {
                                         </li>
                                         <li >
                                             <Link href="/ShopHerencia2" as="/ShopHerencia2">
-                                                <a> 02</a>
+                                                <a className="indice"> 02</a>
                                             </Link>
                                         </li>
                                         <li >
@@ -448,6 +450,10 @@ class ShopHerenciaMain2 extends Component {
                                             <Link href="/ShopHerencia5" as="/ShopHerencia5">
                                                 <a> 05</a>
                                             </Link>
+                                        </li>
+                                        <li><Link href="/ShopHerencia3" as="/ShopHerencia3">
+                                            <a><i className="fas fa-angle-double-right"></i></a>
+                                        </Link>
                                         </li>
                                     </ul>
                                 </div>
