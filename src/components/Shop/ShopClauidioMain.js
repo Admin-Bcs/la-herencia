@@ -431,7 +431,7 @@ class ShopClaudioMain extends Component {
                                 <ul>
                                     <li >
                                         <Link href="/ShopClaudio" as="/ShopClaudio">
-                                            <a> 01</a>
+                                            <a className="indice"> 01</a>
                                         </Link>
                                     </li>
                                     <li >
@@ -453,7 +453,7 @@ class ShopClaudioMain extends Component {
                         </div>
                     </div>
                 </div>
-                
+
                 <br />
                 <Brand />
 

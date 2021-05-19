@@ -432,7 +432,7 @@ class ShopBersysMain extends Component {
                                     <ul>
                                         <li >
                                             <Link href="/ShopBersys" as="/ShopBersys">
-                                                <a> 01</a>
+                                                <a className="indice"> 01</a>
                                             </Link>
                                         </li>
                                         <li >
