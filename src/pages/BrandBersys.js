@@ -9,7 +9,7 @@ class Brand extends Component {
         return (
             <React.Fragment>
                 <Header />
-                <SiteBreadcrumb pageTitle="Brand Page Example" />
+                <SiteBreadcrumb pageTitle="Bersys" />
                 <ServiceOneMain />
                 <Footer />
             </React.Fragment>
