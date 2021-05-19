@@ -6,7 +6,7 @@ import BurgerMenus from './BurgerMenus';
 import TopHeader from './TopBar';
 import Sidebar from './Sidebar';
 import SearchBar from './SearchBar';
-import ScrollToTop from "../../../Scrolltotop";
+
 
 const Header = () => {
 
@@ -22,7 +22,7 @@ const Header = () => {
 
 	return (
 		<React.Fragment>
-		<ScrollToTop />
+		
 			<header className="header" id="header-wrap">
 				<TopHeader />
 
