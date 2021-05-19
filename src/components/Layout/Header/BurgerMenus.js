@@ -103,17 +103,17 @@ export default function BurgerMenus({ setMenuOpen, menuOpen }) {
 								<a onClick={() => { toggleMenu('brands') }}>OUR BRANDS</a>
 								<ul className={brands ? "sub-menu active" : "sub-menu"}>
 									<li className={path === "#" ? "active" : ""}>
-										<Link href="#" as="#">
+										<Link href="/BrandHerencia" as="/BrandHerencia">
 											<a>La Herencia Spices</a>
 										</Link>
 									</li>
 									<li className={path === "#" ? "active" : ""}>
-										<Link href="#" as="#">
+										<Link href="/BrandBersys" as="/BrandBersys">
 											<a>Bersy’s Snack</a>
 										</Link>
 									</li>
 									<li className={path === "#" ? "active" : ""}>
-										<Link href="#" as="#">
+										<Link href="/BrandClaudios" as="/BrandClaudios">
 											<a>Claudio’s Tea Herb</a>
 										</Link>
 									</li>

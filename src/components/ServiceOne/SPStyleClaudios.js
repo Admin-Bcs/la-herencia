@@ -16,7 +16,7 @@ export default class SPStyleOne extends Component {
                         </div>
                         <div className="col-xl-6 col-lg-7 col-md-7">
                             <div className="our-service-text mb-30">
-                                <h1>La Herencia Brand</h1>
+                                <h1>Claudio’s Brand</h1>
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur
                                     adipisicing elit, sed do eiusmod tempor
@@ -46,7 +46,7 @@ export default class SPStyleOne extends Component {
                         </div>
                     </div>
                 </div>
-                
+
                 <br />
                 <br />
                 <br />
@@ -64,7 +64,7 @@ export default class SPStyleOne extends Component {
                             <div className="zomata-wrapper mb-30">
                                 <div className="zomata-text">
                                     <h1>
-                                        La Herencia <br /> Spices
+                                        Claudio’s <br />
                                     </h1>
                                     <p>
                                         Lorem ipsum dolor sit amet, consectetur
@@ -87,7 +87,7 @@ export default class SPStyleOne extends Component {
                     </div>
                 </div>
             </div>
-            
+
         );
     }
 }
