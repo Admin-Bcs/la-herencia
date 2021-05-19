@@ -38,7 +38,7 @@ class ShopBersysMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/product1.png")} alt="product" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/bersys-default.png")} alt="product" /></a>
                                         </Link>
 
                                         <div className="product-action">
@@ -71,7 +71,7 @@ class ShopBersysMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/chicharron_dHarina.png")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/bersys-default.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -103,7 +103,7 @@ class ShopBersysMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/04.png")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/bersys-default.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -135,7 +135,7 @@ class ShopBersysMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/product4.png")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/bersys-default.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -168,7 +168,7 @@ class ShopBersysMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/05.png")} alt="product" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/bersys-default.png")} alt="product" /></a>
                                         </Link>
 
                                         <div className="product-action">
@@ -201,7 +201,7 @@ class ShopBersysMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/bombones.png")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/bersys-default.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -233,7 +233,7 @@ class ShopBersysMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/botana-mix.png")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/bersys-default.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -265,7 +265,7 @@ class ShopBersysMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/10.png")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/bersys-default.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -298,7 +298,7 @@ class ShopBersysMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/10.png")} alt="product" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/prunes.png")} alt="product" /></a>
                                         </Link>
 
                                         <div className="product-action">
@@ -331,7 +331,7 @@ class ShopBersysMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/pistachos.png")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/bersys-default.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -363,7 +363,7 @@ class ShopBersysMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/roasted-peannuts.png")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/bersys-default.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
