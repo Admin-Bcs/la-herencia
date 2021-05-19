@@ -135,7 +135,7 @@ class ShopClaudioMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/product4.png")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/claudio.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -201,7 +201,7 @@ class ShopClaudioMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/06.png")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/claudio.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -298,7 +298,7 @@ class ShopClaudioMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/09.png")} alt="product" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/claudio.png")} alt="product" /></a>
                                         </Link>
 
                                         <div className="product-action">
@@ -395,7 +395,7 @@ class ShopClaudioMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/12.png")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/claudio.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -431,7 +431,7 @@ class ShopClaudioMain extends Component {
                                 <ul>
                                     <li >
                                         <Link href="/ShopClaudio" as="/ShopClaudio">
-                                            <a> 01</a>
+                                            <a className="indice"> 01</a>
                                         </Link>
                                     </li>
                                     <li >
@@ -453,7 +453,7 @@ class ShopClaudioMain extends Component {
                         </div>
                     </div>
                 </div>
-                
+
                 <br />
                 <Brand />
 
