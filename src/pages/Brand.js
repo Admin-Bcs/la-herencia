@@ -1,15 +1,14 @@
-import React, { Component } from "react";
-import HeaderStyleTwo from "../components/Layout/Header/HeaderStyleTwo";
+import Header from "../components/Layout/Header/Header"
 import Footer from "../components/Layout/Footer/Footer";
 import SiteBreadcrumb from "../components/Common/Breadcumb";
 import ServiceOneMain from "../components/ServiceOne/ServiceOneMain";
 
-class Services extends Component {
+class Brand extends Component {
     render() {
         return (
             <React.Fragment>
-                <HeaderStyleTwo />
-                <SiteBreadcrumb pageTitle="Servicios" />
+                <Header />
+                <SiteBreadcrumb pageTitle="Brand Page Example" />
                 <ServiceOneMain />
                 <Footer />
             </React.Fragment>
@@ -17,4 +16,4 @@ class Services extends Component {
     }
 }
 
-export default Services;
+export default Brand;
