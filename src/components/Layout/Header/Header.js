@@ -99,18 +99,18 @@ const Header = () => {
 											<li className={path === "" ? "active" : ""}>
 												<Link href="" as="" ><a>OUR BRANDS</a></Link>
 												<ul className="sub-menu text-left">
-													<li className={path === "/Brand" ? "active" : ""}>
-														<Link href="/Brand" as="/Brand">
+													<li className={path === "/BrandHerencia" ? "active" : ""}>
+														<Link href="/BrandHerencia" as="/BrandHerencia">
 															<a>La Herencia Spices</a>
 														</Link>
 													</li>
 													<li className={path === "#" ? "active" : ""}>
-														<Link href="#" as="#">
+														<Link href="/BrandBersys" as="/BrandBersys">
 															<a>Bersy’s Snack</a>
 														</Link>
 													</li>
 													<li className={path === "#" ? "active" : ""}>
-														<Link href="#" as="#">
+														<Link href="/BrandClaudios" as="/BrandClaudios">
 															<a>Claudio’s Tea Herb</a>
 														</Link>
 													</li>
