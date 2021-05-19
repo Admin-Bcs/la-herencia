@@ -426,7 +426,7 @@ class ShopHerenciaMain extends Component {
 
                                         <li >
                                             <Link href="/Shoph" as="/ShopHerencia">
-                                                <a> 01</a>
+                                                <a className="indice"> 01</a>
                                             </Link>
                                         </li>
                                         <li >
@@ -448,6 +448,10 @@ class ShopHerenciaMain extends Component {
                                             <Link href="/ShopHerencia5" as="/ShopHerencia5">
                                                 <a> 05</a>
                                             </Link>
+                                        </li>
+                                        <li><Link href="/ShopHerencia2" as="/ShopHerencia2">
+                                            <a><i className="fas fa-angle-double-right"></i></a>
+                                        </Link>
                                         </li>
                                     </ul>
                                 </div>
