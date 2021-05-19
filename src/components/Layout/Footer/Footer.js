@@ -16,13 +16,11 @@ const Footer = () => {
 										<a href="index.html"><img
 											className="retina-logo" src={require("../../../../public/assets/img/logo/laherencia/laherencia.png")} alt="" /></a>
 									</div>
-									<div className="footer-text">
 
-									</div>
-									<div className="footer-icon color-ico">
+									<div className="footer-icon color-ico" >
 										<li>
 											<a href="#"><i><FontAwesomeIcon icon={['fab', 'facebook-f']} /></i></a>
-											<span> / </span>
+											<span> /laherenciaspices </span>
 										</li>
 										<li>
 											<a href="https://www.instagram.com/laherenciaspices"><i><FontAwesomeIcon icon={['fab', 'instagram']} /></i></a>

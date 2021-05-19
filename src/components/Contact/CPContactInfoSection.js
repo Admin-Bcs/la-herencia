@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 import Link from 'next/link';
 
 
@@ -14,7 +14,7 @@ class CPContactInfoSection extends Component {
 								<div className="contact-address-title">
 									<h2>ADDRESS</h2>
 									<div className="contact-address-img">
-										<img src={require('../../../public/assets/img/shape/c.png')} alt="image"/>
+										<img src={require('../../../public/assets/img/shape/c.png')} alt="image" />
 									</div>
 								</div>
 								<ul className="contact-link">
@@ -27,9 +27,9 @@ class CPContactInfoSection extends Component {
 						<div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="contact-address-wrapper mb-30">
 								<div className="contact-address-title">
-									<h2>NEW JERSEY</h2>
+									<h2>CONTACTS</h2>
 									<div className="contact-address-img">
-										<img src={require('../../../public/assets/img/shape/c.png')} alt="image"/>
+										<img src={require('../../../public/assets/img/shape/c.png')} alt="image" />
 									</div>
 								</div>
 								<ul className="contact-link">
@@ -44,7 +44,7 @@ class CPContactInfoSection extends Component {
 								<div className="contact-address-title">
 									<h2>SOCIAL MEDIA</h2>
 									<div className="contact-address-img">
-										<img src={require('../../../public/assets/img/shape/c.png')} alt="image"/>
+										<img src={require('../../../public/assets/img/shape/c.png')} alt="image" />
 									</div>
 								</div>
 								<ul className="contact-link">
