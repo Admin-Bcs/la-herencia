@@ -24,10 +24,12 @@ const SliderDefault = () => {
     }
 
     const settings = {
+        autoplay: true,
+        autoplaySpeed: 5000,
         className: "slider-active",
         dots: false,
         slidesToShow: 1,
-        speed: 500,
+        speed: 800,
         fade: true,
         infinite: true,
         nextArrow: <SampleNextArrow />,
