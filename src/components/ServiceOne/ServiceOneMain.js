@@ -32,7 +32,7 @@ class ServiceOneMain extends Component {
                 {/* sp-pricing-end */}
 
                 {/* brand-start */}
-                <Brand />
+                {/* <Brand /> */}
                 {/* brand-end */}
             </main>
         );
