@@ -25,7 +25,7 @@ const SliderDefault = () => {
 
     const settings = {
         autoplay: true,
-        autoplaySpeed: 5000,
+        autoplaySpeed: 6000,
         className: "slider-active",
         dots: false,
         slidesToShow: 1,
