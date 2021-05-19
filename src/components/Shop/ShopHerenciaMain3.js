@@ -428,7 +428,7 @@ class ShopHerenciaMain3 extends Component {
                                             <a ><i className="fas fa-angle-double-left"></i></a>
                                         </Link></li>
                                         <li >
-                                            <Link href="/Shoph" as="/ShopHerencia">
+                                            <Link href="/ShopHerencia" as="/ShopHerencia">
                                                 <a> 01</a>
                                             </Link>
                                         </li>
