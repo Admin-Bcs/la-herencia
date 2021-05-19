@@ -4,7 +4,7 @@ import Link from 'next/link';
 const SiteBreadcrumb = (props) => {
 	const { pageTitle } = props;
 	return (
-		<div className="breadcrumb-area pt-160 pb-170" style={{ backgroundImage:`url(${'assets/img/bg/banner-general.svg'})`}}>
+		<div className="breadcrumb-area pt-160 pb-170" style={{ backgroundImage:`url(${'assets/img/bg/banner-products.jpg'})`}}>
 			<div className="container">
 				<div className="row">
 					<div className="col-xl-12">
