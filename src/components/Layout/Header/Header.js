@@ -52,12 +52,7 @@ const Header = () => {
 												<i className="dripicons-user"></i>
 											</a>
 										</li> */}
-										<li className="cart-icon">
-											<a href="#">
-												<i className="dripicons-cart"></i>
-											</a>
-											<span>2</span>
-										</li>
+										{/* ß */}
 										<li className={sidebarOpen ? "info-bar active" : "info-bar"}>
 											<a href="#" onClick={() => setSidebarOpen(!sidebarOpen)}>
 												<i className="dripicons-vibrate"></i>
