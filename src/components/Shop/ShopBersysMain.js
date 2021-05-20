@@ -25,7 +25,7 @@ class ShopBersysMain extends Component {
 										<option value="1">Shop By</option>
 										<option value="2">Top Sales </option>
 										<option value="3">New Product </option>
-										<option value="4">A to Z Product </option>
+										<option value="4">A to Z 1Product </option>
 									</select>
 								</form>
 							</div>
