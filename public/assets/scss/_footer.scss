@@ -109,13 +109,12 @@
 .subscribes-form button.btn {
 	margin-top: 10px;
 	position: relative;
-	background: #fab522;
+	background: #ffef13;
 	transition: .3s;
-	color: #fff;
+	color: #7c3c21;
 	padding: 12px 40px;
 }
 .subscribes-form button.btn::before {
-	background: #ef491a;
 	bottom: 0;
 	content: "";
 	left: 0;
@@ -132,6 +131,7 @@
 }
 .subscribes-form button.btn:hover::before {
 	transform: scaley(1);
+	
 }
 .single-footer .footer-text{}
 .single-footer .footer-text p {
@@ -205,13 +205,13 @@
 .single-footer .subscribes-form form button.btn {
 	margin-top: 10px;
 	position: relative;
-	background: #ef491a;
+	background: #ffef13;
 	transition: .3s;
 	color: #fff;
 	padding: 12px 40px;
 }
 .single-footer .subscribes-form form button.btn::before {
-	background: #fab522;
+	background: #ffef13;
 	bottom: 0;
 	content: "";
 	left: 0;

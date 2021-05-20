@@ -125,8 +125,7 @@ export default function BurgerMenus({ setMenuOpen, menuOpen }) {
 						</li>
 
 						<li className={path === "/contact" ? "active" : ""}>
-							<Link href="/contact" as="/contact">
-								<a>CONTACT</a>
+							<Link href="/contact" as="/contact"><a>CONTACT</a>
 							</Link>
 						</li>
 					</ul>
