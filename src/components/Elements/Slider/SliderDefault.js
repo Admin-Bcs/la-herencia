@@ -24,10 +24,12 @@ const SliderDefault = () => {
     }
 
     const settings = {
+        autoplay: true,
+        autoplaySpeed: 6000,
         className: "slider-active",
         dots: false,
         slidesToShow: 1,
-        speed: 500,
+        speed: 800,
         fade: true,
         infinite: true,
         nextArrow: <SampleNextArrow />,
@@ -266,7 +268,7 @@ const SliderDefault = () => {
                 </div>
                 
                 <div className="single-slider">
-                    <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/slider_7.png'})` }}>
+                    <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/ground-g.png'})` }}>
                         <div className="container box-title">
                             <div className="row">
                                 <div className="col-xl-12">
