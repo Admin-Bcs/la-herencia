@@ -116,7 +116,7 @@ class H2Blog2Section extends Component {
 								<div className="row">
 									<div className="col-xl-6 col-lg-12">
 										<div className="news-img">
-											<Link href="/monthly-web-development-was-update-just-timedesign-variable-fallbacks-zomata." as="/monthly-web-development-was-update-just-timedesign-variable-fallbacks-zomata." >
+											<Link href="#" >
 												<a>
 													<img src={require('../../../public/assets/img/blog/4.jpg')} alt='blog' />
 												</a>
@@ -126,7 +126,7 @@ class H2Blog2Section extends Component {
 									<div className="col-xl-6 col-lg-12">
 										<div className="blog-text news-text">
 											<h4>
-												<Link href="/monthly-web-development-was-update-just-timedesign-variable-fallbacks-zomata." as="/monthly-web-development-was-update-just-timedesign-variable-fallbacks-zomata." >
+												<Link href="#" >
 													<a>
 														Monthly Web Development Was Update Just TimeDesign Variable Fallbacks Zomata.
 													</a>
