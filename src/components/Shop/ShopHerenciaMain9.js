@@ -33,7 +33,7 @@ class ShopHerenciaMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/laherencia-default.png")} alt="product" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/Bottles/bottle-2.png")} alt="product" /></a>
                                         </Link>
 
                                         <div className="product-action">
@@ -45,7 +45,7 @@ class ShopHerenciaMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Flax Seed</a>
+                                                <a>Ajo En Polvo</a>
                                             </Link>
                                         </h4>
                                         <div className="pro-rating">
@@ -157,11 +157,6 @@ class ShopHerenciaMain extends Component {
                                         <li >
                                             <Link href="/ShopHerencia8" as="/ShopHerencia8">
                                                 <a className="indice"> 08</a>
-                                            </Link>
-                                        </li>
-                                        <li >
-                                            <Link href="/ShopHerencia9" as="/ShopHerencia9">
-                                                <a className="indice"> 09</a>
                                             </Link>
                                         </li>
                                     </ul>
