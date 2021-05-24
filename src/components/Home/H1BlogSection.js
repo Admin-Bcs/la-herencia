@@ -25,7 +25,7 @@ class H1BlogSection extends Component {
 						<div className="col-xl-4 col-lg-4 col-md-12">
 							<div className="blog-wrapper mb-30">
 								<div className="blog-img">
-									<Link href="/monthly-web-development-was-update-just-time-design-variable-fallbacks-zomata." as="/monthly-web-development-was-update-just-time-design-variable-fallbacks-zomata." >
+									<Link href="#" >
 										<a>
 											<img src={require("../../../public/assets/img/blog/blog1.jpg")} alt="blog"/>
 										</a>
@@ -33,7 +33,7 @@ class H1BlogSection extends Component {
 								</div>
 								<div className="blog-text">
 									<h4>
-										<Link href="/monthly-web-development-was-update-just-time-design-variable-fallbacks-zomata." as="/monthly-web-development-was-update-just-time-design-variable-fallbacks-zomata." >
+										<Link href="#" >
 											<a>
 												Monthly Web Development Was Update Just Time Design Variable Fallbacks Zomata.
 											</a>

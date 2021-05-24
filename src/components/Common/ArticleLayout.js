@@ -6,8 +6,8 @@ const ArticleLayout = ({ post }) => {
 	return (
 		<article className="postbox post format-image mb-40">
 			<div className="postbox__thumb">
-				<Link href={post.url} as={'/'+ post.url}>
-					<a><img src={'/'+ post.image} alt="blog image" /></a>
+				<Link href={post.url} as={'/' + post.url}>
+					<a><img src={'/' + post.image} alt="blog image" /></a>
 				</Link>
 			</div>
 			<div className="postbox__text p-50">
@@ -17,7 +17,7 @@ const ArticleLayout = ({ post }) => {
 					<span> <i><FontAwesomeIcon icon={['far', 'comments']} /></i> (03)COMMENTS</span>
 				</div>
 				<h3 className="blog-title">
-					<Link href={post.url} as={'http://localhost:3000'+ post.url}>
+					<Link href={post.url} as={'#' + post.url}>
 						<a>{post.title}</a>
 					</Link>
 				</h3>
@@ -25,14 +25,14 @@ const ArticleLayout = ({ post }) => {
 					<p>{post.text}</p>
 				</div>
 				<div className="read-more mt-30">
-					<Link href={post.url} as={'http://localhost:3000'+ post.url}>
+					<Link href={post.url} as={'#' + post.url}>
 						<a className="btn theme-btn">Read More</a>
 					</Link>
 				</div>
 			</div>
 		</article>
 	);
-	
+
 }
 
 export default ArticleLayout;
