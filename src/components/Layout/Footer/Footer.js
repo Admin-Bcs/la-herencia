@@ -13,7 +13,7 @@ const Footer = () => {
 							<div className="col-xl-4 col-lg-4 col-md-6">
 								<div className="footer-wrapper mb-30">
 									<div >
-										<a href="index.html"><img
+										<a href="/"><img
 											className="retina-logo" src={require("../../../../public/assets/img/logo/laherencia/laherencia.png")} alt="" /></a>
 									</div>
 
