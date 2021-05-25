@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 import FooterStyleThree from "../components/Layout/Footer/FooterStyleThree";
-import Header3 from "../components/Layout/Header/HeaderStyleThree";
+
 
 class HomeThree extends Component {
     render() {

@@ -78,10 +78,10 @@ const Header2 = () => {
 														<Link href="/" as="/"><a>Home 1</a></Link>
 													</li>
 													<li className={path === "/home-2" ? "active" : ""}>
-														<Link href="/home-2" as="/home-2"><a>Home 2</a></Link>
+														<Link href="/" as="/"><a>Home 2</a></Link>
 													</li>
 													<li>
-														<Link href="/home-3" as="/home-3"><a>Home 3</a></Link>
+														<Link href="/" as="/"><a>Home 3</a></Link>
 													</li>
 												</ul>
 											</li>
