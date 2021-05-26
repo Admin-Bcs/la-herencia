@@ -77,7 +77,7 @@ const Header2 = () => {
 													<li className={path === "/" ? "active" : ""}>
 														<Link href="/" as="/"><a>Home 1</a></Link>
 													</li>
-													<li className={path === "/home-2" ? "active" : ""}>
+													<li className={path === "/" ? "active" : ""}>
 														<Link href="/" as="/"><a>Home 2</a></Link>
 													</li>
 													<li>
@@ -105,13 +105,13 @@ const Header2 = () => {
 															<a>Gallery 01</a>
 														</Link>
 													</li>
-													<li className={path === "/gallery-2" ? "active" : ""}>
-														<Link href="/gallery-2" as="/gallery-2">
+													<li className={path === "#" ? "active" : ""}>
+														<Link href="#" as="#">
 															<a>Gallery 02</a>
 														</Link>
 													</li>
-													<li className={path === "/gallery-3" ? "active" : ""}>
-														<Link href="/gallery-3" as="/gallery-3">
+													<li className={path === "#" ? "active" : ""}>
+														<Link href="#" as="#">
 															<a>Gallery 03</a>
 														</Link>
 													</li>
@@ -135,8 +135,8 @@ const Header2 = () => {
 															<a>Gallery Details 04</a>
 														</Link>
 													</li>
-													<li className={path === "/blog-details" ? "active" : ""}>
-														<Link href="/blog-details" as="/blog-details">
+													<li className={path === "" ? "active" : ""}>
+														<Link href="" as="">
 															<a>Blog Details</a>
 														</Link>
 													</li>
@@ -150,8 +150,8 @@ const Header2 = () => {
 															<a>Shop Details</a>
 														</Link>
 													</li>
-													<li className={path === "/team" ? "active" : ""}>
-														<Link href="/team" as="/team">
+													<li className={path === "#" ? "active" : ""}>
+														<Link href="#" as="#">
 															<a>Team</a>
 														</Link>
 													</li>
