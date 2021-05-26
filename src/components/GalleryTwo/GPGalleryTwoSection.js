@@ -10,7 +10,7 @@ class GpGalleryTwoSection extends Component {
 						<div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="gallery-wrapper mb-60">
 								<div className="gallery-img">
-									<Link href="/gallery-details-1" as="/gallery-details-1" >
+									<Link href="#" as="#" >
 										<a>
 											<img src={require('../../../public/assets/img/gallery/gallery2/1.jpg')} alt='image'/>
 										</a>
@@ -23,7 +23,7 @@ class GpGalleryTwoSection extends Component {
 									</div>
 								</div>
 								<div className="gallery-text text-center">
-									<h3><Link href="/gallery-details-1" as="/gallery-details-1" ><a >Fresh Orange</a></Link></h3>
+									<h3><Link href="#" as="#" ><a >Fresh Orange</a></Link></h3>
 									<span>Organic Fruits</span>
 								</div>
 							</div>
@@ -31,7 +31,7 @@ class GpGalleryTwoSection extends Component {
 						<div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="gallery-wrapper mb-60">
 								<div className="gallery-img">
-									<Link href="/gallery-details-1" as="/gallery-details-1" >
+									<Link href="#" as="#" >
 										<a>
 											<img src={require('../../../public/assets/img/gallery/gallery2/2.jpg')} alt='image'/>
 										</a>
@@ -44,7 +44,7 @@ class GpGalleryTwoSection extends Component {
 									</div>
 								</div>
 								<div className="gallery-text text-center">
-									<h3><Link href="/gallery-details-1" as="/gallery-details-1" ><a >Fresh Strawberry</a></Link></h3>
+									<h3><Link href="#" as="#" ><a >Fresh Strawberry</a></Link></h3>
 									<span>Organic Fruits</span>
 								</div>
 							</div>
@@ -52,7 +52,7 @@ class GpGalleryTwoSection extends Component {
 						<div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="gallery-wrapper mb-60">
 								<div className="gallery-img">
-									<Link href="/gallery-details-1" as="/gallery-details-1" >
+									<Link href="#" as="#" >
 										<a>
 											<img src={require('../../../public/assets/img/gallery/gallery2/3.jpg')} alt='image'/>
 										</a>
@@ -65,7 +65,7 @@ class GpGalleryTwoSection extends Component {
 									</div>
 								</div>
 								<div className="gallery-text text-center">
-									<h3><Link href="/gallery-details-1" as="/gallery-details-1" ><a >Orange Tomato</a></Link></h3>
+									<h3><Link href="#" as="#" ><a >Orange Tomato</a></Link></h3>
 									<span>Vegetables</span>
 								</div>
 							</div>
@@ -73,7 +73,7 @@ class GpGalleryTwoSection extends Component {
 						<div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="gallery-wrapper mb-60">
 								<div className="gallery-img">
-									<Link href="/gallery-details-1" as="/gallery-details-1" >
+									<Link href="#" as="#" >
 										<a>
 											<img src={require('../../../public/assets/img/gallery/gallery2/4.jpg')} alt='image'/>
 										</a>
@@ -86,7 +86,7 @@ class GpGalleryTwoSection extends Component {
 									</div>
 								</div>
 								<div className="gallery-text text-center">
-									<h3><Link href="/gallery-details-1" as="/gallery-details-1" ><a >Fresh Milks &amp; Meat</a></Link></h3>
+									<h3><Link href="#" as="#" ><a >Fresh Milks &amp; Meat</a></Link></h3>
 									<span>Organic Fruits</span>
 								</div>
 							</div>
@@ -94,7 +94,7 @@ class GpGalleryTwoSection extends Component {
 						<div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="gallery-wrapper mb-60">
 								<div className="gallery-img">
-									<Link href="/gallery-details-1" as="/gallery-details-1" >
+									<Link href="#" as="#" >
 										<a>
 											<img src={require('../../../public/assets/img/gallery/gallery2/5.jpg')} alt='image'/>
 										</a>
@@ -107,7 +107,7 @@ class GpGalleryTwoSection extends Component {
 									</div>
 								</div>
 								<div className="gallery-text text-center">
-									<h3><Link href="/gallery-details-1" as="/gallery-details-1" ><a >Organic Carrots</a></Link></h3>
+									<h3><Link href="#" as="#" ><a >Organic Carrots</a></Link></h3>
 									<span>Fresh Food</span>
 								</div>
 							</div>
@@ -115,7 +115,7 @@ class GpGalleryTwoSection extends Component {
 						<div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="gallery-wrapper mb-60">
 								<div className="gallery-img">
-									<Link href="/gallery-details-1" as="/gallery-details-1" >
+									<Link href="#" as="#" >
 										<a>
 											<img src={require('../../../public/assets/img/gallery/gallery2/6.jpg')} alt='image'/>
 										</a>
@@ -128,7 +128,7 @@ class GpGalleryTwoSection extends Component {
 									</div>
 								</div>
 								<div className="gallery-text text-center">
-									<h3><Link href="/gallery-details-1" as="/gallery-details-1" ><a >Orange Seeds</a></Link></h3>
+									<h3><Link href="#" as="#" ><a >Orange Seeds</a></Link></h3>
 									<span>Vegetables</span>
 								</div>
 							</div>
@@ -136,7 +136,7 @@ class GpGalleryTwoSection extends Component {
 						<div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="gallery-wrapper mb-60">
 								<div className="gallery-img">
-									<Link href="/gallery-details-1" as="/gallery-details-1" >
+									<Link href="#" as="#" >
 										<a>
 											<img src={require('../../../public/assets/img/gallery/gallery2/7.jpg')} alt='image'/>
 										</a>
@@ -149,7 +149,7 @@ class GpGalleryTwoSection extends Component {
 									</div>
 								</div>
 								<div className="gallery-text text-center">
-									<h3><Link href="/gallery-details-1" as="/gallery-details-1" ><a >Fresh Orange</a></Link></h3>
+									<h3><Link href="#" as="#" ><a >Fresh Orange</a></Link></h3>
 									<span>Organic Fruits</span>
 								</div>
 							</div>
@@ -157,7 +157,7 @@ class GpGalleryTwoSection extends Component {
 						<div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="gallery-wrapper mb-60">
 								<div className="gallery-img">
-									<Link href="/gallery-details-1" as="/gallery-details-1" >
+									<Link href="#" as="#" >
 										<a>
 											<img src={require('../../../public/assets/img/gallery/gallery2/8.jpg')} alt='image'/>
 										</a>
@@ -170,7 +170,7 @@ class GpGalleryTwoSection extends Component {
 									</div>
 								</div>
 								<div className="gallery-text text-center">
-									<h3><Link href="/gallery-details-1" as="/gallery-details-1" ><a >Fresh Milks &amp; Meat</a></Link></h3>
+									<h3><Link href="#" as="#" ><a >Fresh Milks &amp; Meat</a></Link></h3>
 									<span>Organic Fruits</span>
 								</div>
 							</div>
@@ -178,7 +178,7 @@ class GpGalleryTwoSection extends Component {
 						<div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="gallery-wrapper mb-60">
 								<div className="gallery-img">
-									<Link href="/gallery-details-1" as="/gallery-details-1" >
+									<Link href="#" as="#" >
 										<a>
 											<img src={require('../../../public/assets/img/gallery/gallery2/9.jpg')} alt='image'/>
 										</a>
@@ -191,7 +191,7 @@ class GpGalleryTwoSection extends Component {
 									</div>
 								</div>
 								<div className="gallery-text text-center">
-									<h3><Link href="/gallery-details-1" as="/gallery-details-1" ><a >Orange Tomato</a></Link></h3>
+									<h3><Link href="#" as="#" ><a >Orange Tomato</a></Link></h3>
 									<span>Organic Fruits</span>
 								</div>
 							</div>
