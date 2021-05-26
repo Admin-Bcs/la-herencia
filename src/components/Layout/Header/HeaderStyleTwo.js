@@ -125,13 +125,13 @@ const Header2 = () => {
 															<a>Gallery Details 02</a>
 														</Link>
 													</li>
-													<li className={path === "/gallery-details-3" ? "active" : ""}>
-														<Link href="/gallery-details-3" as="/gallery-details-3">
+													<li className={path === "#" ? "active" : ""}>
+														<Link href="#" as="#">
 															<a>Gallery Details 03</a>
 														</Link>
 													</li>
-													<li className={path === "/gallery-details-4" ? "active" : ""}>
-														<Link href="/gallery-details-4" as="/gallery-details-4">
+													<li className={path === "#" ? "active" : ""}>
+														<Link href="#" as="#">
 															<a>Gallery Details 04</a>
 														</Link>
 													</li>

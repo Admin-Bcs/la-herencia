@@ -22,7 +22,7 @@ class GPGalleryThreeSection extends Component {
 												<i className="ti-plus"></i>
 											</a>
 										</div>
-										<h1><Link href="/gallery-details-3" as="/gallery-details-3" ><a >Organic Fruits</a></Link></h1>
+										<h1><Link href="#" as="#" ><a >Organic Fruits</a></Link></h1>
 										<span>Fresh Food</span>
 									</div>
 								</div>
@@ -40,7 +40,7 @@ class GPGalleryThreeSection extends Component {
 												<i className="ti-plus"></i>
 											</a>
 										</div>
-										<h1><Link href="/gallery-details-3" as="/gallery-details-3" ><a >Organic Fruits</a></Link></h1>
+										<h1><Link href="#" as="#" ><a >Organic Fruits</a></Link></h1>
 										<span>Fresh Food</span>
 									</div>
 								</div>
@@ -58,7 +58,7 @@ class GPGalleryThreeSection extends Component {
 												<i className="ti-plus"></i>
 											</a>
 										</div>
-										<h1><Link href="/gallery-details-3" as="/gallery-details-3" ><a >Organic Fruits</a></Link></h1>
+										<h1><Link href="#" as="#" ><a >Organic Fruits</a></Link></h1>
 										<span>Fresh Food</span>
 									</div>
 								</div>
@@ -76,7 +76,7 @@ class GPGalleryThreeSection extends Component {
 												<i className="ti-plus"></i>
 											</a>
 										</div>
-										<h1><Link href="/gallery-details-3" as="/gallery-details-3" ><a >Organic Fruits</a></Link></h1>
+										<h1><Link href="#" as="#" ><a >Organic Fruits</a></Link></h1>
 										<span>Fresh Food</span>
 									</div>
 								</div>
@@ -94,7 +94,7 @@ class GPGalleryThreeSection extends Component {
 												<i className="ti-plus"></i>
 											</a>
 										</div>
-										<h1><Link href="/gallery-details-3" as="/gallery-details-3" ><a >Organic Fruits</a></Link></h1>
+										<h1><Link href="#" as="#" ><a >Organic Fruits</a></Link></h1>
 										<span>Fresh Food</span>
 									</div>
 								</div>
