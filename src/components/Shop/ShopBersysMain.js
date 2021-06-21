@@ -168,7 +168,7 @@ class ShopBersysMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/bersys-default.png")} alt="product" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/garbanzosal.png")} alt="product" /></a>
                                         </Link>
 
                                         <div className="product-action">
