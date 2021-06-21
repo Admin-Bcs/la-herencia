@@ -130,7 +130,7 @@ class ShopHerenciaMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/laherencia-default.png")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/oregano.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -196,7 +196,7 @@ class ShopHerenciaMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/laherencia-default.png")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/salsasonadav2.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -358,7 +358,7 @@ class ShopHerenciaMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/laherencia-default.png")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/cilantro.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>

@@ -33,7 +33,7 @@ class ShopHerenciaMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/laherencia-default.png")} alt="product" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/semillalinaza.png")} alt="product" /></a>
                                         </Link>
 
                                         <div className="product-action">
@@ -159,7 +159,7 @@ class ShopHerenciaMain extends Component {
                                                 <a className="indice"> 08</a>
                                             </Link>
                                         </li>
-                                        
+
                                     </ul>
                                 </div>
                             </div>
