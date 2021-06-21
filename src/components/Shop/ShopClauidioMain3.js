@@ -132,7 +132,7 @@ class ShopClaudioMain3 extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/claudio.png")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/boldo.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -230,7 +230,7 @@ class ShopClaudioMain3 extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/claudio.png")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/teindio.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -295,7 +295,7 @@ class ShopClaudioMain3 extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/claudio.png")} alt="product" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/hierbabuena.png")} alt="product" /></a>
                                         </Link>
 
                                         <div className="product-action">
