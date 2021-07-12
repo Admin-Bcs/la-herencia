@@ -45,9 +45,10 @@ class H1FeaturesSection extends Component {
 									<p className="text-slider">
 
 										Providing a healthy option of Herbs, popularized in America, Mexico, and Latin America Countries!
-
+										<br />
+										<br />
 									</p>
-									<br />
+
 									<Link href="/ShopClaudio" as="/ShopClaudio" >
 										<a>View Products <i className="dripicons-arrow-thin-right"></i></a>
 									</Link>
@@ -64,6 +65,7 @@ class H1FeaturesSection extends Component {
 									<p className="text-slider">
 										Choose from Bersy’s Snacks’ diverse catalog of snacks to satisfy your tastebuds. Offering choices from marshmallows to chili-covered snacks!
 									</p>
+
 									<Link href="/ShopBersys" as="/ShopBersys" >
 										<a>View Products <i className="dripicons-arrow-thin-right"></i></a>
 									</Link>
