@@ -26,8 +26,7 @@ class H1FeaturesSection extends Component {
 									<br />
 									<h4>La Herencia Spices</h4>
 									<p className="text-slider">
-										Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt
-										ut labore et dolore magna aliqua.
+										La Herencia Spices provides a wide variety of spices packed and ready for use. Perfect for sauces, meats and adds a unique flavor to all recipes!
 
 									</p>
 									<Link href="/ShopHerencia" as="/ShopHerencia" >
@@ -44,9 +43,11 @@ class H1FeaturesSection extends Component {
 								<div className="features-text">
 									<h4>Claudio's Tea Herbs</h4>
 									<p className="text-slider">
-										Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt
-										ut labore et dolore magna aliqua.
+
+										Providing a healthy option of Herbs, popularized in America, Mexico, and Latin America Countries!
+
 									</p>
+									<br />
 									<Link href="/ShopClaudio" as="/ShopClaudio" >
 										<a>View Products <i className="dripicons-arrow-thin-right"></i></a>
 									</Link>
@@ -61,8 +62,7 @@ class H1FeaturesSection extends Component {
 								<div className="features-text">
 									<h4>Bersy's Snack</h4>
 									<p className="text-slider">
-										Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod te incididunt
-										ut labore et dolore magna aliqua.
+										Choose from Bersy’s Snacks’ diverse catalog of snacks to satisfy your tastebuds. Offering choices from marshmallows to chili-covered snacks!
 									</p>
 									<Link href="/ShopBersys" as="/ShopBersys" >
 										<a>View Products <i className="dripicons-arrow-thin-right"></i></a>
