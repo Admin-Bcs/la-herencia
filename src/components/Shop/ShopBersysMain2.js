@@ -53,13 +53,7 @@ class ShopBersysMain extends Component {
                                                 <a>Tarugos Enchilados</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-51101006107</span>
                                         </div>
@@ -85,13 +79,7 @@ class ShopBersysMain extends Component {
                                                 <a>Gummies</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-51101006121</span>
                                         </div>
@@ -117,13 +105,7 @@ class ShopBersysMain extends Component {
                                                 <a>Havas con Sal</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-51101006138</span>
                                         </div>
@@ -149,13 +131,7 @@ class ShopBersysMain extends Component {
                                                 <a>Havas Enchiladas</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-51101006145</span>
                                         </div>
@@ -183,13 +159,7 @@ class ShopBersysMain extends Component {
                                                 <a>Mango Con Chamoy</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-51101006152</span>
                                         </div>
@@ -215,13 +185,7 @@ class ShopBersysMain extends Component {
                                                 <a>Crispy Pumkin Seed</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-51101006825</span>
                                         </div>
@@ -247,13 +211,7 @@ class ShopBersysMain extends Component {
                                                 <a>Crispy Pumkin Seed W/Chili</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-51101006832</span>
                                         </div>
@@ -279,13 +237,7 @@ class ShopBersysMain extends Component {
                                                 <a>Almonds / Almendras</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-51101006522</span>
                                         </div>
@@ -313,13 +265,7 @@ class ShopBersysMain extends Component {
                                                 <a>Prunes / Ciruelas</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-51101006539</span>
                                         </div>
@@ -345,13 +291,7 @@ class ShopBersysMain extends Component {
                                                 <a>Pecans / Nueces</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-51101006546</span>
                                         </div>
@@ -377,13 +317,7 @@ class ShopBersysMain extends Component {
                                                 <a>Raisins / Pasas</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-51101006553</span>
                                         </div>

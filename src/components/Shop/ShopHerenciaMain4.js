@@ -48,13 +48,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Whole Cumin / Comino Entero</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-59423006256</span>
                                         </div>
@@ -80,13 +74,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Ground Cumin / Comino Molido</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-59423006263</span>
                                         </div>
@@ -112,13 +100,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Whole Oregano Mexicano</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-59423006287</span>
                                         </div>
@@ -144,13 +126,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Oregano Molido</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-59423006294</span>
                                         </div>
@@ -178,13 +154,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Whole Allspices / Pimienta Dulce</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-59423006300</span>
                                         </div>
@@ -210,13 +180,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Start Anise / Anis Estrellado</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-59423006317</span>
                                         </div>
@@ -242,13 +206,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Anise Seeds / Semilla de Anis</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-59423006324</span>
                                         </div>
@@ -274,13 +232,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Carbonato / Bakin Soda</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-59423006461</span>
                                         </div>
@@ -306,13 +258,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Whole Clove</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-59423006485</span>
                                         </div>
@@ -340,13 +286,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Whole Nutmeg</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-59423006492</span>
                                         </div>
@@ -372,13 +312,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Whole Black Pepper</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-59423006560</span>
                                         </div>
@@ -405,13 +339,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Ground Black Pepper</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-59423006577</span>
                                         </div>

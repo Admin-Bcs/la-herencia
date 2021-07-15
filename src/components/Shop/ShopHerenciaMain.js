@@ -49,13 +49,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Flor de Jamaica</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-59423006478</span>
                                         </div>
@@ -81,13 +75,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Hibiscus Flower</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-53135006900</span>
                                         </div>
@@ -113,13 +101,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Guajillo Chili Pods</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-53135006443</span>
                                         </div>
@@ -145,13 +127,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Arbol Chili Pods</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-53135006450</span>
                                         </div>
@@ -179,13 +155,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Ancho Chili Pods</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-53135006467</span>
                                         </div>
@@ -211,13 +181,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Pasill Chili Pods</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-53135006474</span>
                                         </div>
@@ -243,13 +207,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Puya Chili Pods</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-53135006481</span>
                                         </div>
@@ -275,13 +233,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Mulato Chili Pods</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-53135006498</span>
                                         </div>
@@ -307,13 +259,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Arbol Chili</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-53135006511</span>
                                         </div>
@@ -341,13 +287,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Ancho Chili</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-53135006528</span>
                                         </div>
@@ -373,13 +313,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Guajillo Chili Pods</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-53135006535</span>
                                         </div>
@@ -406,13 +340,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Pequin Chili</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-53135006542</span>
                                         </div>

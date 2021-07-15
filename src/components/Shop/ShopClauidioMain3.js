@@ -50,13 +50,7 @@ class ShopClaudioMain3 extends Component {
                                                 <a>Gordolobo</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-59423006386</span>
                                         </div>
@@ -82,13 +76,7 @@ class ShopClaudioMain3 extends Component {
                                                 <a>Tea para el Stress</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-59423006393</span>
                                         </div>
@@ -114,13 +102,7 @@ class ShopClaudioMain3 extends Component {
                                                 <a>Hoja de Tilo</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-59423006409</span>
                                         </div>
@@ -146,13 +128,7 @@ class ShopClaudioMain3 extends Component {
                                                 <a>Boldo Tea</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-59423006416</span>
                                         </div>
@@ -180,13 +156,7 @@ class ShopClaudioMain3 extends Component {
                                                 <a>Seven Blosoms / Azahares</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-59423006423</span>
                                         </div>
@@ -212,13 +182,7 @@ class ShopClaudioMain3 extends Component {
                                                 <a>Tomillo</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-594230</span>
                                         </div>
@@ -244,13 +208,7 @@ class ShopClaudioMain3 extends Component {
                                                 <a>Te de Indio</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-59423006447</span>
                                         </div>
@@ -276,13 +234,7 @@ class ShopClaudioMain3 extends Component {
                                                 <a>Te de Arnica</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-59423006454</span>
                                         </div>
@@ -310,13 +262,7 @@ class ShopClaudioMain3 extends Component {
                                                 <a>Spearmint / Hierbabuena</a>
                                             </Link>
                                         </h4>
-                                        <div className="pro-rating">
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                            <i><FontAwesomeIcon icon={['far', 'star']} /></i>
-                                        </div>
+                                         
                                         <div className="pro-price">
                                             <span>8-59423006096</span>
                                         </div>
