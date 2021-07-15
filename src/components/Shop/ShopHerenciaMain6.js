@@ -48,7 +48,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Ground Ginger</a>
                                             </Link>
                                         </h4>
-                                         
+
                                         <div className="pro-price">
                                             <span>8-51101006589</span>
                                         </div>
@@ -74,7 +74,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>M.S.G. (Accen)</a>
                                             </Link>
                                         </h4>
-                                         
+
                                         <div className="pro-price">
                                             <span>8-51101006596</span>
                                         </div>
@@ -100,7 +100,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Onion Powder</a>
                                             </Link>
                                         </h4>
-                                         
+
                                         <div className="pro-price">
                                             <span>8-51101006619</span>
                                         </div>
@@ -126,7 +126,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Oregano Leaves</a>
                                             </Link>
                                         </h4>
-                                         
+
                                         <div className="pro-price">
                                             <span>8-51101006626</span>
                                         </div>
@@ -154,7 +154,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Paprika</a>
                                             </Link>
                                         </h4>
-                                         
+
                                         <div className="pro-price">
                                             <span>8-51101006633</span>
                                         </div>
@@ -180,7 +180,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Seasoned Salt</a>
                                             </Link>
                                         </h4>
-                                         
+
                                         <div className="pro-price">
                                             <span>8-51101006640</span>
                                         </div>
@@ -206,7 +206,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Ground Turmeric</a>
                                             </Link>
                                         </h4>
-                                         
+
                                         <div className="pro-price">
                                             <span>8-51101006664</span>
                                         </div>
@@ -232,7 +232,7 @@ class ShopHerenciaMain extends Component {
                                                 <a>Ground Nutmeg</a>
                                             </Link>
                                         </h4>
-                                         
+
                                         <div className="pro-price">
                                             <span>8-53135006313</span>
                                         </div>
@@ -258,20 +258,20 @@ class ShopHerenciaMain extends Component {
                                                 <a>Basil Leaves</a>
                                             </Link>
                                         </h4>
-                                         
+
                                         <div className="pro-price">
                                             <span>8-5313006534</span>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-
+                            {/*ULTIMA LINEA */}
                             <div className="col-xl-3 col-lg-3 col-md-6">
                                 {/* <div className="product-wrapper text-center mb-30"> */}
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/laherencia-default.png")} alt="product" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/Bottles/italianseasoningS.png")} alt="product" /></a>
                                         </Link>
 
                                         <div className="product-action">
@@ -283,12 +283,12 @@ class ShopHerenciaMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Chicken Seasoning</a>
+                                                <a>Italian Seasoning</a>
                                             </Link>
                                         </h4>
-                                         
+
                                         <div className="pro-price">
-                                            <span>8-53135006337</span>
+                                            <span>8-53135006375</span>
                                         </div>
                                     </div>
                                 </div>
@@ -298,7 +298,7 @@ class ShopHerenciaMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/cilantro.png")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/oregano.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -309,23 +309,22 @@ class ShopHerenciaMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Cilantro</a>
+                                                <a>Ground Oregano</a>
                                             </Link>
                                         </h4>
-                                         
+
                                         <div className="pro-price">
-                                            <span>8-53135006344</span>
+                                            <span>8-53135006382</span>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-
                             <div className="col-xl-3 col-lg-3 col-md-6">
                                 {/* <div className="product-wrapper text-center mb-30"> */}
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/laherencia-default.png")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/Bottles/cayennepolvoS.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -336,12 +335,12 @@ class ShopHerenciaMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Grarlic & Herbs</a>
+                                                <a>Cayene Pepper</a>
                                             </Link>
                                         </h4>
-                                         
+
                                         <div className="pro-price">
-                                            <span>8-53135006368</span>
+                                            <span>8-53135006399</span>
                                         </div>
                                     </div>
                                 </div>
@@ -372,11 +371,6 @@ class ShopHerenciaMain extends Component {
                                         <li >
                                             <Link href="/ShopHerencia7" as="/ShopHerencia7">
                                                 <a> 07</a>
-                                            </Link>
-                                        </li>
-                                        <li >
-                                            <Link href="/ShopHerencia8" as="/ShopHerencia8">
-                                                <a> 08</a>
                                             </Link>
                                         </li>
                                         <li><Link href="/ShopHerencia7" as="/ShopHerencia7">

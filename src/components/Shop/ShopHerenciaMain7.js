@@ -33,7 +33,7 @@ class ShopHerenciaMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/Bottles/italianseasoningS.png")} alt="product" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/semillalinaza.png")} alt="product" /></a>
                                         </Link>
 
                                         <div className="product-action">
@@ -45,12 +45,12 @@ class ShopHerenciaMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Italian Seasoning</a>
+                                                <a>Flax Seed</a>
                                             </Link>
                                         </h4>
-                                         
+
                                         <div className="pro-price">
-                                            <span>8-53135006375</span>
+                                            <span>8-53135006054</span>
                                         </div>
                                     </div>
                                 </div>
@@ -60,7 +60,7 @@ class ShopHerenciaMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/oregano.png")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/laherencia-default.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -71,12 +71,12 @@ class ShopHerenciaMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Ground Oregano</a>
+                                                <a>Chamomille Flowers</a>
                                             </Link>
                                         </h4>
-                                         
+
                                         <div className="pro-price">
-                                            <span>8-53135006382</span>
+                                            <span>8-51101006978</span>
                                         </div>
                                     </div>
                                 </div>
@@ -86,7 +86,7 @@ class ShopHerenciaMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/Bottles/cayennepolvoS.png")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/laherencia-default.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -97,12 +97,12 @@ class ShopHerenciaMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Cayene Pepper</a>
+                                                <a>Meat Tenderizer</a>
                                             </Link>
                                         </h4>
-                                         
+
                                         <div className="pro-price">
-                                            <span>8-53135006399</span>
+                                            <span>8-59423006867</span>
                                         </div>
                                     </div>
                                 </div>
@@ -232,94 +232,13 @@ class ShopHerenciaMain extends Component {
                                                 <a>Thyme Leaves</a>
                                             </Link>
                                         </h4>
-                                         
+                                        
                                         <div className="pro-price">
                                             <span>8-51101006886</span>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div className="col-xl-3 col-lg-3 col-md-6">
-                                {/* <div className="product-wrapper text-center mb-30"> */}
-                                <div className="text-center mb-30">
-                                    <div className="product-img">
-                                        <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/laherencia-default.png")} alt="image" /></a>
-                                        </Link>
-                                        <div className="product-action">
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'heart']} /></i></a>
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'search']} /></i></a>
-                                        </div>
-                                    </div>
-                                    <div className="product-text">
-                                        <h4>
-                                            <Link href="#" as="#" >
-                                                <a>Jerk Seasoning</a>
-                                            </Link>
-                                        </h4>
-                                         
-                                        <div className="pro-price">
-                                            <span>8-53135006214</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div className="col-xl-3 col-lg-3 col-md-6">
-                                {/* <div className="product-wrapper text-center mb-30"> */}
-                                <div className="text-center mb-30">
-                                    <div className="product-img">
-                                        <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/laherencia-default.png")} alt="product" /></a>
-                                        </Link>
-
-                                        <div className="product-action">
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'heart']} /></i></a>
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'search']} /></i></a>
-                                        </div>
-                                    </div>
-                                    <div className="product-text">
-                                        <h4>
-                                            <Link href="#" as="#" >
-                                                <a>Oxtail Seasoning</a>
-                                            </Link>
-                                        </h4>
-                                         
-                                        <div className="pro-price">
-                                            <span>8-53135006221</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="col-xl-3 col-lg-3 col-md-6">
-                                {/* <div className="product-wrapper text-center mb-30"> */}
-                                <div className="text-center mb-30">
-                                    <div className="product-img">
-                                        <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/laherencia-default.png")} alt="image" /></a>
-                                        </Link>
-                                        <div className="product-action">
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'heart']} /></i></a>
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'search']} /></i></a>
-                                        </div>
-                                    </div>
-                                    <div className="product-text">
-                                        <h4>
-                                            <Link href="#" as="#" >
-                                                <a>Steak Seasoning</a>
-                                            </Link>
-                                        </h4>
-                                         
-                                        <div className="pro-price">
-                                            <span>8-53135006252</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
                             <div className="col-xl-3 col-lg-3 col-md-6">
                                 {/* <div className="product-wrapper text-center mb-30"> */}
                                 <div className="text-center mb-30">
@@ -373,16 +292,6 @@ class ShopHerenciaMain extends Component {
                                             <Link href="/ShopHerencia7" as="/ShopHerencia7">
                                                 <a className="indice"> 07</a>
                                             </Link>
-                                        </li>
-                                        <li >
-                                            <Link href="/ShopHerencia8" as="/ShopHerencia8">
-                                                <a> 08</a>
-                                            </Link>
-                                        </li>
-
-                                        <li><Link href="/ShopHerencia8" as="/ShopHerencia8">
-                                            <a><i className="fas fa-angle-double-right"></i></a>
-                                        </Link>
                                         </li>
                                     </ul>
                                 </div>

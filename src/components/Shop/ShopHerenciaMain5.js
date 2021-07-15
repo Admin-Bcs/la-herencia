@@ -218,23 +218,23 @@ class ShopHerenciaMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/laherencia-default.png")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/cilantro.png")} alt="image" /></a>
                                         </Link>
-                                        {/* <div className="product-action">
-										<a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
-										<a href="#"><i><FontAwesomeIcon icon={['fas', 'heart']} /></i></a>
-										<a href="#"><i><FontAwesomeIcon icon={['fas', 'search']} /></i></a>
-									</div> */}
+                                        <div className="product-action">
+                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
+                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'heart']} /></i></a>
+                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'search']} /></i></a>
+                                        </div>
                                     </div>
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Complete Seasoning</a>
+                                                <a>Cilantro</a>
                                             </Link>
                                         </h4>
-                                         
+
                                         <div className="pro-price">
-                                            <span>8-51101006527</span>
+                                            <span>8-53135006344</span>
                                         </div>
                                     </div>
                                 </div>
