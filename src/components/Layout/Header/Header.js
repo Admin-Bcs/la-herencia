@@ -85,7 +85,7 @@ const Header = () => {
 													</li>
 													<li className={path === "/ShopClaudio" ? "active" : ""}>
 														<Link href="/ShopClaudio" as="/ShopClaudio">
-															<a>Tea Herbs</a>
+															<a>Herbs</a>
 														</Link>
 													</li>
 												</ul>
