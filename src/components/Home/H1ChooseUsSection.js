@@ -17,12 +17,14 @@ class H1ChooseUsSection extends Component {
 						<div className="col-xl-5 col-lg-12">
 							<div className="choose-wrapper mb-30">
 								<div className="choose-section">
+									<br /> <br /> <br /> 
 									<h1>Why Choose Us</h1>
 									<p>
-										We guarantee customer satisfaction, the company keeps up to date with service as
-										they have their section clean, organized, and full of product. La Herencia knows
-										spices from how to grow them, to best storage options, and how to showcase the flavor
-										to connect with many different customers and expand their line of Spices, Teas, and Snacks!
+									We guarantee customer satisfaction, the company keeps up to date with service
+									 as they have their section clean, organized, and full of product. La Herencia 
+									 works to showcase the flavor of our products to connect with many different 
+									 customers to learn more and expand our line of <strong> Spices, Herbs, and Snacks!</ strong >
+
 
 									</p>
 								</div>

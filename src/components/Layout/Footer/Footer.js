@@ -80,7 +80,7 @@ const Footer = () => {
 							<div className="col-xl-12">
 								<div className="copyright text-center">
 									<p>
-										Copyright <FontAwesomeIcon icon={['far', 'copyright']} />2021 <a
+										Copyright @{/*  <FontAwesomeIcon icon={['far', 'copyright']} /> */}2021 <a
 											href="#">La Herencia Spices</a>. All
 										Rights Reserved.</p>
 								</div>

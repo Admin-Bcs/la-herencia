@@ -66,11 +66,11 @@ class ProductSection extends Component {
 								</Tab>
 							</TabList>
 
-							<TabPanel>
+							{/* <TabPanel>
 								<div className="row">
 									<div className="col-xl-3 col-lg-3 col-md-6">
 										<div className="text-center mb-30">
-											{/* <div className="product-wrapper text-center mb-30"> */}
+											{/* <div className="product-wrapper text-center mb-30"> 
 											<div className="product-img">
 												<Link href= "#" as= "#" >
 													<a><img src={require("../../../../public/assets/img/product/cola de caballo.png")} alt="product" /></a>
@@ -80,7 +80,7 @@ class ProductSection extends Component {
 													<a href= "#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
 													<a href= "#"><i><FontAwesomeIcon icon={['fas', 'heart']} /></i></a>
 													<a href= "#"><i><FontAwesomeIcon icon={['fas', 'search']} /></i></a>
-												</div> */}
+												</div> 
 											</div>
 											<div className="product-text">
 												<h4>
@@ -91,13 +91,13 @@ class ProductSection extends Component {
 												
 												{/* <div className="pro-price">
 													<span>$49.99</span>
-												</div> */}
+												</div> *
 											</div>
 										</div>
 									</div>
 									<div className="col-xl-3 col-lg-3 col-md-6">
 										<div className="text-center mb-30">
-											{/* <div className="product-wrapper text-center mb-30"> */}
+											{/* <div className="product-wrapper text-center mb-30"> 
 											<div className="product-img">
 												<Link href= "#" as= "#" >
 													<a><img src={require("../../../../public/assets/img/product/hoja de mango.png")} alt="image" /></a>
@@ -117,13 +117,13 @@ class ProductSection extends Component {
 												
 												{/* <div className="pro-price">
 													<span>$29.99</span>
-												</div> */}
+												</div> 
 											</div>
 										</div>
 									</div>
 									<div className="col-xl-3 col-lg-3 col-md-6">
 										<div className="text-center mb-30">
-											{/* <div className="product-wrapper text-center mb-30"> */}
+											{/* <div className="product-wrapper text-center mb-30"> 
 											<div className="product-img">
 												<Link href= "#" as= "#" >
 													<a><img src={require("../../../../public/assets/img/product/tilo.png")} alt="image" /></a>
@@ -143,13 +143,13 @@ class ProductSection extends Component {
 												
 												{/* <div className="pro-price">
 													<span>$25.99</span>
-												</div> */}
+												</div> 
 											</div>
 										</div>
 									</div>
 									<div className="col-xl-3 col-lg-3 col-md-6">
 										<div className="text-center mb-30">
-											{/* <div className="product-wrapper text-center mb-30"> */}
+											{/* <div className="product-wrapper text-center mb-30"> 
 											<div className="product-img">
 												<Link href= "#" as= "#" >
 													<a><img src={require("../../../../public/assets/img/product/teestres.png")} alt="image" /></a>
@@ -169,12 +169,12 @@ class ProductSection extends Component {
 												
 												{/* <div className="pro-price">
 													<span>$49.99</span>
-												</div> */}
+												</div> 
 											</div>
 										</div>
 									</div>
 								</div>
-							</TabPanel>
+							</TabPanel> */}
 							<TabPanel>
 								<div className="row">
 									<div className="col-xl-3 col-lg-3 col-md-6">
