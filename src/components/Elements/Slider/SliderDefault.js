@@ -92,7 +92,7 @@ const SliderDefault = () => {
                         </div>
                     </div>
                 </div>  */}
-                <div className="single-slider">
+                {/* <div className="single-slider">
                     <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/slider_5.png'})` }}>
                         <div className="container box-title">
                             <div className="row">
@@ -115,7 +115,7 @@ const SliderDefault = () => {
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
                 <div className="single-slider cont-h2">
                     <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/slide_2.png'})` }}>
                         <div className="container box-title">
@@ -216,7 +216,7 @@ const SliderDefault = () => {
                         </div>
                     </div>
                 </div>
-                <div className="single-slider">
+                {/* <div className="single-slider">
                     <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/slider_4.png'})` }}>
                         <div className="container box-title">
                             <div className="row">
@@ -239,7 +239,7 @@ const SliderDefault = () => {
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
 
                 <div className="single-slider">
                     <div className="slider-height  d-flex align-items-center" style={{ backgroundImage: `url(${'assets/img/slider/slider_6.png'})` }}>

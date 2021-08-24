@@ -19,7 +19,7 @@ class CPContactInfoSection extends Component {
 								</div>
 								<ul className="contact-link">
 									<li>La Herencia Spices </li>
-									<li>WAREHOUSE </li>
+									<li>Office </li>
 									<li> 422 11th St. Union City, NJ 07087</li>
 								</ul>
 							</div>
@@ -34,7 +34,7 @@ class CPContactInfoSection extends Component {
 								</div>
 								<ul className="contact-link">
 									<li>Tel: 201-223-6809 </li>
-									<li>Fax:</li>
+									<li>Fax: 201-223-6412</li>
 									<li>services@laherenciaspices.com</li>
 								</ul>
 							</div>

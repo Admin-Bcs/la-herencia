@@ -13,7 +13,7 @@ const Footer = () => {
 							<div className="col-xl-4 col-lg-4 col-md-6">
 								<div className="footer-wrapper mb-30">
 									<div >
-										<a href="index.html"><img
+										<a href="/"><img
 											className="retina-logo" src={require("../../../../public/assets/img/logo/laherencia/laherencia.png")} alt="" /></a>
 									</div>
 
@@ -39,7 +39,7 @@ const Footer = () => {
 							<div className="col-xl-4 col-lg-4 col-md-6">
 								<div className="footer-wrapper pl-45 mb-30">
 									<div className="footer-title">
-										<h4>La Herencia Spices <br /> WAREHOUSE</h4>
+										<h4>La Herencia Spices <br /> Office</h4>
 										<img src={require("../../../../public/assets/img/shape/f.png")} alt="shape" />
 									</div>
 									<ul className="fotter-link">
@@ -55,7 +55,7 @@ const Footer = () => {
 											<span>services@laherenciaspices.com</span>
 										</li>
 										<li>
-											<i><FontAwesomeIcon icon={['far', 'headphones']} /></i>
+											<i><FontAwesomeIcon icon={['far', 'phone']} /></i>
 											<span>201-223-6809</span>
 										</li>
 									</ul>

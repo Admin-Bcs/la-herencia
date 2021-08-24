@@ -6,7 +6,7 @@ import Product from "../Elements/Tab/ProductSection";
 import H1CtaSection from './H1CtaSection';
 import H1ChooseUsSection from "./H1ChooseUsSection";
 import H1GallerySection from "./H1GallerySection";
-import H1TeamSection from './H1TeamSection';
+
 import CounterDefault from '../Elements/Counter/CounterDefault';
 import ClientSlider from "../Elements/Testimonials/ClientDefault";
 import H1BlogSection from './H1BlogSection';
@@ -45,10 +45,6 @@ class HomeMain extends Component {
 				{/* gallery-area-start */}
 				<H1GallerySection />
 				{/* gallery-area-end */}
-
-				{/* team-area-start */}
-				{/* <H1TeamSection/> */}
-				{/* team-area-end */}
 
 				{/* counter-area-start */}
 				{/* <CounterDefault/> */}

@@ -17,13 +17,12 @@ class H1FeaturesSection extends Component {
 						</div>
 					</div>
 					<div className="row">
-						<div className="col-xl-4 col-lg-4 col-md-6">
+						<div className="col-xl-6 col-lg-6 col-md-6">
 							<div className="features-wrapper text-center mb-30">
 								<div className="features-img cat1">
 									<img src={require("../../../public/assets/img/logo/laherencia/laherencia.png")} alt="features" />
 								</div>
 								<div className="features-text ">
-									<br />
 									<h4>La Herencia Spices</h4>
 									<p className="text-slider">
 										La Herencia Spices provides a wide variety of spices packed and ready for use. Perfect for sauces, meats and adds a unique flavor to all recipes!
@@ -35,7 +34,7 @@ class H1FeaturesSection extends Component {
 								</div>
 							</div>
 						</div>
-						<div className="col-xl-4 col-lg-4 col-md-6">
+						{/* <div className="col-xl-4 col-lg-4 col-md-6">
 							<div className="features-wrapper text-center mb-30">
 								<div className="features-img">
 									<img src={require("../../../public/assets/img/logo/laherencia/Categoryimg/Claudio.png")} alt="features" />
@@ -54,8 +53,8 @@ class H1FeaturesSection extends Component {
 									</Link>
 								</div>
 							</div>
-						</div>
-						<div className="col-xl-4 col-lg-4 col-md-6">
+						</div> */}
+						<div className="col-xl-6 col-lg-6 col-md-6">
 							<div className="features-wrapper text-center mb-30">
 								<div className="features-img">
 									<img src={require("../../../public/assets/img/logo/laherencia/Categoryimg/Bersys.png")} alt="features" />

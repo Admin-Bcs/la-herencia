@@ -9,20 +9,20 @@ const Brand = () => {
 		arrows: false,
 		centerMode: false,
 		infinite: true,
-		slidesToShow: 3,
+		slidesToShow: 2,
 		slidesToScroll: 1,
 		responsive: [
 			{
 				breakpoint: 1024,
 				settings: {
-					slidesToShow: 3,
+					slidesToShow: 2,
 					slidesToScroll: 1,
 				}
 			},
 			{
 				breakpoint: 991,
 				settings: {
-					slidesToShow: 3,
+					slidesToShow: 2,
 					slidesToScroll: 1,
 				}
 			},
@@ -49,11 +49,11 @@ const Brand = () => {
 											<img src={require("../../../public/assets/img/logo/laherencia/laherencia.png")} alt="brand" />
 										</div>
 									</div>
-									<div className="col-xl-12">
+									{/* <div className="col-xl-12">
 										<div className="features-img">
 											<img src={require("../../../public/assets/img/logo/laherencia/Categoryimg/Claudio.png")} alt="brand" />
 										</div>
-									</div>
+									</div> */}
 									<div className="col-xl-12">
 										<div className="features-img">
 											<img src={require("../../../public/assets/img/logo/laherencia/Categoryimg/Bersys.png")} alt="brand" />
