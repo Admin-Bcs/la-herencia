@@ -48,7 +48,7 @@ const Footer = () => {
 											<span>
 												422 11th Street
 												Union City, NJ 07087
-</span>
+											</span>
 										</li>
 										<li>
 											<i><FontAwesomeIcon icon={['far', 'envelope-open']} /></i>
@@ -57,6 +57,11 @@ const Footer = () => {
 										<li>
 											<i><FontAwesomeIcon icon={['far', 'phone']} /></i>
 											<span>201-223-6809</span>
+										</li>
+										<li>
+											<i><FontAwesomeIcon icon={['far', 'phone']} /></i>
+											
+											<span> Claudio Martinez:  201-916-7311</span>
 										</li>
 									</ul>
 								</div>
@@ -80,7 +85,7 @@ const Footer = () => {
 							<div className="col-xl-12">
 								<div className="copyright text-center">
 									<p>
-										Copyright @{/*  <FontAwesomeIcon icon={['far', 'copyright']} /> */}2021 <a
+										Copyright  <FontAwesomeIcon icon={['far', 'copyright']} /> 2021 <a
 											href="#">La Herencia Spices</a>. All
 										Rights Reserved.</p>
 								</div>

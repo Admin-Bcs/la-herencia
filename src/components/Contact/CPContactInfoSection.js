@@ -21,6 +21,7 @@ class CPContactInfoSection extends Component {
 									<li>La Herencia Spices </li>
 									<li>Office </li>
 									<li> 422 11th St. Union City, NJ 07087</li>
+									<li>Claudio Martinez</li>
 								</ul>
 							</div>
 						</div>
@@ -36,6 +37,8 @@ class CPContactInfoSection extends Component {
 									<li>Tel: 201-223-6809 </li>
 									<li>Fax: 201-223-6412</li>
 									<li>services@laherenciaspices.com</li>
+									
+									<li>Tel: 201-916-7311</li>
 								</ul>
 							</div>
 						</div>
@@ -51,6 +54,7 @@ class CPContactInfoSection extends Component {
 									<li><Link href="https://www.facebook.com/ " target='_blank' ><a >• facebook <i className="fab fa-facebook" > </i></a></Link> <br /></li>
 									<li><Link href="https://www.instagram.com/laherenciaspices" target='_blank' ><a >• instagram <i className="fab fa-instagram" > </i></a></Link><br /></li>
 									<li><Link href="https://www.pinterest.com/Laherenciaspices/" target='_blank' ><a >• Pinterest <i className="fab fa-pinterest" > </i></a></Link></li>
+									<li><br /></li>
 								</ul>
 							</div>
 						</div>
