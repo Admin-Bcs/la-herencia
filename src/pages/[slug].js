@@ -2,7 +2,7 @@ import React from 'react';
 import { connect } from 'react-redux';
 import HeaderStyleTwo from "../components/Layout/Header/HeaderStyleTwo";
 
-import BlogDetailsMain from '../components/BlogDetails/BlogDetailsMain';
+
 import Footer from "../components/Layout/Footer/FooterStyleTwo";
 
 class Blog extends React.Component {
@@ -17,7 +17,6 @@ class Blog extends React.Component {
         return (
             <React.Fragment>
                 <HeaderStyleTwo />
-                <BlogDetailsMain />
                 <Footer />
             </React.Fragment>
         );
