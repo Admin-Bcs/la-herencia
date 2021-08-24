@@ -37,15 +37,15 @@ class ProductSection extends Component {
 						<div className="col-xl-12">
 							<TabList className="nav product-tab justify-content-center mb-75">
 
-								<Tab className="nav-item">
+								{/* <Tab className="nav-item">
 									<div className="product-tab-content text-center">
 										<div className="product-tab-img">
-											{/* <i className="flaticon-pumpkin"></i> */}
+											{/* <i className="flaticon-pumpkin"></i> 
 											<img src={ico1} alt="ico1" />
 										</div>
 										<h6> TEA HERBS</h6>
 									</div>
-								</Tab>
+								</Tab> */}
 								<Tab className="nav-item">
 									<div className="product-tab-content text-center">
 										<div className="product-tab-img">
