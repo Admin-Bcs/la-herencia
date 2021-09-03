@@ -418,6 +418,7 @@ class ShopHerenciaMain extends Component {
                         </div>
                     </div>
                 </div>
+                </div>
                 <Brand />
                 {/* brand-end */}
             </main>
