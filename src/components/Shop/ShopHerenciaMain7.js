@@ -50,7 +50,7 @@ class ShopHerenciaMain extends Component {
                                         </h4>
 
                                         <div className="pro-price">
-                                            <span>8-53135006054</span>
+                                            <span>Large: 8-53135006054</span>
                                         </div>
                                     </div>
                                 </div>
@@ -76,7 +76,7 @@ class ShopHerenciaMain extends Component {
                                         </h4>
 
                                         <div className="pro-price">
-                                            <span>8-51101006978</span>
+                                            <span>Large: 8-51101006978</span>
                                         </div>
                                     </div>
                                 </div>
@@ -102,7 +102,7 @@ class ShopHerenciaMain extends Component {
                                         </h4>
 
                                         <div className="pro-price">
-                                            <span>8-59423006867</span>
+                                            <span>Large: 8-59423006867</span>
                                         </div>
                                     </div>
                                 </div>
@@ -128,7 +128,10 @@ class ShopHerenciaMain extends Component {
                                         </h4>
 
                                         <div className="pro-price">
-                                            <span>8-53135006405</span>
+                                            <span>Small: 8-53135006405</span>
+                                            <span>Large: 8-53135006092</span>
+
+                                            <span></span>
                                         </div>
                                     </div>
                                 </div>
@@ -156,7 +159,9 @@ class ShopHerenciaMain extends Component {
                                         </h4>
 
                                         <div className="pro-price">
-                                            <span>8-53135006412</span>
+                                            <span>Small:  8-53135006412</span>
+                                            <span>Medium: 8-53135006245</span>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -182,7 +187,9 @@ class ShopHerenciaMain extends Component {
                                         </h4>
 
                                         <div className="pro-price">
-                                            <span>8-53135006429</span>
+                                            <span>Small:  8-53135006429</span>
+                                            <span>Medium: 8-51101006862</span>
+                                
                                         </div>
                                     </div>
                                 </div>
@@ -208,7 +215,10 @@ class ShopHerenciaMain extends Component {
                                         </h4>
 
                                         <div className="pro-price">
-                                            <span>8-51101006879</span>
+                                       
+                                            <span>Medium: 8-51101006879</span>
+                                            <span>Large:  8-59423006782</span>
+
                                         </div>
                                     </div>
                                 </div>
@@ -234,7 +244,9 @@ class ShopHerenciaMain extends Component {
                                         </h4>
 
                                         <div className="pro-price">
-                                            <span>8-51101006886</span>
+                                            <span>Small:  8-53135006436</span>
+                                            <span>Medium: 8-51101006886</span>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -260,12 +272,100 @@ class ShopHerenciaMain extends Component {
                                         </h4>
 
                                         <div className="pro-price">
-                                            <span>8-51101006992</span>
+                                            <span>Small: 8-51101006503</span>
+                                            <span>Large: 8-51101006992</span>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                        <div className="col-xl-3 col-lg-3 col-md-6">
+                                {/* <div className="product-wrapper text-center mb-30"> */}
+                                <div className="text-center mb-30">
+                                    <div className="product-img">
+                                        <Link href="#" as="#" >
+                                            <a><img src={require("../../../public/assets/img/product/bottle.jpg")} alt="image" /></a>
+                                        </Link>
+                                        <div className="product-action">
+                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
+                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'heart']} /></i></a>
+                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'search']} /></i></a>
+                                        </div>
+                                    </div>
+                                    <div className="product-text">
+                                        <h4>
+                                            <Link href="#" as="#" >
+                                                <a>Ground Blaca Pepper </a>
+                                            </Link>
+                                        </h4>
+
+                                        <div className="pro-price">
+                                            <span>Small:  8-51101006466</span>
+                                            <span>Medium: 8-51101006701</span>
+                                            <span>Large:  8-59423006829</span>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-xl-3 col-lg-3 col-md-6">
+                                {/* <div className="product-wrapper text-center mb-30"> */}
+                                <div className="text-center mb-30">
+                                    <div className="product-img">
+                                        <Link href="#" as="#" >
+                                            <a><img src={require("../../../public/assets/img/product/bottle.jpg")} alt="image" /></a>
+                                        </Link>
+                                        <div className="product-action">
+                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
+                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'heart']} /></i></a>
+                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'search']} /></i></a>
+                                        </div>
+                                    </div>
+                                    <div className="product-text">
+                                        <h4>
+                                            <Link href="#" as="#" >
+                                                <a>Whole Black Pepper </a>
+                                            </Link>
+                                        </h4>
+
+                                        <div className="pro-price">
+                                            <span>Small:  8-51101006473</span>
+                                            <span>Medium: 8-53135006306</span>
+                                            <span>Large:  8-59423006775</span>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-xl-3 col-lg-3 col-md-6">
+                                {/* <div className="product-wrapper text-center mb-30"> */}
+                                <div className="text-center mb-30">
+                                    <div className="product-img">
+                                        <Link href="#" as="#" >
+                                            <a><img src={require("../../../public/assets/img/product/bottle.jpg")} alt="image" /></a>
+                                        </Link>
+                                        <div className="product-action">
+                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
+                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'heart']} /></i></a>
+                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'search']} /></i></a>
+                                        </div>
+                                    </div>
+                                    <div className="product-text">
+                                        <h4>
+                                            <Link href="#" as="#" >
+                                                <a>Whole Cumin</a>
+                                            </Link>
+                                        </h4>
+
+                                        <div className="pro-price">
+                                       
+                                            <span>Small: 8-53135006351</span>
+                                            <span>Large: 8-59423006836</span>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         <div className="row">
                             <div className="col-12">
                                 <div className="basic-pagination basic-pagination-2 text-center mt-20">
