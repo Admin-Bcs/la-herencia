@@ -50,7 +50,7 @@ class ShopHerenciaMain extends Component {
                                         </h4>
 
                                         <div className="pro-price">
-                                            <span>Large: 8-53135006054</span>
+                                            <span>Large: 8-53135006054</span><br />
                                         </div>
                                     </div>
                                 </div>
@@ -76,7 +76,7 @@ class ShopHerenciaMain extends Component {
                                         </h4>
 
                                         <div className="pro-price">
-                                            <span>Large: 8-51101006978</span>
+                                            <span>Large: 8-51101006978</span><br />
                                         </div>
                                     </div>
                                 </div>
@@ -102,7 +102,7 @@ class ShopHerenciaMain extends Component {
                                         </h4>
 
                                         <div className="pro-price">
-                                            <span>Large: 8-59423006867</span>
+                                            <span>Large: 8-59423006867</span><br />
                                         </div>
                                     </div>
                                 </div>
@@ -128,10 +128,10 @@ class ShopHerenciaMain extends Component {
                                         </h4>
 
                                         <div className="pro-price">
-                                            <span>Small: 8-53135006405</span>
-                                            <span>Large: 8-53135006092</span>
+                                            <span>Small: 8-53135006405</span><br />
+                                            <span>Large: 8-53135006092</span><br />
 
-                                            <span></span>
+                                            <span></span><br />
                                         </div>
                                     </div>
                                 </div>
@@ -159,8 +159,8 @@ class ShopHerenciaMain extends Component {
                                         </h4>
 
                                         <div className="pro-price">
-                                            <span>Small:  8-53135006412</span>
-                                            <span>Medium: 8-53135006245</span>
+                                            <span>Small:  8-53135006412</span><br />
+                                            <span>Medium: 8-53135006245</span><br />
                                             
                                         </div>
                                     </div>
@@ -187,8 +187,8 @@ class ShopHerenciaMain extends Component {
                                         </h4>
 
                                         <div className="pro-price">
-                                            <span>Small:  8-53135006429</span>
-                                            <span>Medium: 8-51101006862</span>
+                                            <span>Small:  8-53135006429</span><br />
+                                            <span>Medium: 8-51101006862</span><br />
                                 
                                         </div>
                                     </div>
@@ -216,8 +216,8 @@ class ShopHerenciaMain extends Component {
 
                                         <div className="pro-price">
                                        
-                                            <span>Medium: 8-51101006879</span>
-                                            <span>Large:  8-59423006782</span>
+                                            <span>Medium: 8-51101006879</span><br />
+                                            <span>Large:  8-59423006782</span><br />
 
                                         </div>
                                     </div>
@@ -244,8 +244,8 @@ class ShopHerenciaMain extends Component {
                                         </h4>
 
                                         <div className="pro-price">
-                                            <span>Small:  8-53135006436</span>
-                                            <span>Medium: 8-51101006886</span>
+                                            <span>Small:  8-53135006436</span><br />
+                                            <span>Medium: 8-51101006886</span><br />
                                             
                                         </div>
                                     </div>
@@ -272,13 +272,13 @@ class ShopHerenciaMain extends Component {
                                         </h4>
 
                                         <div className="pro-price">
-                                            <span>Small: 8-51101006503</span>
-                                            <span>Large: 8-51101006992</span>
+                                            <span>Small: 8-51101006503</span><br />
+                                            <span>Large: 8-51101006992</span><br />
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        
                         <div className="col-xl-3 col-lg-3 col-md-6">
                                 {/* <div className="product-wrapper text-center mb-30"> */}
                                 <div className="text-center mb-30">
@@ -300,9 +300,9 @@ class ShopHerenciaMain extends Component {
                                         </h4>
 
                                         <div className="pro-price">
-                                            <span>Small:  8-51101006466</span>
-                                            <span>Medium: 8-51101006701</span>
-                                            <span>Large:  8-59423006829</span>
+                                            <span>Small:  8-51101006466</span><br />
+                                            <span>Medium: 8-51101006701</span><br />
+                                            <span>Large:  8-59423006829</span><br />
 
                                         </div>
                                     </div>
@@ -329,9 +329,9 @@ class ShopHerenciaMain extends Component {
                                         </h4>
 
                                         <div className="pro-price">
-                                            <span>Small:  8-51101006473</span>
-                                            <span>Medium: 8-53135006306</span>
-                                            <span>Large:  8-59423006775</span>
+                                            <span>Small:  8-51101006473</span><br />
+                                            <span>Medium: 8-53135006306</span><br />
+                                            <span>Large:  8-59423006775</span><br />
 
                                         </div>
                                     </div>
@@ -359,12 +359,13 @@ class ShopHerenciaMain extends Component {
 
                                         <div className="pro-price">
                                        
-                                            <span>Small: 8-53135006351</span>
-                                            <span>Large: 8-59423006836</span>
+                                            <span>Small: 8-53135006351</span><br />
+                                            <span>Large: 8-59423006836</span><br />
 
                                         </div>
                                     </div>
                                 </div>
+                            </div>
                             </div>
                         <div className="row">
                             <div className="col-12">
