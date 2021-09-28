@@ -33,7 +33,7 @@ class ShopHerenciaMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/bottle.jpg")} alt="product" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/Bottles/ajonjoli.png")} alt="product" /></a>
                                         </Link>
 
                                         <div className="product-action">
@@ -112,7 +112,7 @@ class ShopHerenciaMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/bottle.jpg")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/Bottles/perejil.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -142,7 +142,7 @@ class ShopHerenciaMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/bottle.jpg")} alt="product" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/Bottles/sasonador.png")} alt="product" /></a>
                                         </Link>
 
                                         <div className="product-action">
@@ -161,7 +161,7 @@ class ShopHerenciaMain extends Component {
                                         <div className="pro-price">
                                             <span>Small:  8-53135006412</span><br />
                                             <span>Medium: 8-53135006245</span><br />
-                                            
+
                                         </div>
                                     </div>
                                 </div>
@@ -189,7 +189,7 @@ class ShopHerenciaMain extends Component {
                                         <div className="pro-price">
                                             <span>Small:  8-53135006429</span><br />
                                             <span>Medium: 8-51101006862</span><br />
-                                
+
                                         </div>
                                     </div>
                                 </div>
@@ -199,7 +199,7 @@ class ShopHerenciaMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/bottle.jpg")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/Bottles/ajonjoli.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -215,7 +215,7 @@ class ShopHerenciaMain extends Component {
                                         </h4>
 
                                         <div className="pro-price">
-                                       
+
                                             <span>Medium: 8-51101006879</span><br />
                                             <span>Large:  8-59423006782</span><br />
 
@@ -246,7 +246,7 @@ class ShopHerenciaMain extends Component {
                                         <div className="pro-price">
                                             <span>Small:  8-53135006436</span><br />
                                             <span>Medium: 8-51101006886</span><br />
-                                            
+
                                         </div>
                                     </div>
                                 </div>
@@ -278,13 +278,13 @@ class ShopHerenciaMain extends Component {
                                     </div>
                                 </div>
                             </div>
-                        
-                        <div className="col-xl-3 col-lg-3 col-md-6">
+
+                            <div className="col-xl-3 col-lg-3 col-md-6">
                                 {/* <div className="product-wrapper text-center mb-30"> */}
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/bottle.jpg")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/Bottles/pimienta.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -295,7 +295,7 @@ class ShopHerenciaMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Ground Blaca Pepper </a>
+                                                <a>Ground Black Pepper </a>
                                             </Link>
                                         </h4>
 
@@ -342,7 +342,7 @@ class ShopHerenciaMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/bottle.jpg")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/Bottles/comino.png")} alt="image" /></a>
                                         </Link>
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
@@ -358,7 +358,7 @@ class ShopHerenciaMain extends Component {
                                         </h4>
 
                                         <div className="pro-price">
-                                       
+
                                             <span>Small: 8-53135006351</span><br />
                                             <span>Large: 8-59423006836</span><br />
 
@@ -366,7 +366,7 @@ class ShopHerenciaMain extends Component {
                                     </div>
                                 </div>
                             </div>
-                            </div>
+                        </div>
                         <div className="row">
                             <div className="col-12">
                                 <div className="basic-pagination basic-pagination-2 text-center mt-20">
