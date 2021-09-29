@@ -55,8 +55,8 @@ class ShopHerenciaMain extends Component {
                                     </div>
                                 </div>
                             </div>
-                            <div className="col-xl-3 col-lg-3 col-md-6">
-                                {/* <div className="product-wrapper text-center mb-30"> */}
+                            {/* <div className="col-xl-3 col-lg-3 col-md-6">
+                                {/* <div className="product-wrapper text-center mb-30"> 
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
@@ -82,7 +82,7 @@ class ShopHerenciaMain extends Component {
                                 </div>
                             </div>
                             <div className="col-xl-3 col-lg-3 col-md-6">
-                                {/* <div className="product-wrapper text-center mb-30"> */}
+                                {/* <div className="product-wrapper text-center mb-30"> 
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
@@ -106,7 +106,7 @@ class ShopHerenciaMain extends Component {
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
                             <div className="col-xl-3 col-lg-3 col-md-6">
                                 {/* <div className="product-wrapper text-center mb-30"> */}
                                 <div className="text-center mb-30">
@@ -308,8 +308,8 @@ class ShopHerenciaMain extends Component {
                                     </div>
                                 </div>
                             </div>
-                            <div className="col-xl-3 col-lg-3 col-md-6">
-                                {/* <div className="product-wrapper text-center mb-30"> */}
+                            {/* <div className="col-xl-3 col-lg-3 col-md-6">
+                                {/* <div className="product-wrapper text-center mb-30"> 
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
@@ -336,7 +336,7 @@ class ShopHerenciaMain extends Component {
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
                             <div className="col-xl-3 col-lg-3 col-md-6">
                                 {/* <div className="product-wrapper text-center mb-30"> */}
                                 <div className="text-center mb-30">
