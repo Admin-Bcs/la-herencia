@@ -91,7 +91,7 @@ const Header = () => {
 												</ul>
 
 											</li>
-											<li className={path === "" ? "active" : ""}>
+											{/* <li className={path === "" ? "active" : ""}>
 												<Link href="" as="" ><a>OUR BRANDS</a></Link>
 												<ul className="sub-menu text-left">
 													<li className={path === "/BrandHerencia" ? "active" : ""}>
@@ -108,14 +108,14 @@ const Header = () => {
 														<Link href="/BrandClaudios" as="/BrandClaudios">
 															<a>Claudio’s Tea Herb</a>
 														</Link>
-													</li> */}
+													</li> 
 
 												</ul>
 											</li>
 											<li className={path === "/blog" ? "active" : ""}>
 												<Link href="/blog" as="/blog" ><a>CLIENT</a></Link>
 											</li>
-
+ */}
 											<li className={path === "/contact" ? "active" : ""}>
 												<Link href="/contact" as="/contact">
 													<a>CONTACT</a>

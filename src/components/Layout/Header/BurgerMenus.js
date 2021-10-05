@@ -98,7 +98,7 @@ export default function BurgerMenus({ setMenuOpen, menuOpen }) {
 							</li>
 
 						</li>
-						<li className={path === "" ? "active" : ""}>
+						{/* <li className={path === "" ? "active" : ""}>
 							<li className={brands ? "has-droupdown active" : "has-droupdown"}>
 								<a onClick={() => { toggleMenu('brands') }}>OUR BRANDS</a>
 								<ul className={brands ? "sub-menu active" : "sub-menu"}>
@@ -116,15 +116,15 @@ export default function BurgerMenus({ setMenuOpen, menuOpen }) {
 										<Link href="/BrandClaudios" as="/BrandClaudios">
 											<a>Claudio’s Tea Herb</a>
 										</Link>
-									</li> */}
+									</li> 
 								</ul>
 							</li>
 						</li>
 						<li className={path === "/blog" ? "active" : ""}>
 							<Link href="/blog" as="/blog" ><a>CLIENT</a></Link>
-						</li>
+						</li> */}
 
-						<li className={path === "/contact" ? "active" : ""}>
+						<li >
 							<Link href="/contact" as="/contact"><a>CONTACT</a>
 							</Link>
 						</li>
