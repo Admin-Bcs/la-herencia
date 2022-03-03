@@ -33,7 +33,7 @@ class ShopHerenciaMain extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/laherencia-default.png")} alt="product" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/Bottles/jegibre-molido.jpg")} alt="product" /></a>
                                         </Link>
 
                                         <div className="product-action">
@@ -45,13 +45,13 @@ class ShopHerenciaMain extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Adobo</a>
+                                                <a>Ground Ginger</a>
                                             </Link>
                                         </h4>
 
                                         <div className="pro-price">
-                                            <span>Small: 8-59423006404</span><br />
-                                            <span>Medium: 8-53135006146</span><br />
+                                            <span>Small:  8-51101006589</span><br />
+                                            <span>Medium: 8-51101006787</span><br />
                                         </div>
                                     </div>
                                 </div>
