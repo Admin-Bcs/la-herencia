@@ -28,34 +28,7 @@ class ShopHerenciaMain extends Component {
 						</div>
 					</div> */}
                         <div className="row">
-                            <div className="col-xl-3 col-lg-3 col-md-6">
-                                {/* <div className="product-wrapper text-center mb-30"> */}
-                                <div className="text-center mb-30">
-                                    <div className="product-img">
-                                        <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/Bottles/jegibre-molido.jpg")} alt="product" /></a>
-                                        </Link>
-
-                                        <div className="product-action">
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'heart']} /></i></a>
-                                            <a href="#"><i><FontAwesomeIcon icon={['fas', 'search']} /></i></a>
-                                        </div>
-                                    </div>
-                                    <div className="product-text">
-                                        <h4>
-                                            <Link href="#" as="#" >
-                                                <a>Ground Ginger</a>
-                                            </Link>
-                                        </h4>
-
-                                        <div className="pro-price">
-                                            <span>Small:  8-51101006589</span><br />
-                                            <span>Medium: 8-51101006787</span><br />
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                           
                             <div className="col-xl-3 col-lg-3 col-md-6">
                                 {/* <div className="product-wrapper text-center mb-30"> */}
                                 <div className="text-center mb-30">

@@ -298,8 +298,9 @@ class ShopHerenciaMain2 extends Component {
                                 <div className="text-center mb-30">
                                     <div className="product-img">
                                         <Link href="#" as="#" >
-                                            <a><img src={require("../../../public/assets/img/product/flordejamaica.png")} alt="image" /></a>
+                                            <a><img src={require("../../../public/assets/img/product/laherencia-default.png")} alt="product" /></a>
                                         </Link>
+
                                         <div className="product-action">
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'shopping-cart']} /></i></a>
                                             <a href="#"><i><FontAwesomeIcon icon={['fas', 'heart']} /></i></a>
@@ -309,12 +310,13 @@ class ShopHerenciaMain2 extends Component {
                                     <div className="product-text">
                                         <h4>
                                             <Link href="#" as="#" >
-                                                <a>Hibiscus Flowers</a>
+                                                <a>Adobo</a>
                                             </Link>
                                         </h4>
-                                         
+
                                         <div className="pro-price">
-                                            <span>8-53135006733</span>
+                                            <span>Small: 8-59423006404</span><br />
+                                            <span>Medium: 8-53135006146</span><br />
                                         </div>
                                     </div>
                                 </div>
