@@ -19,7 +19,7 @@ const Footer = () => {
 
 									<div className="footer-icon color-ico" >
 										<li>
-											<a href="#"><i><FontAwesomeIcon icon={['fab', 'facebook-f']} /></i></a>
+											<a href="https://www.facebook.com/La-Herencia-Spices-Corp-104325785520738"><i><FontAwesomeIcon icon={['fab', 'facebook-f']} /></i></a>
 											<span> /laherenciaspices </span>
 										</li>
 										<li>
@@ -85,7 +85,7 @@ const Footer = () => {
 							<div className="col-xl-12">
 								<div className="copyright text-center">
 									<p>
-										Copyright  <FontAwesomeIcon icon={['far', 'copyright']} /> 2021 <a
+										Copyright  <FontAwesomeIcon icon={['far', 'copyright']} /> 2022 <a
 											href="#">La Herencia Spices</a>. All
 										Rights Reserved.</p>
 								</div>

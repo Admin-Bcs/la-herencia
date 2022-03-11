@@ -77,7 +77,7 @@ class SPShopDetailsSection extends Component {
 									to
 									using 'Content here, content here', making it look like readable English.</p>
 								<div className="product-social mb-30">
-									<a href="#"><FontAwesomeIcon icon={['fab', 'facebook-f']}/></a>
+									<a href="https://www.facebook.com/La-Herencia-Spices-Corp-104325785520738"><FontAwesomeIcon icon={['fab', 'facebook-f']}/></a>
 									<a href="https://www.instagram.com/laherenciaspices"><FontAwesomeIcon icon={['fab', 'instagram']}/></a>
 									<a href="https://www.pinterest.com/Laherenciaspices/"><FontAwesomeIcon icon={['fab', 'pinterest']}/></a>
 									

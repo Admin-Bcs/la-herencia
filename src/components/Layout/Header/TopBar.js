@@ -23,7 +23,7 @@ const TopHeader = () => {
                     </div>
                     <div className="col-xl-5 col-lg-5 col-md-3">
                         <div className="header-icon text-md-right color-ico ">
-                            <a href="#"><i><FontAwesomeIcon icon={['fab', 'facebook-f']} /></i></a>
+                            <a href="https://www.facebook.com/La-Herencia-Spices-Corp-104325785520738"><i><FontAwesomeIcon icon={['fab', 'facebook-f']} /></i></a>
                             <a href="https://www.instagram.com/laherenciaspices"><i><FontAwesomeIcon icon={['fab', 'instagram']} /></i></a>
                             <a href="https://www.pinterest.com/Laherenciaspices/"><i><FontAwesomeIcon icon={['fab', 'pinterest']} /></i></a>
 

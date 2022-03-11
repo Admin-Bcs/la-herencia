@@ -51,7 +51,7 @@ class CPContactInfoSection extends Component {
 									</div>
 								</div>
 								<ul className="contact-link">
-									<li><Link href="https://www.facebook.com/ " target='_blank' ><a >• facebook <i className="fab fa-facebook" > </i></a></Link> <br /></li>
+									<li><Link href="https://www.facebook.com/La-Herencia-Spices-Corp-104325785520738 " target='_blank' ><a >• facebook <i className="fab fa-facebook" > </i></a></Link> <br /></li>
 									<li><Link href="https://www.instagram.com/laherenciaspices" target='_blank' ><a >• instagram <i className="fab fa-instagram" > </i></a></Link><br /></li>
 									<li><Link href="https://www.pinterest.com/Laherenciaspices/" target='_blank' ><a >• Pinterest <i className="fab fa-pinterest" > </i></a></Link></li>
 									<li><br /></li>
